@@ -1,0 +1,1446 @@
+angl 0.244 anti 0.667 beau 0.602 blur 0.053 cls_ 0.492 expr 0.555 gend 0.010 glas 0.283 pts4 0.039 pts5 0.461 pts6 0.360 race 0.230 regu 0.013 | anti 0.001 blur 0.883 cls 0.922 expr 0.907 gend 0.989 glas 0.951 race 0.984 
+total_p 510 total_n 1610
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.032687  clean: 0.967313  tpr: 0.000621  far: 0.000100
+cnt_p:   1  cnt_n:  1038  label: 0  blur: 0.063125  clean: 0.936875  tpr: 0.644720  far: 0.001961
+cnt_p:   2  cnt_n:  1098  label: 0  blur: 0.067832  clean: 0.932168  tpr: 0.681988  far: 0.005000
+cnt_p:   5  cnt_n:  1137  label: 0  blur: 0.074936  clean: 0.925064  tpr: 0.706211  far: 0.010000
+cnt_p:  25  cnt_n:  1398  label: 0  blur: 0.185792  clean: 0.814208  tpr: 0.868323  far: 0.050000
+cnt_p:  51  cnt_n:  1473  label: 0  blur: 0.293216  clean: 0.706784  tpr: 0.914907  far: 0.100000
+cnt_p: 102  cnt_n:  1546  label: 0  blur: 0.492496  clean: 0.507504  tpr: 0.960248  far: 0.200000
+cnt_p: 153  cnt_n:  1565  label: 0  blur: 0.592294  clean: 0.407706  tpr: 0.972050  far: 0.300000
+total_p 188 total_n 812
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.998562  noface: 0.001438  tpr(cnt_p/total_p): 0.005319  far(cnt_n/total_n): 0.000100
+cnt_p: 138  cnt_n:     1  label: 0  face: 0.075952  noface: 0.924048  tpr(cnt_p/total_p): 0.734043  far(cnt_n/total_n): 0.001232
+cnt_p: 159  cnt_n:     4  label: 0  face: 0.010376  noface: 0.989624  tpr(cnt_p/total_p): 0.845745  far(cnt_n/total_n): 0.005000
+cnt_p: 162  cnt_n:     8  label: 0  face: 0.006943  noface: 0.993057  tpr(cnt_p/total_p): 0.861702  far(cnt_n/total_n): 0.010000
+cnt_p: 171  cnt_n:    24  label: 0  face: 0.000801  noface: 0.999199  tpr(cnt_p/total_p): 0.909574  far(cnt_n/total_n): 0.030000
+cnt_p: 173  cnt_n:    40  label: 0  face: 0.000493  noface: 0.999507  tpr(cnt_p/total_p): 0.920213  far(cnt_n/total_n): 0.050000
+cnt_p: 180  cnt_n:    81  label: 0  face: 0.000105  noface: 0.999895  tpr(cnt_p/total_p): 0.957447  far(cnt_n/total_n): 0.100000
+cnt_p: 184  cnt_n:   162  label: 0  face: 0.000018  noface: 0.999982  tpr(cnt_p/total_p): 0.978723  far(cnt_n/total_n): 0.200000
+cnt_p: 185  cnt_n:   243  label: 0  face: 0.000004  noface: 0.999996  tpr(cnt_p/total_p): 0.984043  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   330  label: 1 live: 0.000071  anti: 0.999929  tpr: 0.246269  far: 0.001515
+cnt_p:   3  cnt_n:   745  label: 1 live: 0.004899  anti: 0.995101  tpr: 0.555970  far: 0.005000
+cnt_p:   6  cnt_n:   972  label: 1 live: 0.048936  anti: 0.951064  tpr: 0.725373  far: 0.010000
+cnt_p:  33  cnt_n:  1199  label: 1 live: 0.626115  anti: 0.373885  tpr: 0.894776  far: 0.050000
+cnt_p:  66  cnt_n:  1283  label: 1 live: 0.944653  anti: 0.055347  tpr: 0.957463  far: 0.100000
+cnt_p: 132  cnt_n:  1328  label: 1 live: 0.990203  anti: 0.009797  tpr: 0.991045  far: 0.200000
+cnt_p: 198  cnt_n:  1334  label: 1 live: 0.997114  anti: 0.002886  tpr: 0.995522  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   605  label: 1  phone: 0.000326 not_phone: 0.999674  tpr: 0.458333  far: 0.001471
+cnt_p:   3  cnt_n:   768  label: 1  phone: 0.001126 not_phone: 0.998874  tpr: 0.581818  far: 0.005000
+cnt_p:   6  cnt_n:   889  label: 1  phone: 0.002637 not_phone: 0.997363  tpr: 0.673485  far: 0.010000
+cnt_p:  34  cnt_n:  1171  label: 1  phone: 0.037031 not_phone: 0.962969  tpr: 0.887121  far: 0.050000
+cnt_p:  68  cnt_n:  1262  label: 1  phone: 0.221319 not_phone: 0.778681  tpr: 0.956061  far: 0.100000
+cnt_p: 136  cnt_n:  1306  label: 1  phone: 0.787690 not_phone: 0.212310  tpr: 0.989394  far: 0.200000
+cnt_p: 204  cnt_n:  1312  label: 1  phone: 0.964415 not_phone: 0.035585  tpr: 0.993939  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   326  label: 1  paper: 0.000002  not_paper: 0.999998  tpr: 0.243284  far: 0.001515
+cnt_p:   3  cnt_n:   889  label: 1  paper: 0.000475  not_paper: 0.999525  tpr: 0.663433  far: 0.005000
+cnt_p:   6  cnt_n:  1000  label: 1  paper: 0.001210  not_paper: 0.998790  tpr: 0.746269  far: 0.010000
+cnt_p:  33  cnt_n:  1227  label: 1  paper: 0.025500  not_paper: 0.974500  tpr: 0.915672  far: 0.050000
+cnt_p:  66  cnt_n:  1277  label: 1  paper: 0.141836  not_paper: 0.858164  tpr: 0.952985  far: 0.100000
+cnt_p: 132  cnt_n:  1318  label: 1  paper: 0.594117  not_paper: 0.405883  tpr: 0.983582  far: 0.200000
+cnt_p: 198  cnt_n:  1328  label: 1  paper: 0.862446  not_paper: 0.137554  tpr: 0.991045  far: 0.300000
+[train] time:2020-03-15 23:43:05 0: E0.10[000] lr 1.3e-05f tota 3.057 age 0.193 angl 0.525 anti 0.624 beau 0.045 blur 0.374 cls_ 0.001 expr 0.013 gend 0.271 glas 0.009 pts4 0.196 pts5 0.222 pts6 0.260 race 0.012 regu 0.001 | anti 0.855 blur 0.967 cls 1.000 expr 0.986 gend 0.958 glas 0.995 race 0.953 
+[train] time:2020-03-15 23:45:54 0: E0.10[005] lr 1.3e-05f tota 3.159 age 0.199 angl 0.519 anti 0.615 beau 0.043 blur 0.415 cls_ 0.009 expr 0.023 gend 0.248 glas 0.010 pts4 0.209 pts5 0.280 pts6 0.274 race 0.009 regu 0.001 | anti 0.870 blur 0.943 cls 1.000 expr 0.981 gend 0.962 glas 0.995 race 0.962 
+[train] time:2020-03-15 23:48:45 0: E0.10[010] lr 1.3e-05f tota 3.027 age 0.211 angl 0.464 anti 0.607 beau 0.051 blur 0.371 cls_ 0.000 expr 0.022 gend 0.233 glas 0.019 pts4 0.173 pts5 0.290 pts6 0.271 race 0.010 regu 0.001 | anti 0.870 blur 0.972 cls 1.000 expr 0.972 gend 0.981 glas 0.991 race 0.967 
+[train] time:2020-03-15 23:51:35 0: E0.10[015] lr 1.3e-05f tota 3.167 age 0.212 angl 0.526 anti 0.572 beau 0.043 blur 0.361 cls_ 0.002 expr 0.038 gend 0.242 glas 0.017 pts4 0.202 pts5 0.337 pts6 0.316 race 0.014 regu 0.001 | anti 0.920 blur 0.981 cls 1.000 expr 0.948 gend 0.986 glas 0.991 race 0.958 
+[train] time:2020-03-15 23:54:25 0: E0.10[020] lr 1.3e-05f tota 3.184 age 0.224 angl 0.521 anti 0.623 beau 0.043 blur 0.391 cls_ 0.001 expr 0.016 gend 0.245 glas 0.019 pts4 0.248 pts5 0.255 pts6 0.278 race 0.010 regu 0.001 | anti 0.860 blur 0.958 cls 1.000 expr 0.981 gend 0.981 glas 0.991 race 0.958 
+[train] time:2020-03-15 23:57:13 0: E0.10[025] lr 1.3e-05f tota 2.909 age 0.205 angl 0.450 anti 0.571 beau 0.049 blur 0.391 cls_ 0.001 expr 0.017 gend 0.242 glas 0.008 pts4 0.164 pts5 0.252 pts6 0.262 race 0.010 regu 0.001 | anti 0.910 blur 0.967 cls 1.000 expr 0.972 gend 0.976 glas 0.995 race 0.972 
+[train] time:2020-03-15 23:59:58 0: E0.10[030] lr 1.3e-05f tota 3.167 age 0.183 angl 0.470 anti 0.606 beau 0.050 blur 0.389 cls_ 0.001 expr 0.024 gend 0.262 glas 0.013 pts4 0.410 pts5 0.191 pts6 0.257 race 0.006 regu 0.001 | anti 0.875 blur 0.967 cls 1.000 expr 0.958 gend 0.958 glas 0.995 race 0.981 
+[train] time:2020-03-16 00:02:45 0: E0.10[035] lr 1.3e-05f tota 3.292 age 0.185 angl 0.548 anti 0.567 beau 0.047 blur 0.363 cls_ 0.001 expr 0.023 gend 0.264 glas 0.009 pts4 0.330 pts5 0.359 pts6 0.305 race 0.009 regu 0.001 | anti 0.935 blur 0.976 cls 1.000 expr 0.958 gend 0.948 glas 0.995 race 0.976 
+[train] time:2020-03-16 00:04:57 0: E0.10[039] lr 1.3e-05f tota 3.150 age 0.203 angl 0.500 anti 0.592 beau 0.048 blur 0.390 cls_ 0.005 expr 0.022 gend 0.247 glas 0.012 pts4 0.287 pts5 0.264 pts6 0.272 race 0.010 regu 0.001 | anti 0.895 blur 0.961 cls 0.999 expr 0.971 gend 0.973 glas 0.996 race 0.966 
+angl 0.234 anti 0.726 beau 0.595 blur 0.052 cls_ 0.521 expr 0.483 gend 0.011 glas 0.309 pts4 0.007 pts5 0.427 pts6 0.351 race 0.232 regu 0.009 | anti 0.001 blur 0.884 cls 0.899 expr 0.916 gend 0.987 glas 0.936 race 0.999 
+total_p 550 total_n 1570
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.034582  clean: 0.965418  tpr: 0.000637  far: 0.000100
+cnt_p:   1  cnt_n:   994  label: 0  blur: 0.062117  clean: 0.937883  tpr: 0.633121  far: 0.001818
+cnt_p:   2  cnt_n:  1001  label: 0  blur: 0.063309  clean: 0.936691  tpr: 0.637580  far: 0.005000
+cnt_p:   5  cnt_n:  1026  label: 0  blur: 0.065421  clean: 0.934579  tpr: 0.653503  far: 0.010000
+cnt_p:  27  cnt_n:  1277  label: 0  blur: 0.136169  clean: 0.863831  tpr: 0.813376  far: 0.050000
+cnt_p:  55  cnt_n:  1416  label: 0  blur: 0.255739  clean: 0.744261  tpr: 0.901911  far: 0.100000
+cnt_p: 110  cnt_n:  1476  label: 0  blur: 0.408039  clean: 0.591961  tpr: 0.940127  far: 0.200000
+cnt_p: 165  cnt_n:  1511  label: 0  blur: 0.537951  clean: 0.462049  tpr: 0.962420  far: 0.300000
+total_p 195 total_n 805
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.999640  noface: 0.000360  tpr(cnt_p/total_p): 0.005128  far(cnt_n/total_n): 0.000100
+cnt_p: 155  cnt_n:     1  label: 0  face: 0.057589  noface: 0.942411  tpr(cnt_p/total_p): 0.794872  far(cnt_n/total_n): 0.001242
+cnt_p: 166  cnt_n:     4  label: 0  face: 0.022777  noface: 0.977223  tpr(cnt_p/total_p): 0.851282  far(cnt_n/total_n): 0.005000
+cnt_p: 173  cnt_n:     8  label: 0  face: 0.007458  noface: 0.992542  tpr(cnt_p/total_p): 0.887179  far(cnt_n/total_n): 0.010000
+cnt_p: 183  cnt_n:    24  label: 0  face: 0.001029  noface: 0.998971  tpr(cnt_p/total_p): 0.938462  far(cnt_n/total_n): 0.030000
+cnt_p: 186  cnt_n:    40  label: 0  face: 0.000370  noface: 0.999630  tpr(cnt_p/total_p): 0.953846  far(cnt_n/total_n): 0.050000
+cnt_p: 189  cnt_n:    80  label: 0  face: 0.000089  noface: 0.999911  tpr(cnt_p/total_p): 0.969231  far(cnt_n/total_n): 0.100000
+cnt_p: 191  cnt_n:   161  label: 0  face: 0.000016  noface: 0.999984  tpr(cnt_p/total_p): 0.979487  far(cnt_n/total_n): 0.200000
+cnt_p: 191  cnt_n:   241  label: 0  face: 0.000004  noface: 0.999996  tpr(cnt_p/total_p): 0.979487  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   372  label: 1 live: 0.000059  anti: 0.999941  tpr: 0.277612  far: 0.001515
+cnt_p:   3  cnt_n:   789  label: 1 live: 0.005195  anti: 0.994805  tpr: 0.588806  far: 0.005000
+cnt_p:   6  cnt_n:   939  label: 1 live: 0.022246  anti: 0.977754  tpr: 0.700746  far: 0.010000
+cnt_p:  33  cnt_n:  1191  label: 1 live: 0.477766  anti: 0.522234  tpr: 0.888806  far: 0.050000
+cnt_p:  66  cnt_n:  1276  label: 1 live: 0.860782  anti: 0.139218  tpr: 0.952239  far: 0.100000
+cnt_p: 132  cnt_n:  1331  label: 1 live: 0.982189  anti: 0.017811  tpr: 0.993284  far: 0.200000
+cnt_p: 198  cnt_n:  1333  label: 1 live: 0.994851  anti: 0.005149  tpr: 0.994776  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 2  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   224  label: 1  phone: 0.000005 not_phone: 0.999995  tpr: 0.169697  far: 0.001471
+cnt_p:   3  cnt_n:   615  label: 1  phone: 0.000151 not_phone: 0.999849  tpr: 0.465909  far: 0.005000
+cnt_p:   6  cnt_n:   714  label: 1  phone: 0.000316 not_phone: 0.999684  tpr: 0.540909  far: 0.010000
+cnt_p:  34  cnt_n:  1206  label: 1  phone: 0.029984 not_phone: 0.970016  tpr: 0.913636  far: 0.050000
+cnt_p:  68  cnt_n:  1273  label: 1  phone: 0.131903 not_phone: 0.868097  tpr: 0.964394  far: 0.100000
+cnt_p: 136  cnt_n:  1307  label: 1  phone: 0.617542 not_phone: 0.382458  tpr: 0.990152  far: 0.200000
+cnt_p: 204  cnt_n:  1312  label: 1  phone: 0.892116 not_phone: 0.107884  tpr: 0.993939  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   917  label: 1  paper: 0.001717  not_paper: 0.998283  tpr: 0.684328  far: 0.001515
+cnt_p:   3  cnt_n:  1113  label: 1  paper: 0.016747  not_paper: 0.983253  tpr: 0.830597  far: 0.005000
+cnt_p:   6  cnt_n:  1136  label: 1  paper: 0.022824  not_paper: 0.977176  tpr: 0.847761  far: 0.010000
+cnt_p:  33  cnt_n:  1248  label: 1  paper: 0.187527  not_paper: 0.812473  tpr: 0.931343  far: 0.050000
+cnt_p:  66  cnt_n:  1280  label: 1  paper: 0.418919  not_paper: 0.581081  tpr: 0.955224  far: 0.100000
+cnt_p: 132  cnt_n:  1315  label: 1  paper: 0.831581  not_paper: 0.168419  tpr: 0.981343  far: 0.200000
+cnt_p: 198  cnt_n:  1325  label: 1  paper: 0.962157  not_paper: 0.037843  tpr: 0.988806  far: 0.300000
+[train] time:2020-03-16 00:06:53 1: E0.21[000] lr 1.3e-05f tota 3.123 age 0.225 angl 0.501 anti 0.591 beau 0.050 blur 0.361 cls_ 0.001 expr 0.009 gend 0.251 glas 0.015 pts4 0.323 pts5 0.220 pts6 0.273 race 0.009 regu 0.001 | anti 0.905 blur 0.976 cls 1.000 expr 0.995 gend 0.972 glas 0.995 race 0.976 
+[train] time:2020-03-16 00:09:39 1: E0.21[005] lr 1.3e-05f tota 3.038 age 0.203 angl 0.477 anti 0.604 beau 0.051 blur 0.355 cls_ 0.002 expr 0.027 gend 0.229 glas 0.004 pts4 0.243 pts5 0.257 pts6 0.276 race 0.008 regu 0.001 | anti 0.870 blur 0.972 cls 1.000 expr 0.972 gend 0.976 glas 1.000 race 0.976 
+[train] time:2020-03-16 00:12:25 1: E0.21[010] lr 1.3e-05f tota 3.267 age 0.208 angl 0.515 anti 0.609 beau 0.051 blur 0.370 cls_ 0.014 expr 0.035 gend 0.272 glas 0.007 pts4 0.335 pts5 0.271 pts6 0.272 race 0.006 regu 0.001 | anti 0.880 blur 0.986 cls 0.990 expr 0.972 gend 0.962 glas 1.000 race 0.976 
+[train] time:2020-03-16 00:15:12 1: E0.21[015] lr 1.3e-05f tota 3.351 age 0.196 angl 0.581 anti 0.581 beau 0.047 blur 0.352 cls_ 0.017 expr 0.019 gend 0.280 glas 0.017 pts4 0.353 pts5 0.304 pts6 0.304 race 0.012 regu 0.001 | anti 0.920 blur 0.995 cls 0.990 expr 0.972 gend 0.953 glas 0.991 race 0.948 
+[train] time:2020-03-16 00:17:58 1: E0.21[020] lr 1.3e-05f tota 2.939 age 0.191 angl 0.454 anti 0.599 beau 0.055 blur 0.372 cls_ 0.001 expr 0.018 gend 0.253 glas 0.022 pts4 0.177 pts5 0.221 pts6 0.265 race 0.013 regu 0.001 | anti 0.895 blur 0.976 cls 1.000 expr 0.976 gend 0.967 glas 0.995 race 0.962 
+[train] time:2020-03-16 00:20:45 1: E0.21[025] lr 1.3e-05f tota 2.980 age 0.194 angl 0.518 anti 0.605 beau 0.046 blur 0.358 cls_ 0.001 expr 0.025 gend 0.232 glas 0.002 pts4 0.181 pts5 0.238 pts6 0.269 race 0.008 regu 0.001 | anti 0.875 blur 0.991 cls 1.000 expr 0.962 gend 0.976 glas 1.000 race 0.967 
+[train] time:2020-03-16 00:23:31 1: E0.21[030] lr 1.3e-05f tota 3.198 age 0.200 angl 0.524 anti 0.561 beau 0.052 blur 0.380 cls_ 0.031 expr 0.027 gend 0.319 glas 0.007 pts4 0.267 pts5 0.259 pts6 0.281 race 0.015 regu 0.001 | anti 0.930 blur 0.958 cls 0.990 expr 0.962 gend 0.939 glas 0.995 race 0.967 
+[train] time:2020-03-16 00:26:17 1: E0.21[035] lr 1.3e-05f tota 3.280 age 0.192 angl 0.594 anti 0.592 beau 0.049 blur 0.346 cls_ 0.010 expr 0.025 gend 0.259 glas 0.017 pts4 0.313 pts5 0.302 pts6 0.277 race 0.009 regu 0.001 | anti 0.905 blur 0.986 cls 1.000 expr 0.962 gend 0.962 glas 0.995 race 0.972 
+[train] time:2020-03-16 00:28:29 1: E0.21[039] lr 1.3e-05f tota 3.163 age 0.199 angl 0.505 anti 0.592 beau 0.049 blur 0.390 cls_ 0.006 expr 0.021 gend 0.252 glas 0.017 pts4 0.296 pts5 0.256 pts6 0.275 race 0.010 regu 0.001 | anti 0.896 blur 0.962 cls 0.998 expr 0.973 gend 0.969 glas 0.994 race 0.969 
+angl 0.242 anti 0.710 beau 0.591 blur 0.051 cls_ 0.474 expr 0.283 gend 0.014 glas 0.295 pts4 0.015 pts5 0.598 pts6 0.392 race 0.245 regu 0.015 | anti 0.001 blur 0.896 cls 0.924 expr 0.936 gend 0.985 glas 0.940 race 0.994 
+total_p 2161 total_n 6319
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.030846  clean: 0.969154  tpr: 0.000158  far: 0.000100
+cnt_p:   1  cnt_n:  2329  label: 0  blur: 0.050672  clean: 0.949328  tpr: 0.368571  far: 0.000463
+cnt_p:   2  cnt_n:  4303  label: 0  blur: 0.067457  clean: 0.932543  tpr: 0.680962  far: 0.001000
+cnt_p:  10  cnt_n:  4604  label: 0  blur: 0.078576  clean: 0.921424  tpr: 0.728596  far: 0.005000
+cnt_p:  21  cnt_n:  4904  label: 0  blur: 0.095706  clean: 0.904294  tpr: 0.776072  far: 0.010000
+cnt_p: 108  cnt_n:  5549  label: 0  blur: 0.197390  clean: 0.802610  tpr: 0.878145  far: 0.050000
+cnt_p: 216  cnt_n:  5912  label: 0  blur: 0.347468  clean: 0.652532  tpr: 0.935591  far: 0.100000
+cnt_p: 432  cnt_n:  6105  label: 0  blur: 0.498188  clean: 0.501812  tpr: 0.966134  far: 0.200000
+cnt_p: 648  cnt_n:  6189  label: 0  blur: 0.604473  clean: 0.395527  tpr: 0.979427  far: 0.300000
+total_p 704 total_n 3296
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.999894  noface: 0.000106  tpr(cnt_p/total_p): 0.001420  far(cnt_n/total_n): 0.000303
+cnt_p: 436  cnt_n:     3  label: 0  face: 0.538468  noface: 0.461532  tpr(cnt_p/total_p): 0.619318  far(cnt_n/total_n): 0.001000
+cnt_p: 625  cnt_n:    16  label: 0  face: 0.035479  noface: 0.964521  tpr(cnt_p/total_p): 0.887784  far(cnt_n/total_n): 0.005000
+cnt_p: 653  cnt_n:    32  label: 0  face: 0.017399  noface: 0.982601  tpr(cnt_p/total_p): 0.927557  far(cnt_n/total_n): 0.010000
+cnt_p: 678  cnt_n:    98  label: 0  face: 0.003676  noface: 0.996324  tpr(cnt_p/total_p): 0.963068  far(cnt_n/total_n): 0.030000
+cnt_p: 685  cnt_n:   164  label: 0  face: 0.001522  noface: 0.998478  tpr(cnt_p/total_p): 0.973011  far(cnt_n/total_n): 0.050000
+cnt_p: 693  cnt_n:   329  label: 0  face: 0.000388  noface: 0.999612  tpr(cnt_p/total_p): 0.984375  far(cnt_n/total_n): 0.100000
+cnt_p: 700  cnt_n:   659  label: 0  face: 0.000065  noface: 0.999935  tpr(cnt_p/total_p): 0.994318  far(cnt_n/total_n): 0.200000
+cnt_p: 702  cnt_n:   988  label: 0  face: 0.000024  noface: 0.999976  tpr(cnt_p/total_p): 0.997159  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 2640 total_n 5360
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000187  far: 0.000100
+cnt_p:   1  cnt_n:   595  label: 1 live: 0.000000  anti: 1.000000  tpr: 0.111007  far: 0.000379
+cnt_p:   2  cnt_n:  1389  label: 1 live: 0.000017  anti: 0.999983  tpr: 0.259142  far: 0.001000
+cnt_p:  13  cnt_n:  3198  label: 1 live: 0.003238  anti: 0.996762  tpr: 0.596642  far: 0.005000
+cnt_p:  26  cnt_n:  3811  label: 1 live: 0.018396  anti: 0.981604  tpr: 0.711007  far: 0.010000
+cnt_p: 132  cnt_n:  4751  label: 1 live: 0.348063  anti: 0.651937  tpr: 0.886381  far: 0.050000
+cnt_p: 264  cnt_n:  5076  label: 1 live: 0.800922  anti: 0.199078  tpr: 0.947015  far: 0.100000
+cnt_p: 528  cnt_n:  5252  label: 1 live: 0.972045  anti: 0.027955  tpr: 0.979851  far: 0.200000
+cnt_p: 792  cnt_n:  5315  label: 1 live: 0.992707  anti: 0.007293  tpr: 0.991604  far: 0.300000
+antispoof-phone: total_p 2720 total_n 5280
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000189  far: 0.000100
+cnt_p:   1  cnt_n:  1642  label: 1  phone: 0.000046 not_phone: 0.999954  tpr: 0.310985  far: 0.000368
+cnt_p:   2  cnt_n:  1756  label: 1  phone: 0.000059 not_phone: 0.999941  tpr: 0.332576  far: 0.001000
+cnt_p:  13  cnt_n:  3151  label: 1  phone: 0.000872 not_phone: 0.999128  tpr: 0.596780  far: 0.005000
+cnt_p:  27  cnt_n:  3596  label: 1  phone: 0.001987 not_phone: 0.998013  tpr: 0.681061  far: 0.010000
+cnt_p: 136  cnt_n:  4752  label: 1  phone: 0.043543 not_phone: 0.956457  tpr: 0.900000  far: 0.050000
+cnt_p: 272  cnt_n:  5055  label: 1  phone: 0.250363 not_phone: 0.749637  tpr: 0.957386  far: 0.100000
+cnt_p: 544  cnt_n:  5204  label: 1  phone: 0.820991 not_phone: 0.179009  tpr: 0.985606  far: 0.200000
+cnt_p: 816  cnt_n:  5252  label: 1  phone: 0.973833 not_phone: 0.026167  tpr: 0.994697  far: 0.300000
+antispoof-paper: total_p 2640 total_n 5360
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000187  far: 0.000100
+cnt_p:   1  cnt_n:  3291  label: 1  paper: 0.000349  not_paper: 0.999651  tpr: 0.613993  far: 0.000379
+cnt_p:   2  cnt_n:  3350  label: 1  paper: 0.000412  not_paper: 0.999588  tpr: 0.625000  far: 0.001000
+cnt_p:  13  cnt_n:  3822  label: 1  paper: 0.001394  not_paper: 0.998606  tpr: 0.713060  far: 0.005000
+cnt_p:  26  cnt_n:  4127  label: 1  paper: 0.003149  not_paper: 0.996851  tpr: 0.769963  far: 0.010000
+cnt_p: 132  cnt_n:  4922  label: 1  paper: 0.071528  not_paper: 0.928472  tpr: 0.918284  far: 0.050000
+cnt_p: 264  cnt_n:  5139  label: 1  paper: 0.354381  not_paper: 0.645619  tpr: 0.958769  far: 0.100000
+cnt_p: 528  cnt_n:  5268  label: 1  paper: 0.806760  not_paper: 0.193240  tpr: 0.982836  far: 0.200000
+cnt_p: 792  cnt_n:  5317  label: 1  paper: 0.947333  not_paper: 0.052667  tpr: 0.991978  far: 0.300000
+[train] time:2020-03-16 00:34:32 2: E0.31[000] lr 1.3e-05f tota 3.242 age 0.211 angl 0.526 anti 0.604 beau 0.048 blur 0.378 cls_ 0.000 expr 0.016 gend 0.255 glas 0.010 pts4 0.371 pts5 0.226 pts6 0.284 race 0.008 regu 0.001 | anti 0.880 blur 0.972 cls 1.000 expr 0.986 gend 0.962 glas 0.991 race 0.972 
+[train] time:2020-03-16 00:37:17 2: E0.31[005] lr 1.3e-05f tota 3.079 age 0.212 angl 0.470 anti 0.605 beau 0.050 blur 0.354 cls_ 0.003 expr 0.027 gend 0.223 glas 0.005 pts4 0.277 pts5 0.265 pts6 0.274 race 0.011 regu 0.001 | anti 0.885 blur 0.981 cls 1.000 expr 0.962 gend 0.995 glas 1.000 race 0.972 
+[train] time:2020-03-16 00:40:04 2: E0.31[010] lr 1.3e-05f tota 3.034 age 0.206 angl 0.474 anti 0.572 beau 0.054 blur 0.367 cls_ 0.001 expr 0.023 gend 0.261 glas 0.006 pts4 0.189 pts5 0.308 pts6 0.280 race 0.008 regu 0.001 | anti 0.920 blur 0.972 cls 1.000 expr 0.958 gend 0.972 glas 1.000 race 0.972 
+[train] time:2020-03-16 00:42:48 2: E0.31[015] lr 1.3e-05f tota 3.759 age 0.287 angl 0.645 anti 0.593 beau 0.052 blur 0.378 cls_ 0.001 expr 0.019 gend 0.261 glas 0.043 pts4 0.487 pts5 0.322 pts6 0.361 race 0.011 regu 0.001 | anti 0.900 blur 0.958 cls 1.000 expr 0.976 gend 0.967 glas 0.981 race 0.958 
+[train] time:2020-03-16 00:45:33 2: E0.31[020] lr 1.3e-05f tota 2.937 age 0.192 angl 0.463 anti 0.585 beau 0.055 blur 0.364 cls_ 0.046 expr 0.018 gend 0.240 glas 0.017 pts4 0.170 pts5 0.216 pts6 0.275 race 0.011 regu 0.001 | anti 0.915 blur 0.972 cls 0.980 expr 0.986 gend 0.972 glas 0.991 race 0.962 
+[train] time:2020-03-16 00:48:17 2: E0.31[025] lr 1.3e-05f tota 2.955 age 0.177 angl 0.518 anti 0.605 beau 0.048 blur 0.368 cls_ 0.001 expr 0.026 gend 0.244 glas 0.002 pts4 0.171 pts5 0.233 pts6 0.250 race 0.008 regu 0.001 | anti 0.890 blur 0.967 cls 1.000 expr 0.958 gend 0.972 glas 1.000 race 0.972 
+[train] time:2020-03-16 00:51:03 2: E0.31[030] lr 1.3e-05f tota 3.114 age 0.207 angl 0.496 anti 0.554 beau 0.050 blur 0.387 cls_ 0.001 expr 0.031 gend 0.300 glas 0.015 pts4 0.251 pts5 0.258 pts6 0.272 race 0.015 regu 0.001 | anti 0.940 blur 0.962 cls 1.000 expr 0.948 gend 0.943 glas 0.995 race 0.953 
+[train] time:2020-03-16 00:53:48 2: E0.31[035] lr 1.3e-05f tota 3.329 age 0.212 angl 0.607 anti 0.592 beau 0.050 blur 0.366 cls_ 0.001 expr 0.032 gend 0.256 glas 0.009 pts4 0.375 pts5 0.241 pts6 0.282 race 0.009 regu 0.001 | anti 0.905 blur 0.976 cls 1.000 expr 0.962 gend 0.972 glas 0.995 race 0.976 
+[train] time:2020-03-16 00:55:59 2: E0.31[039] lr 1.3e-05f tota 3.157 age 0.200 angl 0.505 anti 0.589 beau 0.049 blur 0.390 cls_ 0.005 expr 0.021 gend 0.250 glas 0.017 pts4 0.306 pts5 0.248 pts6 0.274 race 0.010 regu 0.001 | anti 0.901 blur 0.962 cls 0.999 expr 0.973 gend 0.971 glas 0.994 race 0.968 
+angl 0.250 anti 0.747 beau 0.589 blur 0.052 cls_ 0.487 expr 0.285 gend 0.017 glas 0.283 pts4 0.027 pts5 0.758 pts6 0.392 race 0.246 regu 0.016 | anti 0.001 blur 0.897 cls 0.920 expr 0.937 gend 0.980 glas 0.953 race 0.991 
+total_p 547 total_n 1573
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.034841  clean: 0.965159  tpr: 0.000636  far: 0.000100
+cnt_p:   1  cnt_n:   362  label: 0  blur: 0.047426  clean: 0.952574  tpr: 0.230134  far: 0.001828
+cnt_p:   2  cnt_n:  1007  label: 0  blur: 0.060700  clean: 0.939300  tpr: 0.640178  far: 0.005000
+cnt_p:   5  cnt_n:  1294  label: 0  blur: 0.130200  clean: 0.869800  tpr: 0.822632  far: 0.010000
+cnt_p:  27  cnt_n:  1389  label: 0  blur: 0.284143  clean: 0.715857  tpr: 0.883026  far: 0.050000
+cnt_p:  54  cnt_n:  1434  label: 0  blur: 0.367294  clean: 0.632706  tpr: 0.911634  far: 0.100000
+cnt_p: 109  cnt_n:  1505  label: 0  blur: 0.588772  clean: 0.411228  tpr: 0.956771  far: 0.200000
+cnt_p: 164  cnt_n:  1531  label: 0  blur: 0.682770  clean: 0.317230  tpr: 0.973299  far: 0.300000
+total_p 172 total_n 828
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.998568  noface: 0.001432  tpr(cnt_p/total_p): 0.005814  far(cnt_n/total_n): 0.000100
+cnt_p: 115  cnt_n:     1  label: 0  face: 0.440083  noface: 0.559917  tpr(cnt_p/total_p): 0.668605  far(cnt_n/total_n): 0.001208
+cnt_p: 148  cnt_n:     4  label: 0  face: 0.045047  noface: 0.954953  tpr(cnt_p/total_p): 0.860465  far(cnt_n/total_n): 0.005000
+cnt_p: 158  cnt_n:     8  label: 0  face: 0.016297  noface: 0.983703  tpr(cnt_p/total_p): 0.918605  far(cnt_n/total_n): 0.010000
+cnt_p: 166  cnt_n:    24  label: 0  face: 0.003389  noface: 0.996611  tpr(cnt_p/total_p): 0.965116  far(cnt_n/total_n): 0.030000
+cnt_p: 169  cnt_n:    41  label: 0  face: 0.001209  noface: 0.998791  tpr(cnt_p/total_p): 0.982558  far(cnt_n/total_n): 0.050000
+cnt_p: 172  cnt_n:    82  label: 0  face: 0.000305  noface: 0.999695  tpr(cnt_p/total_p): 1.000000  far(cnt_n/total_n): 0.100000
+cnt_p: 172  cnt_n:   165  label: 0  face: 0.000071  noface: 0.999929  tpr(cnt_p/total_p): 1.000000  far(cnt_n/total_n): 0.200000
+cnt_p: 172  cnt_n:   248  label: 0  face: 0.000015  noface: 0.999985  tpr(cnt_p/total_p): 1.000000  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   401  label: 1 live: 0.000007  anti: 0.999993  tpr: 0.299254  far: 0.001515
+cnt_p:   3  cnt_n:   547  label: 1 live: 0.000042  anti: 0.999958  tpr: 0.408209  far: 0.005000
+cnt_p:   6  cnt_n:   946  label: 1 live: 0.002608  anti: 0.997392  tpr: 0.705970  far: 0.010000
+cnt_p:  33  cnt_n:  1212  label: 1 live: 0.133764  anti: 0.866236  tpr: 0.904478  far: 0.050000
+cnt_p:  66  cnt_n:  1267  label: 1 live: 0.502363  anti: 0.497637  tpr: 0.945522  far: 0.100000
+cnt_p: 132  cnt_n:  1316  label: 1 live: 0.916170  anti: 0.083830  tpr: 0.982090  far: 0.200000
+cnt_p: 198  cnt_n:  1330  label: 1 live: 0.979069  anti: 0.020931  tpr: 0.992537  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   598  label: 1  phone: 0.000191 not_phone: 0.999809  tpr: 0.453030  far: 0.001471
+cnt_p:   3  cnt_n:   774  label: 1  phone: 0.000703 not_phone: 0.999297  tpr: 0.586364  far: 0.005000
+cnt_p:   6  cnt_n:   864  label: 1  phone: 0.001573 not_phone: 0.998427  tpr: 0.654545  far: 0.010000
+cnt_p:  34  cnt_n:  1148  label: 1  phone: 0.036308 not_phone: 0.963692  tpr: 0.869697  far: 0.050000
+cnt_p:  68  cnt_n:  1249  label: 1  phone: 0.287865 not_phone: 0.712135  tpr: 0.946212  far: 0.100000
+cnt_p: 136  cnt_n:  1300  label: 1  phone: 0.860327 not_phone: 0.139673  tpr: 0.984848  far: 0.200000
+cnt_p: 204  cnt_n:  1308  label: 1  phone: 0.981899 not_phone: 0.018101  tpr: 0.990909  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   884  label: 1  paper: 0.001377  not_paper: 0.998623  tpr: 0.659701  far: 0.001515
+cnt_p:   3  cnt_n:  1011  label: 1  paper: 0.005406  not_paper: 0.994594  tpr: 0.754478  far: 0.005000
+cnt_p:   6  cnt_n:  1040  label: 1  paper: 0.007269  not_paper: 0.992731  tpr: 0.776119  far: 0.010000
+cnt_p:  33  cnt_n:  1215  label: 1  paper: 0.188415  not_paper: 0.811585  tpr: 0.906716  far: 0.050000
+cnt_p:  66  cnt_n:  1282  label: 1  paper: 0.616752  not_paper: 0.383248  tpr: 0.956716  far: 0.100000
+cnt_p: 132  cnt_n:  1314  label: 1  paper: 0.951503  not_paper: 0.048497  tpr: 0.980597  far: 0.200000
+cnt_p: 198  cnt_n:  1332  label: 1  paper: 0.987115  not_paper: 0.012885  tpr: 0.994030  far: 0.300000
+[train] time:2020-03-16 00:57:55 3: E0.41[000] lr 1.3e-05f tota 3.099 age 0.202 angl 0.516 anti 0.589 beau 0.050 blur 0.366 cls_ 0.001 expr 0.014 gend 0.253 glas 0.006 pts4 0.292 pts5 0.222 pts6 0.286 race 0.007 regu 0.001 | anti 0.895 blur 0.972 cls 1.000 expr 0.991 gend 0.972 glas 0.995 race 0.986 
+[train] time:2020-03-16 01:00:40 3: E0.41[005] lr 1.3e-05f tota 3.018 age 0.209 angl 0.466 anti 0.598 beau 0.050 blur 0.346 cls_ 0.001 expr 0.024 gend 0.242 glas 0.002 pts4 0.162 pts5 0.319 pts6 0.292 race 0.009 regu 0.001 | anti 0.885 blur 0.981 cls 1.000 expr 0.976 gend 0.981 glas 1.000 race 0.972 
+[train] time:2020-03-16 01:03:25 3: E0.41[010] lr 1.3e-05f tota 3.215 age 0.201 angl 0.532 anti 0.570 beau 0.050 blur 0.373 cls_ 0.011 expr 0.033 gend 0.268 glas 0.008 pts4 0.350 pts5 0.268 pts6 0.259 race 0.009 regu 0.001 | anti 0.920 blur 0.972 cls 1.000 expr 0.972 gend 0.967 glas 1.000 race 0.962 
+[train] time:2020-03-16 01:06:10 3: E0.41[015] lr 1.3e-05f tota 3.502 age 0.199 angl 0.620 anti 0.585 beau 0.049 blur 0.376 cls_ 0.016 expr 0.022 gend 0.254 glas 0.037 pts4 0.358 pts5 0.356 pts6 0.326 race 0.014 regu 0.001 | anti 0.905 blur 0.972 cls 0.990 expr 0.976 gend 0.962 glas 0.986 race 0.939 
+[train] time:2020-03-16 01:08:55 3: E0.41[020] lr 1.3e-05f tota 2.835 age 0.188 angl 0.448 anti 0.565 beau 0.055 blur 0.371 cls_ 0.001 expr 0.022 gend 0.242 glas 0.012 pts4 0.156 pts5 0.212 pts6 0.271 race 0.010 regu 0.001 | anti 0.935 blur 0.976 cls 1.000 expr 0.967 gend 0.972 glas 0.991 race 0.972 
+[train] time:2020-03-16 01:11:39 3: E0.41[025] lr 1.3e-05f tota 2.989 age 0.186 angl 0.529 anti 0.591 beau 0.047 blur 0.354 cls_ 0.004 expr 0.024 gend 0.244 glas 0.003 pts4 0.183 pts5 0.244 pts6 0.279 race 0.007 regu 0.001 | anti 0.895 blur 0.991 cls 1.000 expr 0.972 gend 0.972 glas 1.000 race 0.972 
+[train] time:2020-03-16 01:14:23 3: E0.41[030] lr 1.3e-05f tota 3.135 age 0.209 angl 0.498 anti 0.591 beau 0.048 blur 0.374 cls_ 0.001 expr 0.043 gend 0.304 glas 0.006 pts4 0.257 pts5 0.232 pts6 0.260 race 0.015 regu 0.001 | anti 0.900 blur 0.976 cls 1.000 expr 0.953 gend 0.939 glas 0.995 race 0.958 
+[train] time:2020-03-16 01:17:08 3: E0.41[035] lr 1.3e-05f tota 3.267 age 0.187 angl 0.584 anti 0.604 beau 0.051 blur 0.347 cls_ 0.005 expr 0.019 gend 0.251 glas 0.006 pts4 0.297 pts5 0.314 pts6 0.291 race 0.010 regu 0.001 | anti 0.880 blur 0.981 cls 1.000 expr 0.967 gend 0.962 glas 1.000 race 0.976 
+[train] time:2020-03-16 01:19:21 3: E0.41[039] lr 1.3e-05f tota 3.164 age 0.198 angl 0.505 anti 0.591 beau 0.048 blur 0.391 cls_ 0.006 expr 0.021 gend 0.251 glas 0.014 pts4 0.304 pts5 0.254 pts6 0.276 race 0.010 regu 0.001 | anti 0.896 blur 0.962 cls 0.999 expr 0.973 gend 0.970 glas 0.995 race 0.965 
+angl 0.236 anti 0.694 beau 0.574 blur 0.052 cls_ 0.462 expr 0.360 gend 0.015 glas 0.303 pts4 0.027 pts5 0.481 pts6 0.392 race 0.243 regu 0.015 | anti 0.001 blur 0.918 cls 0.926 expr 0.927 gend 0.982 glas 0.933 race 0.992 
+total_p 508 total_n 1612
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.029556  clean: 0.970444  tpr: 0.000620  far: 0.000100
+cnt_p:   1  cnt_n:  1109  label: 0  blur: 0.066248  clean: 0.933752  tpr: 0.687965  far: 0.001969
+cnt_p:   2  cnt_n:  1155  label: 0  blur: 0.070369  clean: 0.929631  tpr: 0.716501  far: 0.005000
+cnt_p:   5  cnt_n:  1307  label: 0  blur: 0.110099  clean: 0.889901  tpr: 0.810794  far: 0.010000
+cnt_p:  25  cnt_n:  1451  label: 0  blur: 0.235828  clean: 0.764172  tpr: 0.900124  far: 0.050000
+cnt_p:  50  cnt_n:  1508  label: 0  blur: 0.314974  clean: 0.685026  tpr: 0.935484  far: 0.100000
+cnt_p: 101  cnt_n:  1557  label: 0  blur: 0.496902  clean: 0.503098  tpr: 0.965881  far: 0.200000
+cnt_p: 152  cnt_n:  1583  label: 0  blur: 0.621623  clean: 0.378377  tpr: 0.982010  far: 0.300000
+total_p 179 total_n 821
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.998978  noface: 0.001022  tpr(cnt_p/total_p): 0.005587  far(cnt_n/total_n): 0.000100
+cnt_p: 133  cnt_n:     1  label: 0  face: 0.259398  noface: 0.740602  tpr(cnt_p/total_p): 0.743017  far(cnt_n/total_n): 0.001218
+cnt_p: 159  cnt_n:     4  label: 0  face: 0.014426  noface: 0.985574  tpr(cnt_p/total_p): 0.888268  far(cnt_n/total_n): 0.005000
+cnt_p: 166  cnt_n:     8  label: 0  face: 0.005199  noface: 0.994801  tpr(cnt_p/total_p): 0.927374  far(cnt_n/total_n): 0.010000
+cnt_p: 168  cnt_n:    24  label: 0  face: 0.001539  noface: 0.998461  tpr(cnt_p/total_p): 0.938547  far(cnt_n/total_n): 0.030000
+cnt_p: 170  cnt_n:    41  label: 0  face: 0.000517  noface: 0.999483  tpr(cnt_p/total_p): 0.949721  far(cnt_n/total_n): 0.050000
+cnt_p: 174  cnt_n:    82  label: 0  face: 0.000163  noface: 0.999837  tpr(cnt_p/total_p): 0.972067  far(cnt_n/total_n): 0.100000
+cnt_p: 178  cnt_n:   164  label: 0  face: 0.000030  noface: 0.999970  tpr(cnt_p/total_p): 0.994413  far(cnt_n/total_n): 0.200000
+cnt_p: 179  cnt_n:   246  label: 0  face: 0.000010  noface: 0.999990  tpr(cnt_p/total_p): 1.000000  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:    23  label: 1 live: 0.000000  anti: 1.000000  tpr: 0.017164  far: 0.001515
+cnt_p:   3  cnt_n:   632  label: 1 live: 0.000152  anti: 0.999848  tpr: 0.471642  far: 0.005000
+cnt_p:   6  cnt_n:   974  label: 1 live: 0.005588  anti: 0.994412  tpr: 0.726866  far: 0.010000
+cnt_p:  33  cnt_n:  1221  label: 1 live: 0.212859  anti: 0.787141  tpr: 0.911194  far: 0.050000
+cnt_p:  66  cnt_n:  1293  label: 1 live: 0.694475  anti: 0.305525  tpr: 0.964925  far: 0.100000
+cnt_p: 132  cnt_n:  1327  label: 1 live: 0.960462  anti: 0.039538  tpr: 0.990299  far: 0.200000
+cnt_p: 198  cnt_n:  1336  label: 1 live: 0.992349  anti: 0.007651  tpr: 0.997015  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   684  label: 1  phone: 0.000201 not_phone: 0.999799  tpr: 0.518182  far: 0.001471
+cnt_p:   3  cnt_n:   774  label: 1  phone: 0.000431 not_phone: 0.999569  tpr: 0.586364  far: 0.005000
+cnt_p:   6  cnt_n:   972  label: 1  phone: 0.002505 not_phone: 0.997495  tpr: 0.736364  far: 0.010000
+cnt_p:  34  cnt_n:  1214  label: 1  phone: 0.073319 not_phone: 0.926681  tpr: 0.919697  far: 0.050000
+cnt_p:  68  cnt_n:  1275  label: 1  phone: 0.424797 not_phone: 0.575203  tpr: 0.965909  far: 0.100000
+cnt_p: 136  cnt_n:  1297  label: 1  phone: 0.851902 not_phone: 0.148098  tpr: 0.982576  far: 0.200000
+cnt_p: 204  cnt_n:  1307  label: 1  phone: 0.974557 not_phone: 0.025443  tpr: 0.990152  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   501  label: 1  paper: 0.000022  not_paper: 0.999978  tpr: 0.373881  far: 0.001515
+cnt_p:   3  cnt_n:  1003  label: 1  paper: 0.003066  not_paper: 0.996934  tpr: 0.748507  far: 0.005000
+cnt_p:   6  cnt_n:  1107  label: 1  paper: 0.012504  not_paper: 0.987496  tpr: 0.826119  far: 0.010000
+cnt_p:  33  cnt_n:  1265  label: 1  paper: 0.293186  not_paper: 0.706814  tpr: 0.944030  far: 0.050000
+cnt_p:  66  cnt_n:  1308  label: 1  paper: 0.735548  not_paper: 0.264452  tpr: 0.976119  far: 0.100000
+cnt_p: 132  cnt_n:  1324  label: 1  paper: 0.955103  not_paper: 0.044897  tpr: 0.988060  far: 0.200000
+cnt_p: 198  cnt_n:  1336  label: 1  paper: 0.990156  not_paper: 0.009844  tpr: 0.997015  far: 0.300000
+[train] time:2020-03-16 01:21:16 4: E0.51[000] lr 1.3e-05f tota 2.918 age 0.211 angl 0.480 anti 0.558 beau 0.045 blur 0.410 cls_ 0.005 expr 0.013 gend 0.257 glas 0.010 pts4 0.152 pts5 0.222 pts6 0.265 race 0.011 regu 0.001 | anti 0.935 blur 0.958 cls 1.000 expr 0.972 gend 0.953 glas 0.995 race 0.967 
+[train] time:2020-03-16 01:24:02 4: E0.51[005] lr 1.3e-05f tota 2.898 age 0.196 angl 0.487 anti 0.579 beau 0.049 blur 0.338 cls_ 0.001 expr 0.021 gend 0.254 glas 0.017 pts4 0.167 pts5 0.218 pts6 0.276 race 0.006 regu 0.001 | anti 0.895 blur 0.991 cls 1.000 expr 0.986 gend 0.958 glas 0.991 race 0.995 
+[train] time:2020-03-16 01:26:46 4: E0.51[010] lr 1.3e-05f tota 3.230 age 0.184 angl 0.507 anti 0.594 beau 0.046 blur 0.403 cls_ 0.001 expr 0.012 gend 0.240 glas 0.004 pts4 0.258 pts5 0.365 pts6 0.308 race 0.010 regu 0.001 | anti 0.890 blur 0.962 cls 1.000 expr 0.986 gend 0.976 glas 1.000 race 0.962 
+[train] time:2020-03-16 01:29:31 4: E0.51[015] lr 1.3e-05f tota 3.404 age 0.195 angl 0.559 anti 0.595 beau 0.048 blur 0.397 cls_ 0.001 expr 0.013 gend 0.252 glas 0.020 pts4 0.469 pts5 0.274 pts6 0.277 race 0.008 regu 0.001 | anti 0.890 blur 0.943 cls 1.000 expr 0.991 gend 0.967 glas 0.991 race 0.976 
+[train] time:2020-03-16 01:32:17 4: E0.51[020] lr 1.3e-05f tota 3.239 age 0.210 angl 0.596 anti 0.573 beau 0.047 blur 0.407 cls_ 0.000 expr 0.027 gend 0.261 glas 0.016 pts4 0.210 pts5 0.303 pts6 0.289 race 0.013 regu 0.001 | anti 0.915 blur 0.958 cls 1.000 expr 0.962 gend 0.962 glas 0.991 race 0.958 
+[train] time:2020-03-16 01:35:03 4: E0.51[025] lr 1.3e-05f tota 3.128 age 0.214 angl 0.544 anti 0.604 beau 0.050 blur 0.391 cls_ 0.002 expr 0.016 gend 0.256 glas 0.036 pts4 0.187 pts5 0.242 pts6 0.268 race 0.016 regu 0.001 | anti 0.875 blur 0.962 cls 1.000 expr 0.986 gend 0.962 glas 0.986 race 0.925 
+[train] time:2020-03-16 01:37:48 4: E0.51[030] lr 1.3e-05f tota 3.392 age 0.197 angl 0.490 anti 0.555 beau 0.050 blur 0.365 cls_ 0.003 expr 0.021 gend 0.278 glas 0.062 pts4 0.488 pts5 0.292 pts6 0.298 race 0.014 regu 0.001 | anti 0.945 blur 0.972 cls 1.000 expr 0.967 gend 0.958 glas 0.986 race 0.958 
+[train] time:2020-03-16 01:40:35 4: E0.51[035] lr 1.3e-05f tota 3.086 age 0.205 angl 0.469 anti 0.590 beau 0.044 blur 0.361 cls_ 0.001 expr 0.021 gend 0.241 glas 0.021 pts4 0.357 pts5 0.215 pts6 0.258 race 0.008 regu 0.001 | anti 0.905 blur 0.981 cls 1.000 expr 0.967 gend 0.976 glas 0.986 race 0.981 
+[train] time:2020-03-16 01:42:47 4: E0.51[039] lr 1.2e-05f tota 3.097 age 0.200 angl 0.499 anti 0.586 beau 0.048 blur 0.388 cls_ 0.007 expr 0.021 gend 0.248 glas 0.016 pts4 0.270 pts5 0.244 pts6 0.269 race 0.010 regu 0.001 | anti 0.902 blur 0.962 cls 0.998 expr 0.973 gend 0.971 glas 0.994 race 0.967 
+angl 0.247 anti 0.683 beau 0.592 blur 0.051 cls_ 0.477 expr 0.432 gend 0.009 glas 0.301 pts4 0.020 pts5 0.366 pts6 0.330 race 0.222 regu 0.015 | anti 0.001 blur 0.893 cls 0.928 expr 0.915 gend 0.988 glas 0.940 race 0.990 
+total_p 472 total_n 1648
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.031664  clean: 0.968336  tpr: 0.000607  far: 0.000100
+cnt_p:   1  cnt_n:   493  label: 0  blur: 0.048904  clean: 0.951096  tpr: 0.299150  far: 0.002119
+cnt_p:   2  cnt_n:   660  label: 0  blur: 0.050843  clean: 0.949157  tpr: 0.400485  far: 0.005000
+cnt_p:   4  cnt_n:   917  label: 0  blur: 0.055816  clean: 0.944184  tpr: 0.556432  far: 0.010000
+cnt_p:  23  cnt_n:  1415  label: 0  blur: 0.141211  clean: 0.858789  tpr: 0.858617  far: 0.050000
+cnt_p:  47  cnt_n:  1537  label: 0  blur: 0.281692  clean: 0.718308  tpr: 0.932646  far: 0.100000
+cnt_p:  94  cnt_n:  1590  label: 0  blur: 0.482686  clean: 0.517314  tpr: 0.964806  far: 0.200000
+cnt_p: 141  cnt_n:  1613  label: 0  blur: 0.614507  clean: 0.385493  tpr: 0.978762  far: 0.300000
+total_p 164 total_n 836
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.998558  noface: 0.001442  tpr(cnt_p/total_p): 0.006098  far(cnt_n/total_n): 0.000100
+cnt_p:  79  cnt_n:     1  label: 0  face: 0.483404  noface: 0.516596  tpr(cnt_p/total_p): 0.481707  far(cnt_n/total_n): 0.001196
+cnt_p: 143  cnt_n:     4  label: 0  face: 0.008399  noface: 0.991601  tpr(cnt_p/total_p): 0.871951  far(cnt_n/total_n): 0.005000
+cnt_p: 148  cnt_n:     8  label: 0  face: 0.004267  noface: 0.995733  tpr(cnt_p/total_p): 0.902439  far(cnt_n/total_n): 0.010000
+cnt_p: 155  cnt_n:    25  label: 0  face: 0.000496  noface: 0.999504  tpr(cnt_p/total_p): 0.945122  far(cnt_n/total_n): 0.030000
+cnt_p: 160  cnt_n:    41  label: 0  face: 0.000251  noface: 0.999749  tpr(cnt_p/total_p): 0.975610  far(cnt_n/total_n): 0.050000
+cnt_p: 162  cnt_n:    83  label: 0  face: 0.000080  noface: 0.999920  tpr(cnt_p/total_p): 0.987805  far(cnt_n/total_n): 0.100000
+cnt_p: 163  cnt_n:   167  label: 0  face: 0.000017  noface: 0.999983  tpr(cnt_p/total_p): 0.993902  far(cnt_n/total_n): 0.200000
+cnt_p: 164  cnt_n:   250  label: 0  face: 0.000005  noface: 0.999995  tpr(cnt_p/total_p): 1.000000  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   318  label: 1 live: 0.000009  anti: 0.999991  tpr: 0.237313  far: 0.001515
+cnt_p:   3  cnt_n:   575  label: 1 live: 0.000220  anti: 0.999780  tpr: 0.429104  far: 0.005000
+cnt_p:   6  cnt_n:   901  label: 1 live: 0.009262  anti: 0.990738  tpr: 0.672388  far: 0.010000
+cnt_p:  33  cnt_n:  1211  label: 1 live: 0.333483  anti: 0.666517  tpr: 0.903731  far: 0.050000
+cnt_p:  66  cnt_n:  1275  label: 1 live: 0.700674  anti: 0.299326  tpr: 0.951493  far: 0.100000
+cnt_p: 132  cnt_n:  1317  label: 1 live: 0.946105  anti: 0.053895  tpr: 0.982836  far: 0.200000
+cnt_p: 198  cnt_n:  1329  label: 1 live: 0.985269  anti: 0.014731  tpr: 0.991791  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   124  label: 1  phone: 0.000003 not_phone: 0.999997  tpr: 0.093939  far: 0.001471
+cnt_p:   3  cnt_n:   535  label: 1  phone: 0.000185 not_phone: 0.999815  tpr: 0.405303  far: 0.005000
+cnt_p:   6  cnt_n:   904  label: 1  phone: 0.003850 not_phone: 0.996150  tpr: 0.684848  far: 0.010000
+cnt_p:  34  cnt_n:  1176  label: 1  phone: 0.116286 not_phone: 0.883714  tpr: 0.890909  far: 0.050000
+cnt_p:  68  cnt_n:  1241  label: 1  phone: 0.347423 not_phone: 0.652577  tpr: 0.940152  far: 0.100000
+cnt_p: 136  cnt_n:  1302  label: 1  phone: 0.898704 not_phone: 0.101296  tpr: 0.986364  far: 0.200000
+cnt_p: 204  cnt_n:  1310  label: 1  phone: 0.980762 not_phone: 0.019238  tpr: 0.992424  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   821  label: 1  paper: 0.000356  not_paper: 0.999644  tpr: 0.612687  far: 0.001515
+cnt_p:   3  cnt_n:   902  label: 1  paper: 0.000867  not_paper: 0.999133  tpr: 0.673134  far: 0.005000
+cnt_p:   6  cnt_n:  1009  label: 1  paper: 0.002560  not_paper: 0.997440  tpr: 0.752985  far: 0.010000
+cnt_p:  33  cnt_n:  1230  label: 1  paper: 0.076339  not_paper: 0.923661  tpr: 0.917910  far: 0.050000
+cnt_p:  66  cnt_n:  1280  label: 1  paper: 0.282766  not_paper: 0.717234  tpr: 0.955224  far: 0.100000
+cnt_p: 132  cnt_n:  1322  label: 1  paper: 0.784137  not_paper: 0.215863  tpr: 0.986567  far: 0.200000
+cnt_p: 198  cnt_n:  1331  label: 1  paper: 0.927478  not_paper: 0.072522  tpr: 0.993284  far: 0.300000
+[train] time:2020-03-16 01:44:42 5: E0.62[000] lr 1.2e-05f tota 2.894 age 0.209 angl 0.490 anti 0.566 beau 0.053 blur 0.391 cls_ 0.001 expr 0.019 gend 0.248 glas 0.013 pts4 0.166 pts5 0.192 pts6 0.251 race 0.011 regu 0.001 | anti 0.930 blur 0.958 cls 1.000 expr 0.976 gend 0.962 glas 1.000 race 0.967 
+[train] time:2020-03-16 01:47:28 5: E0.62[005] lr 1.2e-05f tota 3.384 age 0.220 angl 0.474 anti 0.593 beau 0.047 blur 0.395 cls_ 0.003 expr 0.020 gend 0.280 glas 0.018 pts4 0.540 pts5 0.222 pts6 0.264 race 0.013 regu 0.001 | anti 0.890 blur 0.948 cls 1.000 expr 0.972 gend 0.958 glas 0.995 race 0.953 
+[train] time:2020-03-16 01:50:14 5: E0.62[010] lr 1.2e-05f tota 2.924 age 0.221 angl 0.490 anti 0.583 beau 0.053 blur 0.350 cls_ 0.004 expr 0.019 gend 0.219 glas 0.019 pts4 0.178 pts5 0.235 pts6 0.252 race 0.010 regu 0.001 | anti 0.900 blur 0.976 cls 1.000 expr 0.976 gend 0.995 glas 0.991 race 0.972 
+[train] time:2020-03-16 01:53:00 5: E0.62[015] lr 1.2e-05f tota 3.112 age 0.212 angl 0.537 anti 0.597 beau 0.048 blur 0.361 cls_ 0.004 expr 0.026 gend 0.244 glas 0.009 pts4 0.213 pts5 0.258 pts6 0.287 race 0.017 regu 0.001 | anti 0.880 blur 0.976 cls 1.000 expr 0.962 gend 0.981 glas 1.000 race 0.943 
+[train] time:2020-03-16 01:55:46 5: E0.62[020] lr 1.2e-05f tota 2.959 age 0.221 angl 0.457 anti 0.575 beau 0.048 blur 0.380 cls_ 0.001 expr 0.028 gend 0.247 glas 0.002 pts4 0.224 pts5 0.218 pts6 0.257 race 0.011 regu 0.001 | anti 0.915 blur 0.958 cls 1.000 expr 0.976 gend 0.972 glas 1.000 race 0.976 
+[train] time:2020-03-16 01:58:31 5: E0.62[025] lr 1.2e-05f tota 2.955 age 0.203 angl 0.467 anti 0.549 beau 0.051 blur 0.365 cls_ 0.000 expr 0.024 gend 0.259 glas 0.006 pts4 0.184 pts5 0.288 pts6 0.269 race 0.014 regu 0.001 | anti 0.950 blur 0.976 cls 1.000 expr 0.962 gend 0.962 glas 1.000 race 0.934 
+[train] time:2020-03-16 02:01:16 5: E0.62[030] lr 1.2e-05f tota 3.386 age 0.205 angl 0.487 anti 0.574 beau 0.048 blur 0.347 cls_ 0.001 expr 0.015 gend 0.274 glas 0.054 pts4 0.502 pts5 0.283 pts6 0.294 race 0.015 regu 0.001 | anti 0.905 blur 0.981 cls 1.000 expr 0.986 gend 0.972 glas 0.986 race 0.953 
+[train] time:2020-03-16 02:04:01 5: E0.62[035] lr 1.2e-05f tota 3.002 age 0.184 angl 0.453 anti 0.565 beau 0.043 blur 0.381 cls_ 0.001 expr 0.016 gend 0.242 glas 0.012 pts4 0.359 pts5 0.205 pts6 0.250 race 0.010 regu 0.001 | anti 0.925 blur 0.967 cls 1.000 expr 0.986 gend 0.972 glas 0.991 race 0.972 
+[train] time:2020-03-16 02:06:13 5: E0.62[039] lr 1.2e-05f tota 3.062 age 0.200 angl 0.495 anti 0.584 beau 0.049 blur 0.380 cls_ 0.002 expr 0.021 gend 0.251 glas 0.015 pts4 0.246 pts5 0.248 pts6 0.268 race 0.010 regu 0.001 | anti 0.905 blur 0.965 cls 1.000 expr 0.972 gend 0.970 glas 0.995 race 0.965 
+angl 0.230 anti 0.674 beau 0.588 blur 0.050 cls_ 0.471 expr 0.440 gend 0.008 glas 0.302 pts4 0.015 pts5 0.369 pts6 0.300 race 0.215 regu 0.018 | anti 0.001 blur 0.896 cls 0.933 expr 0.912 gend 0.992 glas 0.942 race 0.992 
+total_p 470 total_n 1650
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.035884  clean: 0.964116  tpr: 0.000606  far: 0.000100
+cnt_p:   1  cnt_n:   803  label: 0  blur: 0.053713  clean: 0.946287  tpr: 0.486667  far: 0.002128
+cnt_p:   2  cnt_n:   983  label: 0  blur: 0.058994  clean: 0.941006  tpr: 0.595758  far: 0.005000
+cnt_p:   4  cnt_n:  1023  label: 0  blur: 0.061312  clean: 0.938688  tpr: 0.620000  far: 0.010000
+cnt_p:  23  cnt_n:  1430  label: 0  blur: 0.152991  clean: 0.847009  tpr: 0.866667  far: 0.050000
+cnt_p:  47  cnt_n:  1548  label: 0  blur: 0.270939  clean: 0.729061  tpr: 0.938182  far: 0.100000
+cnt_p:  94  cnt_n:  1601  label: 0  blur: 0.469341  clean: 0.530659  tpr: 0.970303  far: 0.200000
+cnt_p: 141  cnt_n:  1619  label: 0  blur: 0.638734  clean: 0.361266  tpr: 0.981212  far: 0.300000
+total_p 180 total_n 820
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.999109  noface: 0.000891  tpr(cnt_p/total_p): 0.005556  far(cnt_n/total_n): 0.000100
+cnt_p: 144  cnt_n:     1  label: 0  face: 0.056023  noface: 0.943977  tpr(cnt_p/total_p): 0.800000  far(cnt_n/total_n): 0.001220
+cnt_p: 150  cnt_n:     4  label: 0  face: 0.035073  noface: 0.964927  tpr(cnt_p/total_p): 0.833333  far(cnt_n/total_n): 0.005000
+cnt_p: 163  cnt_n:     8  label: 0  face: 0.008148  noface: 0.991852  tpr(cnt_p/total_p): 0.905556  far(cnt_n/total_n): 0.010000
+cnt_p: 170  cnt_n:    24  label: 0  face: 0.001303  noface: 0.998697  tpr(cnt_p/total_p): 0.944444  far(cnt_n/total_n): 0.030000
+cnt_p: 173  cnt_n:    41  label: 0  face: 0.000554  noface: 0.999446  tpr(cnt_p/total_p): 0.961111  far(cnt_n/total_n): 0.050000
+cnt_p: 176  cnt_n:    82  label: 0  face: 0.000129  noface: 0.999871  tpr(cnt_p/total_p): 0.977778  far(cnt_n/total_n): 0.100000
+cnt_p: 176  cnt_n:   164  label: 0  face: 0.000022  noface: 0.999978  tpr(cnt_p/total_p): 0.977778  far(cnt_n/total_n): 0.200000
+cnt_p: 176  cnt_n:   246  label: 0  face: 0.000007  noface: 0.999993  tpr(cnt_p/total_p): 0.977778  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   395  label: 1 live: 0.000019  anti: 0.999981  tpr: 0.294776  far: 0.001515
+cnt_p:   3  cnt_n:   613  label: 1 live: 0.000223  anti: 0.999777  tpr: 0.457463  far: 0.005000
+cnt_p:   6  cnt_n:   890  label: 1 live: 0.005129  anti: 0.994871  tpr: 0.664179  far: 0.010000
+cnt_p:  33  cnt_n:  1184  label: 1 live: 0.210873  anti: 0.789127  tpr: 0.883582  far: 0.050000
+cnt_p:  66  cnt_n:  1250  label: 1 live: 0.623248  anti: 0.376752  tpr: 0.932836  far: 0.100000
+cnt_p: 132  cnt_n:  1317  label: 1 live: 0.953119  anti: 0.046881  tpr: 0.982836  far: 0.200000
+cnt_p: 198  cnt_n:  1332  label: 1 live: 0.985924  anti: 0.014076  tpr: 0.994030  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   607  label: 1  phone: 0.000471 not_phone: 0.999529  tpr: 0.459848  far: 0.001471
+cnt_p:   3  cnt_n:   714  label: 1  phone: 0.001154 not_phone: 0.998846  tpr: 0.540909  far: 0.005000
+cnt_p:   6  cnt_n:   959  label: 1  phone: 0.007253 not_phone: 0.992747  tpr: 0.726515  far: 0.010000
+cnt_p:  34  cnt_n:  1203  label: 1  phone: 0.160412 not_phone: 0.839588  tpr: 0.911364  far: 0.050000
+cnt_p:  68  cnt_n:  1263  label: 1  phone: 0.587212 not_phone: 0.412788  tpr: 0.956818  far: 0.100000
+cnt_p: 136  cnt_n:  1307  label: 1  phone: 0.950137 not_phone: 0.049863  tpr: 0.990152  far: 0.200000
+cnt_p: 204  cnt_n:  1316  label: 1  phone: 0.993427 not_phone: 0.006573  tpr: 0.996970  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   925  label: 1  paper: 0.000707  not_paper: 0.999293  tpr: 0.690299  far: 0.001515
+cnt_p:   3  cnt_n:  1015  label: 1  paper: 0.001848  not_paper: 0.998152  tpr: 0.757463  far: 0.005000
+cnt_p:   6  cnt_n:  1126  label: 1  paper: 0.008310  not_paper: 0.991690  tpr: 0.840299  far: 0.010000
+cnt_p:  33  cnt_n:  1248  label: 1  paper: 0.064576  not_paper: 0.935424  tpr: 0.931343  far: 0.050000
+cnt_p:  66  cnt_n:  1301  label: 1  paper: 0.266887  not_paper: 0.733113  tpr: 0.970896  far: 0.100000
+cnt_p: 132  cnt_n:  1329  label: 1  paper: 0.749992  not_paper: 0.250008  tpr: 0.991791  far: 0.200000
+cnt_p: 198  cnt_n:  1337  label: 1  paper: 0.935293  not_paper: 0.064707  tpr: 0.997761  far: 0.300000
+[train] time:2020-03-16 02:08:08 6: E0.72[000] lr 1.2e-05f tota 2.949 age 0.190 angl 0.487 anti 0.552 beau 0.050 blur 0.401 cls_ 0.001 expr 0.018 gend 0.255 glas 0.018 pts4 0.190 pts5 0.241 pts6 0.263 race 0.005 regu 0.001 | anti 0.940 blur 0.962 cls 1.000 expr 0.976 gend 0.962 glas 0.991 race 0.981 
+[train] time:2020-03-16 02:10:54 6: E0.72[005] lr 1.2e-05f tota 2.933 age 0.199 angl 0.486 anti 0.589 beau 0.047 blur 0.368 cls_ 0.001 expr 0.017 gend 0.244 glas 0.006 pts4 0.164 pts5 0.246 pts6 0.263 race 0.008 regu 0.001 | anti 0.900 blur 0.976 cls 1.000 expr 0.986 gend 0.967 glas 1.000 race 0.981 
+[train] time:2020-03-16 02:13:39 6: E0.72[010] lr 1.2e-05f tota 2.932 age 0.193 angl 0.465 anti 0.549 beau 0.051 blur 0.356 cls_ 0.013 expr 0.011 gend 0.241 glas 0.021 pts4 0.155 pts5 0.314 pts6 0.286 race 0.005 regu 0.001 | anti 0.940 blur 0.981 cls 0.990 expr 0.991 gend 0.981 glas 0.995 race 0.981 
+[train] time:2020-03-16 02:16:25 6: E0.72[015] lr 1.2e-05f tota 3.012 age 0.231 angl 0.498 anti 0.554 beau 0.049 blur 0.399 cls_ 0.002 expr 0.020 gend 0.268 glas 0.015 pts4 0.178 pts5 0.249 pts6 0.263 race 0.007 regu 0.001 | anti 0.940 blur 0.948 cls 1.000 expr 0.962 gend 0.953 glas 0.991 race 0.972 
+[train] time:2020-03-16 02:19:10 6: E0.72[020] lr 1.2e-05f tota 2.915 age 0.194 angl 0.472 anti 0.588 beau 0.051 blur 0.355 cls_ 0.001 expr 0.020 gend 0.265 glas 0.009 pts4 0.171 pts5 0.236 pts6 0.253 race 0.005 regu 0.001 | anti 0.890 blur 0.976 cls 1.000 expr 0.976 gend 0.953 glas 0.995 race 0.981 
+[train] time:2020-03-16 02:21:56 6: E0.72[025] lr 1.2e-05f tota 3.541 age 0.221 angl 0.602 anti 0.589 beau 0.045 blur 0.369 cls_ 0.001 expr 0.015 gend 0.267 glas 0.025 pts4 0.466 pts5 0.348 pts6 0.283 race 0.015 regu 0.001 | anti 0.905 blur 0.972 cls 1.000 expr 0.976 gend 0.953 glas 0.995 race 0.939 
+[train] time:2020-03-16 02:24:42 6: E0.72[030] lr 1.2e-05f tota 3.323 age 0.230 angl 0.513 anti 0.591 beau 0.047 blur 0.364 cls_ 0.000 expr 0.013 gend 0.258 glas 0.042 pts4 0.466 pts5 0.232 pts6 0.261 race 0.009 regu 0.001 | anti 0.900 blur 0.972 cls 1.000 expr 0.986 gend 0.958 glas 0.991 race 0.962 
+[train] time:2020-03-16 02:27:28 6: E0.72[035] lr 1.2e-05f tota 3.266 age 0.218 angl 0.519 anti 0.560 beau 0.050 blur 0.427 cls_ 0.082 expr 0.018 gend 0.273 glas 0.014 pts4 0.350 pts5 0.223 pts6 0.254 race 0.015 regu 0.001 | anti 0.940 blur 0.939 cls 0.990 expr 0.981 gend 0.967 glas 0.995 race 0.962 
+[train] time:2020-03-16 02:29:41 6: E0.72[039] lr 1.2e-05f tota 3.058 age 0.201 angl 0.494 anti 0.578 beau 0.048 blur 0.384 cls_ 0.005 expr 0.021 gend 0.250 glas 0.014 pts4 0.248 pts5 0.249 pts6 0.267 race 0.010 regu 0.001 | anti 0.911 blur 0.965 cls 0.999 expr 0.974 gend 0.969 glas 0.995 race 0.968 
+angl 0.233 anti 0.670 beau 0.572 blur 0.051 cls_ 0.463 expr 0.335 gend 0.007 glas 0.301 pts4 0.017 pts5 0.344 pts6 0.315 race 0.218 regu 0.017 | anti 0.001 blur 0.922 cls 0.939 expr 0.938 gend 0.992 glas 0.942 race 0.993 
+total_p 470 total_n 1650
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.035149  clean: 0.964851  tpr: 0.000606  far: 0.000100
+cnt_p:   1  cnt_n:  1019  label: 0  blur: 0.065773  clean: 0.934227  tpr: 0.617576  far: 0.002128
+cnt_p:   2  cnt_n:  1063  label: 0  blur: 0.069975  clean: 0.930025  tpr: 0.644242  far: 0.005000
+cnt_p:   4  cnt_n:  1110  label: 0  blur: 0.076633  clean: 0.923367  tpr: 0.672727  far: 0.010000
+cnt_p:  23  cnt_n:  1387  label: 0  blur: 0.164019  clean: 0.835981  tpr: 0.840606  far: 0.050000
+cnt_p:  47  cnt_n:  1542  label: 0  blur: 0.323425  clean: 0.676575  tpr: 0.934545  far: 0.100000
+cnt_p:  94  cnt_n:  1609  label: 0  blur: 0.564801  clean: 0.435199  tpr: 0.975152  far: 0.200000
+cnt_p: 141  cnt_n:  1624  label: 0  blur: 0.690694  clean: 0.309306  tpr: 0.984242  far: 0.300000
+total_p 178 total_n 822
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.999397  noface: 0.000603  tpr(cnt_p/total_p): 0.005618  far(cnt_n/total_n): 0.000100
+cnt_p: 121  cnt_n:     1  label: 0  face: 0.424435  noface: 0.575565  tpr(cnt_p/total_p): 0.679775  far(cnt_n/total_n): 0.001217
+cnt_p: 152  cnt_n:     4  label: 0  face: 0.071814  noface: 0.928186  tpr(cnt_p/total_p): 0.853933  far(cnt_n/total_n): 0.005000
+cnt_p: 154  cnt_n:     8  label: 0  face: 0.033785  noface: 0.966215  tpr(cnt_p/total_p): 0.865169  far(cnt_n/total_n): 0.010000
+cnt_p: 165  cnt_n:    24  label: 0  face: 0.002382  noface: 0.997618  tpr(cnt_p/total_p): 0.926966  far(cnt_n/total_n): 0.030000
+cnt_p: 168  cnt_n:    41  label: 0  face: 0.000804  noface: 0.999196  tpr(cnt_p/total_p): 0.943820  far(cnt_n/total_n): 0.050000
+cnt_p: 174  cnt_n:    82  label: 0  face: 0.000213  noface: 0.999787  tpr(cnt_p/total_p): 0.977528  far(cnt_n/total_n): 0.100000
+cnt_p: 177  cnt_n:   164  label: 0  face: 0.000050  noface: 0.999950  tpr(cnt_p/total_p): 0.994382  far(cnt_n/total_n): 0.200000
+cnt_p: 177  cnt_n:   246  label: 0  face: 0.000015  noface: 0.999985  tpr(cnt_p/total_p): 0.994382  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   366  label: 1 live: 0.000007  anti: 0.999993  tpr: 0.273134  far: 0.001515
+cnt_p:   3  cnt_n:   914  label: 1 live: 0.003128  anti: 0.996872  tpr: 0.682090  far: 0.005000
+cnt_p:   6  cnt_n:  1015  label: 1 live: 0.009990  anti: 0.990010  tpr: 0.757463  far: 0.010000
+cnt_p:  33  cnt_n:  1259  label: 1 live: 0.441007  anti: 0.558993  tpr: 0.939552  far: 0.050000
+cnt_p:  66  cnt_n:  1294  label: 1 live: 0.786634  anti: 0.213366  tpr: 0.965672  far: 0.100000
+cnt_p: 132  cnt_n:  1317  label: 1 live: 0.955289  anti: 0.044711  tpr: 0.982836  far: 0.200000
+cnt_p: 198  cnt_n:  1329  label: 1 live: 0.986665  anti: 0.013335  tpr: 0.991791  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   550  label: 1  phone: 0.000180 not_phone: 0.999820  tpr: 0.416667  far: 0.001471
+cnt_p:   3  cnt_n:   645  label: 1  phone: 0.000449 not_phone: 0.999551  tpr: 0.488636  far: 0.005000
+cnt_p:   6  cnt_n:   896  label: 1  phone: 0.002847 not_phone: 0.997153  tpr: 0.678788  far: 0.010000
+cnt_p:  34  cnt_n:  1198  label: 1  phone: 0.114549 not_phone: 0.885451  tpr: 0.907576  far: 0.050000
+cnt_p:  68  cnt_n:  1279  label: 1  phone: 0.611833 not_phone: 0.388167  tpr: 0.968939  far: 0.100000
+cnt_p: 136  cnt_n:  1312  label: 1  phone: 0.954946 not_phone: 0.045054  tpr: 0.993939  far: 0.200000
+cnt_p: 204  cnt_n:  1315  label: 1  phone: 0.993665 not_phone: 0.006335  tpr: 0.996212  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   749  label: 1  paper: 0.000143  not_paper: 0.999857  tpr: 0.558955  far: 0.001515
+cnt_p:   3  cnt_n:   851  label: 1  paper: 0.000409  not_paper: 0.999591  tpr: 0.635075  far: 0.005000
+cnt_p:   6  cnt_n:  1003  label: 1  paper: 0.001910  not_paper: 0.998090  tpr: 0.748507  far: 0.010000
+cnt_p:  33  cnt_n:  1277  label: 1  paper: 0.122666  not_paper: 0.877334  tpr: 0.952985  far: 0.050000
+cnt_p:  66  cnt_n:  1316  label: 1  paper: 0.514171  not_paper: 0.485829  tpr: 0.982090  far: 0.100000
+cnt_p: 132  cnt_n:  1334  label: 1  paper: 0.896683  not_paper: 0.103317  tpr: 0.995522  far: 0.200000
+cnt_p: 198  cnt_n:  1336  label: 1  paper: 0.970284  not_paper: 0.029716  tpr: 0.997015  far: 0.300000
+[train] time:2020-03-16 02:31:36 7: E0.82[000] lr 1.2e-05f tota 2.942 age 0.198 angl 0.456 anti 0.578 beau 0.046 blur 0.380 cls_ 0.001 expr 0.023 gend 0.243 glas 0.021 pts4 0.191 pts5 0.242 pts6 0.268 race 0.006 regu 0.001 | anti 0.920 blur 0.972 cls 1.000 expr 0.962 gend 0.972 glas 0.991 race 0.976 
+[train] time:2020-03-16 02:34:21 7: E0.82[005] lr 1.2e-05f tota 2.868 age 0.174 angl 0.499 anti 0.572 beau 0.049 blur 0.380 cls_ 0.001 expr 0.017 gend 0.244 glas 0.008 pts4 0.159 pts5 0.218 pts6 0.250 race 0.008 regu 0.001 | anti 0.930 blur 0.967 cls 1.000 expr 0.986 gend 0.972 glas 0.995 race 0.981 
+[train] time:2020-03-16 02:37:06 7: E0.82[010] lr 1.2e-05f tota 3.044 age 0.193 angl 0.506 anti 0.586 beau 0.048 blur 0.372 cls_ 0.003 expr 0.011 gend 0.265 glas 0.011 pts4 0.249 pts5 0.233 pts6 0.267 race 0.007 regu 0.001 | anti 0.905 blur 0.962 cls 1.000 expr 0.986 gend 0.962 glas 0.995 race 0.972 
+[train] time:2020-03-16 02:39:51 7: E0.82[015] lr 1.2e-05f tota 3.088 age 0.221 angl 0.481 anti 0.612 beau 0.046 blur 0.410 cls_ 0.097 expr 0.022 gend 0.242 glas 0.005 pts4 0.163 pts5 0.238 pts6 0.255 race 0.009 regu 0.001 | anti 0.875 blur 0.943 cls 0.990 expr 0.967 gend 0.981 glas 1.000 race 0.972 
+[train] time:2020-03-16 02:42:36 7: E0.82[020] lr 1.2e-05f tota 2.956 age 0.188 angl 0.475 anti 0.579 beau 0.049 blur 0.355 cls_ 0.001 expr 0.018 gend 0.291 glas 0.006 pts4 0.175 pts5 0.264 pts6 0.260 race 0.005 regu 0.001 | anti 0.910 blur 0.976 cls 1.000 expr 0.981 gend 0.943 glas 1.000 race 0.981 
+[train] time:2020-03-16 02:45:21 7: E0.82[025] lr 1.2e-05f tota 3.843 age 0.219 angl 0.636 anti 0.580 beau 0.049 blur 0.397 cls_ 0.002 expr 0.017 gend 0.272 glas 0.009 pts4 0.901 pts5 0.207 pts6 0.248 race 0.015 regu 0.001 | anti 0.905 blur 0.948 cls 1.000 expr 0.986 gend 0.953 glas 0.995 race 0.948 
+[train] time:2020-03-16 02:48:05 7: E0.82[030] lr 1.2e-05f tota 3.171 age 0.214 angl 0.541 anti 0.584 beau 0.051 blur 0.404 cls_ 0.004 expr 0.024 gend 0.254 glas 0.005 pts4 0.236 pts5 0.269 pts6 0.275 race 0.017 regu 0.001 | anti 0.895 blur 0.953 cls 1.000 expr 0.986 gend 0.967 glas 1.000 race 0.958 
+[train] time:2020-03-16 02:50:51 7: E0.82[035] lr 1.2e-05f tota 2.876 age 0.189 angl 0.489 anti 0.570 beau 0.049 blur 0.388 cls_ 0.001 expr 0.015 gend 0.229 glas 0.022 pts4 0.169 pts5 0.202 pts6 0.254 race 0.013 regu 0.001 | anti 0.920 blur 0.967 cls 1.000 expr 0.976 gend 0.981 glas 0.995 race 0.962 
+[train] time:2020-03-16 02:53:04 7: E0.82[039] lr 1.2e-05f tota 3.088 age 0.199 angl 0.498 anti 0.581 beau 0.048 blur 0.384 cls_ 0.005 expr 0.022 gend 0.249 glas 0.013 pts4 0.266 pts5 0.251 pts6 0.271 race 0.010 regu 0.001 | anti 0.909 blur 0.965 cls 0.999 expr 0.974 gend 0.971 glas 0.996 race 0.967 
+angl 0.242 anti 0.679 beau 0.591 blur 0.052 cls_ 0.470 expr 0.354 gend 0.010 glas 0.297 pts4 0.019 pts5 0.370 pts6 0.345 race 0.225 regu 0.017 | anti 0.001 blur 0.892 cls 0.933 expr 0.934 gend 0.987 glas 0.946 race 0.991 
+total_p 466 total_n 1654
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.032243  clean: 0.967757  tpr: 0.000605  far: 0.000100
+cnt_p:   1  cnt_n:   978  label: 0  blur: 0.057892  clean: 0.942108  tpr: 0.591294  far: 0.002146
+cnt_p:   2  cnt_n:  1003  label: 0  blur: 0.059234  clean: 0.940766  tpr: 0.606409  far: 0.005000
+cnt_p:   4  cnt_n:  1027  label: 0  blur: 0.060718  clean: 0.939282  tpr: 0.620919  far: 0.010000
+cnt_p:  23  cnt_n:  1448  label: 0  blur: 0.188607  clean: 0.811393  tpr: 0.875453  far: 0.050000
+cnt_p:  46  cnt_n:  1544  label: 0  blur: 0.317862  clean: 0.682138  tpr: 0.933495  far: 0.100000
+cnt_p:  93  cnt_n:  1597  label: 0  blur: 0.530056  clean: 0.469944  tpr: 0.965538  far: 0.200000
+cnt_p: 139  cnt_n:  1618  label: 0  blur: 0.651178  clean: 0.348822  tpr: 0.978235  far: 0.300000
+total_p 186 total_n 814
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.999690  noface: 0.000310  tpr(cnt_p/total_p): 0.005376  far(cnt_n/total_n): 0.000100
+cnt_p: 119  cnt_n:     1  label: 0  face: 0.519565  noface: 0.480435  tpr(cnt_p/total_p): 0.639785  far(cnt_n/total_n): 0.001229
+cnt_p: 161  cnt_n:     4  label: 0  face: 0.023062  noface: 0.976938  tpr(cnt_p/total_p): 0.865591  far(cnt_n/total_n): 0.005000
+cnt_p: 167  cnt_n:     8  label: 0  face: 0.012276  noface: 0.987724  tpr(cnt_p/total_p): 0.897849  far(cnt_n/total_n): 0.010000
+cnt_p: 179  cnt_n:    24  label: 0  face: 0.001396  noface: 0.998604  tpr(cnt_p/total_p): 0.962366  far(cnt_n/total_n): 0.030000
+cnt_p: 181  cnt_n:    40  label: 0  face: 0.000564  noface: 0.999436  tpr(cnt_p/total_p): 0.973118  far(cnt_n/total_n): 0.050000
+cnt_p: 181  cnt_n:    81  label: 0  face: 0.000164  noface: 0.999836  tpr(cnt_p/total_p): 0.973118  far(cnt_n/total_n): 0.100000
+cnt_p: 183  cnt_n:   162  label: 0  face: 0.000032  noface: 0.999968  tpr(cnt_p/total_p): 0.983871  far(cnt_n/total_n): 0.200000
+cnt_p: 185  cnt_n:   244  label: 0  face: 0.000010  noface: 0.999990  tpr(cnt_p/total_p): 0.994624  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   564  label: 1 live: 0.000402  anti: 0.999598  tpr: 0.420896  far: 0.001515
+cnt_p:   3  cnt_n:   671  label: 1 live: 0.001359  anti: 0.998641  tpr: 0.500746  far: 0.005000
+cnt_p:   6  cnt_n:   930  label: 1 live: 0.017574  anti: 0.982426  tpr: 0.694030  far: 0.010000
+cnt_p:  33  cnt_n:  1201  label: 1 live: 0.460662  anti: 0.539338  tpr: 0.896269  far: 0.050000
+cnt_p:  66  cnt_n:  1262  label: 1 live: 0.839355  anti: 0.160645  tpr: 0.941791  far: 0.100000
+cnt_p: 132  cnt_n:  1311  label: 1 live: 0.982575  anti: 0.017425  tpr: 0.978358  far: 0.200000
+cnt_p: 198  cnt_n:  1324  label: 1 live: 0.995696  anti: 0.004304  tpr: 0.988060  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   615  label: 1  phone: 0.000109 not_phone: 0.999891  tpr: 0.465909  far: 0.001471
+cnt_p:   3  cnt_n:   649  label: 1  phone: 0.000135 not_phone: 0.999865  tpr: 0.491667  far: 0.005000
+cnt_p:   6  cnt_n:   863  label: 1  phone: 0.000609 not_phone: 0.999391  tpr: 0.653788  far: 0.010000
+cnt_p:  34  cnt_n:  1163  label: 1  phone: 0.010086 not_phone: 0.989914  tpr: 0.881061  far: 0.050000
+cnt_p:  68  cnt_n:  1268  label: 1  phone: 0.099083 not_phone: 0.900917  tpr: 0.960606  far: 0.100000
+cnt_p: 136  cnt_n:  1309  label: 1  phone: 0.615107 not_phone: 0.384893  tpr: 0.991667  far: 0.200000
+cnt_p: 204  cnt_n:  1315  label: 1  phone: 0.901990 not_phone: 0.098010  tpr: 0.996212  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   665  label: 1  paper: 0.000162  not_paper: 0.999838  tpr: 0.496269  far: 0.001515
+cnt_p:   3  cnt_n:   965  label: 1  paper: 0.002297  not_paper: 0.997703  tpr: 0.720149  far: 0.005000
+cnt_p:   6  cnt_n:  1047  label: 1  paper: 0.005863  not_paper: 0.994137  tpr: 0.781343  far: 0.010000
+cnt_p:  33  cnt_n:  1249  label: 1  paper: 0.206846  not_paper: 0.793154  tpr: 0.932090  far: 0.050000
+cnt_p:  66  cnt_n:  1290  label: 1  paper: 0.568491  not_paper: 0.431509  tpr: 0.962687  far: 0.100000
+cnt_p: 132  cnt_n:  1321  label: 1  paper: 0.931518  not_paper: 0.068482  tpr: 0.985821  far: 0.200000
+cnt_p: 198  cnt_n:  1327  label: 1  paper: 0.975911  not_paper: 0.024089  tpr: 0.990299  far: 0.300000
+[train] time:2020-03-16 02:55:00 8: E0.92[000] lr 1.2e-05f tota 2.980 age 0.204 angl 0.447 anti 0.598 beau 0.044 blur 0.398 cls_ 0.001 expr 0.017 gend 0.243 glas 0.017 pts4 0.217 pts5 0.222 pts6 0.263 race 0.010 regu 0.001 | anti 0.875 blur 0.943 cls 1.000 expr 0.972 gend 0.972 glas 0.995 race 0.967 
+[train] time:2020-03-16 02:57:45 8: E0.92[005] lr 1.2e-05f tota 3.104 age 0.193 angl 0.503 anti 0.579 beau 0.045 blur 0.422 cls_ 0.002 expr 0.014 gend 0.253 glas 0.015 pts4 0.219 pts5 0.274 pts6 0.286 race 0.009 regu 0.001 | anti 0.905 blur 0.934 cls 1.000 expr 0.986 gend 0.958 glas 0.995 race 0.986 
+[train] time:2020-03-16 03:00:30 8: E0.92[010] lr 1.2e-05f tota 3.051 age 0.182 angl 0.466 anti 0.579 beau 0.049 blur 0.386 cls_ 0.002 expr 0.036 gend 0.235 glas 0.031 pts4 0.318 pts5 0.204 pts6 0.265 race 0.010 regu 0.001 | anti 0.915 blur 0.953 cls 1.000 expr 0.939 gend 0.976 glas 0.995 race 0.962 
+[train] time:2020-03-16 03:03:17 8: E0.92[015] lr 1.2e-05f tota 2.962 age 0.216 angl 0.465 anti 0.603 beau 0.051 blur 0.384 cls_ 0.005 expr 0.026 gend 0.246 glas 0.015 pts4 0.178 pts5 0.212 pts6 0.250 race 0.010 regu 0.001 | anti 0.870 blur 0.972 cls 1.000 expr 0.962 gend 0.972 glas 0.995 race 0.972 
+[train] time:2020-03-16 03:06:03 8: E0.92[020] lr 1.2e-05f tota 2.920 age 0.204 angl 0.486 anti 0.583 beau 0.047 blur 0.375 cls_ 0.003 expr 0.012 gend 0.258 glas 0.024 pts4 0.164 pts5 0.204 pts6 0.249 race 0.018 regu 0.001 | anti 0.920 blur 0.972 cls 1.000 expr 0.991 gend 0.972 glas 0.986 race 0.934 
+[train] time:2020-03-16 03:08:51 8: E0.92[025] lr 1.2e-05f tota 3.208 age 0.218 angl 0.450 anti 0.565 beau 0.049 blur 0.409 cls_ 0.002 expr 0.019 gend 0.265 glas 0.010 pts4 0.453 pts5 0.218 pts6 0.263 race 0.005 regu 0.001 | anti 0.925 blur 0.934 cls 1.000 expr 0.981 gend 0.962 glas 0.995 race 0.995 
+[train] time:2020-03-16 03:11:37 8: E0.92[030] lr 1.2e-05f tota 2.972 age 0.216 angl 0.455 anti 0.559 beau 0.053 blur 0.393 cls_ 0.020 expr 0.023 gend 0.250 glas 0.019 pts4 0.173 pts5 0.245 pts6 0.283 race 0.006 regu 0.001 | anti 0.935 blur 0.953 cls 0.990 expr 0.976 gend 0.958 glas 0.991 race 0.986 
+[train] time:2020-03-16 03:14:22 8: E0.92[035] lr 1.2e-05f tota 3.099 age 0.214 angl 0.449 anti 0.604 beau 0.046 blur 0.387 cls_ 0.014 expr 0.018 gend 0.256 glas 0.016 pts4 0.314 pts5 0.191 pts6 0.282 race 0.007 regu 0.001 | anti 0.880 blur 0.958 cls 0.990 expr 0.981 gend 0.958 glas 0.991 race 0.981 
+[train] time:2020-03-16 03:16:34 8: E0.92[039] lr 1.2e-05f tota 3.066 age 0.199 angl 0.487 anti 0.583 beau 0.049 blur 0.390 cls_ 0.005 expr 0.020 gend 0.252 glas 0.016 pts4 0.252 pts5 0.242 pts6 0.271 race 0.010 regu 0.001 | anti 0.904 blur 0.961 cls 0.999 expr 0.974 gend 0.968 glas 0.995 race 0.968 
+angl 0.254 anti 0.677 beau 0.579 blur 0.052 cls_ 0.443 expr 0.343 gend 0.016 glas 0.294 pts4 0.017 pts5 0.449 pts6 0.369 race 0.228 regu 0.015 | anti 0.001 blur 0.908 cls 0.942 expr 0.929 gend 0.980 glas 0.945 race 0.994 
+total_p 450 total_n 1670
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.029320  clean: 0.970680  tpr: 0.000599  far: 0.000100
+cnt_p:   1  cnt_n:  1289  label: 0  blur: 0.106520  clean: 0.893480  tpr: 0.771856  far: 0.002222
+cnt_p:   2  cnt_n:  1295  label: 0  blur: 0.108470  clean: 0.891530  tpr: 0.775449  far: 0.005000
+cnt_p:   4  cnt_n:  1340  label: 0  blur: 0.132699  clean: 0.867301  tpr: 0.802395  far: 0.010000
+cnt_p:  22  cnt_n:  1495  label: 0  blur: 0.262444  clean: 0.737556  tpr: 0.895210  far: 0.050000
+cnt_p:  45  cnt_n:  1574  label: 0  blur: 0.388835  clean: 0.611165  tpr: 0.942515  far: 0.100000
+cnt_p:  90  cnt_n:  1631  label: 0  blur: 0.566037  clean: 0.433963  tpr: 0.976647  far: 0.200000
+cnt_p: 135  cnt_n:  1654  label: 0  blur: 0.659560  clean: 0.340440  tpr: 0.990419  far: 0.300000
+total_p 176 total_n 824
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.998851  noface: 0.001149  tpr(cnt_p/total_p): 0.005682  far(cnt_n/total_n): 0.001214
+cnt_p: 147  cnt_n:     4  label: 0  face: 0.067278  noface: 0.932722  tpr(cnt_p/total_p): 0.835227  far(cnt_n/total_n): 0.005000
+cnt_p: 162  cnt_n:     8  label: 0  face: 0.012166  noface: 0.987834  tpr(cnt_p/total_p): 0.920455  far(cnt_n/total_n): 0.010000
+cnt_p: 165  cnt_n:    24  label: 0  face: 0.002979  noface: 0.997021  tpr(cnt_p/total_p): 0.937500  far(cnt_n/total_n): 0.030000
+cnt_p: 167  cnt_n:    41  label: 0  face: 0.001099  noface: 0.998901  tpr(cnt_p/total_p): 0.948864  far(cnt_n/total_n): 0.050000
+cnt_p: 171  cnt_n:    82  label: 0  face: 0.000270  noface: 0.999730  tpr(cnt_p/total_p): 0.971591  far(cnt_n/total_n): 0.100000
+cnt_p: 173  cnt_n:   164  label: 0  face: 0.000041  noface: 0.999959  tpr(cnt_p/total_p): 0.982955  far(cnt_n/total_n): 0.200000
+cnt_p: 175  cnt_n:   247  label: 0  face: 0.000010  noface: 0.999990  tpr(cnt_p/total_p): 0.994318  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   297  label: 1 live: 0.000013  anti: 0.999987  tpr: 0.221642  far: 0.001515
+cnt_p:   3  cnt_n:   810  label: 1 live: 0.002782  anti: 0.997218  tpr: 0.604478  far: 0.005000
+cnt_p:   6  cnt_n:  1044  label: 1 live: 0.036585  anti: 0.963415  tpr: 0.779104  far: 0.010000
+cnt_p:  33  cnt_n:  1242  label: 1 live: 0.508476  anti: 0.491524  tpr: 0.926866  far: 0.050000
+cnt_p:  66  cnt_n:  1296  label: 1 live: 0.876681  anti: 0.123319  tpr: 0.967164  far: 0.100000
+cnt_p: 132  cnt_n:  1327  label: 1 live: 0.982605  anti: 0.017395  tpr: 0.990299  far: 0.200000
+cnt_p: 198  cnt_n:  1334  label: 1 live: 0.994479  anti: 0.005521  tpr: 0.995522  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   596  label: 1  phone: 0.000082 not_phone: 0.999918  tpr: 0.451515  far: 0.001471
+cnt_p:   3  cnt_n:   814  label: 1  phone: 0.000361 not_phone: 0.999639  tpr: 0.616667  far: 0.005000
+cnt_p:   6  cnt_n:   992  label: 1  phone: 0.001554 not_phone: 0.998446  tpr: 0.751515  far: 0.010000
+cnt_p:  34  cnt_n:  1225  label: 1  phone: 0.035180 not_phone: 0.964820  tpr: 0.928030  far: 0.050000
+cnt_p:  68  cnt_n:  1279  label: 1  phone: 0.187292 not_phone: 0.812708  tpr: 0.968939  far: 0.100000
+cnt_p: 136  cnt_n:  1309  label: 1  phone: 0.658517 not_phone: 0.341483  tpr: 0.991667  far: 0.200000
+cnt_p: 204  cnt_n:  1316  label: 1  phone: 0.920078 not_phone: 0.079922  tpr: 0.996970  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   835  label: 1  paper: 0.001126  not_paper: 0.998874  tpr: 0.623134  far: 0.001515
+cnt_p:   3  cnt_n:  1076  label: 1  paper: 0.011150  not_paper: 0.988850  tpr: 0.802985  far: 0.005000
+cnt_p:   6  cnt_n:  1158  label: 1  paper: 0.034750  not_paper: 0.965250  tpr: 0.864179  far: 0.010000
+cnt_p:  33  cnt_n:  1262  label: 1  paper: 0.299352  not_paper: 0.700648  tpr: 0.941791  far: 0.050000
+cnt_p:  66  cnt_n:  1312  label: 1  paper: 0.763059  not_paper: 0.236941  tpr: 0.979104  far: 0.100000
+cnt_p: 132  cnt_n:  1330  label: 1  paper: 0.951555  not_paper: 0.048445  tpr: 0.992537  far: 0.200000
+cnt_p: 198  cnt_n:  1336  label: 1  paper: 0.986491  not_paper: 0.013509  tpr: 0.997015  far: 0.300000
+[train] time:2020-03-16 03:18:29 9: E1.03[000] lr 1.2e-05f tota 3.029 age 0.214 angl 0.490 anti 0.584 beau 0.050 blur 0.389 cls_ 0.008 expr 0.016 gend 0.242 glas 0.009 pts4 0.180 pts5 0.265 pts6 0.278 race 0.011 regu 0.001 | anti 0.900 blur 0.972 cls 1.000 expr 0.986 gend 0.986 glas 0.995 race 0.962 
+[train] time:2020-03-16 03:21:17 9: E1.03[005] lr 1.2e-05f tota 3.462 age 0.193 angl 0.559 anti 0.575 beau 0.047 blur 0.363 cls_ 0.028 expr 0.019 gend 0.279 glas 0.014 pts4 0.528 pts5 0.298 pts6 0.271 race 0.006 regu 0.001 | anti 0.910 blur 0.967 cls 0.990 expr 0.981 gend 0.953 glas 0.995 race 0.976 
+[train] time:2020-03-16 03:24:03 9: E1.03[010] lr 1.2e-05f tota 2.950 age 0.204 angl 0.501 anti 0.590 beau 0.045 blur 0.385 cls_ 0.013 expr 0.021 gend 0.237 glas 0.002 pts4 0.168 pts5 0.220 pts6 0.262 race 0.009 regu 0.001 | anti 0.905 blur 0.962 cls 0.990 expr 0.976 gend 0.972 glas 1.000 race 0.967 
+[train] time:2020-03-16 03:26:48 9: E1.03[015] lr 1.2e-05f tota 3.028 age 0.196 angl 0.499 anti 0.564 beau 0.049 blur 0.386 cls_ 0.031 expr 0.018 gend 0.265 glas 0.010 pts4 0.194 pts5 0.269 pts6 0.261 race 0.008 regu 0.001 | anti 0.920 blur 0.972 cls 0.990 expr 0.976 gend 0.962 glas 0.995 race 0.967 
+[train] time:2020-03-16 03:29:33 9: E1.03[020] lr 1.2e-05f tota 3.023 age 0.215 angl 0.496 anti 0.579 beau 0.045 blur 0.434 cls_ 0.001 expr 0.016 gend 0.247 glas 0.012 pts4 0.180 pts5 0.247 pts6 0.252 race 0.009 regu 0.001 | anti 0.910 blur 0.953 cls 1.000 expr 0.972 gend 0.967 glas 0.995 race 0.972 
+[train] time:2020-03-16 03:32:18 9: E1.03[025] lr 1.2e-05f tota 3.247 age 0.194 angl 0.541 anti 0.597 beau 0.049 blur 0.405 cls_ 0.006 expr 0.024 gend 0.254 glas 0.012 pts4 0.284 pts5 0.286 pts6 0.284 race 0.012 regu 0.001 | anti 0.880 blur 0.939 cls 1.000 expr 0.972 gend 0.967 glas 0.995 race 0.967 
+[train] time:2020-03-16 03:35:02 9: E1.03[030] lr 1.2e-05f tota 2.931 age 0.200 angl 0.471 anti 0.545 beau 0.052 blur 0.415 cls_ 0.002 expr 0.024 gend 0.248 glas 0.021 pts4 0.166 pts5 0.234 pts6 0.273 race 0.007 regu 0.001 | anti 0.960 blur 0.948 cls 1.000 expr 0.972 gend 0.976 glas 0.991 race 0.981 
+[train] time:2020-03-16 03:37:48 9: E1.03[035] lr 1.1e-05f tota 2.940 age 0.198 angl 0.441 anti 0.604 beau 0.046 blur 0.401 cls_ 0.003 expr 0.022 gend 0.240 glas 0.016 pts4 0.166 pts5 0.231 pts6 0.263 race 0.007 regu 0.001 | anti 0.885 blur 0.953 cls 1.000 expr 0.967 gend 0.976 glas 0.991 race 0.986 
+[train] time:2020-03-16 03:40:00 9: E1.03[039] lr 1.1e-05f tota 3.082 age 0.199 angl 0.496 anti 0.579 beau 0.048 blur 0.393 cls_ 0.008 expr 0.022 gend 0.250 glas 0.016 pts4 0.269 pts5 0.239 pts6 0.266 race 0.009 regu 0.001 | anti 0.910 blur 0.962 cls 0.998 expr 0.972 gend 0.970 glas 0.994 race 0.970 
+angl 0.252 anti 0.687 beau 0.586 blur 0.053 cls_ 0.453 expr 0.458 gend 0.015 glas 0.301 pts4 0.018 pts5 0.446 pts6 0.369 race 0.233 regu 0.014 | anti 0.001 blur 0.900 cls 0.938 expr 0.920 gend 0.980 glas 0.941 race 0.991 
+total_p 450 total_n 1670
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.029723  clean: 0.970277  tpr: 0.000599  far: 0.000100
+cnt_p:   1  cnt_n:  1290  label: 0  blur: 0.125892  clean: 0.874108  tpr: 0.772455  far: 0.002222
+cnt_p:   2  cnt_n:  1294  label: 0  blur: 0.128636  clean: 0.871364  tpr: 0.774850  far: 0.005000
+cnt_p:   4  cnt_n:  1368  label: 0  blur: 0.183095  clean: 0.816905  tpr: 0.819162  far: 0.010000
+cnt_p:  22  cnt_n:  1459  label: 0  blur: 0.262957  clean: 0.737043  tpr: 0.873653  far: 0.050000
+cnt_p:  45  cnt_n:  1575  label: 0  blur: 0.443340  clean: 0.556660  tpr: 0.943114  far: 0.100000
+cnt_p:  90  cnt_n:  1625  label: 0  blur: 0.602425  clean: 0.397575  tpr: 0.973054  far: 0.200000
+cnt_p: 135  cnt_n:  1648  label: 0  blur: 0.698264  clean: 0.301736  tpr: 0.986826  far: 0.300000
+total_p 185 total_n 815
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.999357  noface: 0.000643  tpr(cnt_p/total_p): 0.005405  far(cnt_n/total_n): 0.000100
+cnt_p: 105  cnt_n:     1  label: 0  face: 0.477148  noface: 0.522852  tpr(cnt_p/total_p): 0.567568  far(cnt_n/total_n): 0.001227
+cnt_p: 159  cnt_n:     4  label: 0  face: 0.015764  noface: 0.984236  tpr(cnt_p/total_p): 0.859459  far(cnt_n/total_n): 0.005000
+cnt_p: 166  cnt_n:     8  label: 0  face: 0.006248  noface: 0.993752  tpr(cnt_p/total_p): 0.897297  far(cnt_n/total_n): 0.010000
+cnt_p: 175  cnt_n:    24  label: 0  face: 0.000868  noface: 0.999132  tpr(cnt_p/total_p): 0.945946  far(cnt_n/total_n): 0.030000
+cnt_p: 178  cnt_n:    40  label: 0  face: 0.000403  noface: 0.999597  tpr(cnt_p/total_p): 0.962162  far(cnt_n/total_n): 0.050000
+cnt_p: 180  cnt_n:    81  label: 0  face: 0.000102  noface: 0.999898  tpr(cnt_p/total_p): 0.972973  far(cnt_n/total_n): 0.100000
+cnt_p: 182  cnt_n:   163  label: 0  face: 0.000025  noface: 0.999975  tpr(cnt_p/total_p): 0.983784  far(cnt_n/total_n): 0.200000
+cnt_p: 183  cnt_n:   244  label: 0  face: 0.000008  noface: 0.999992  tpr(cnt_p/total_p): 0.989189  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   603  label: 1 live: 0.000531  anti: 0.999469  tpr: 0.450000  far: 0.001515
+cnt_p:   3  cnt_n:   682  label: 1 live: 0.001224  anti: 0.998776  tpr: 0.508955  far: 0.005000
+cnt_p:   6  cnt_n:   917  label: 1 live: 0.008702  anti: 0.991298  tpr: 0.684328  far: 0.010000
+cnt_p:  33  cnt_n:  1219  label: 1 live: 0.380813  anti: 0.619187  tpr: 0.909701  far: 0.050000
+cnt_p:  66  cnt_n:  1284  label: 1 live: 0.792963  anti: 0.207037  tpr: 0.958209  far: 0.100000
+cnt_p: 132  cnt_n:  1325  label: 1 live: 0.971946  anti: 0.028054  tpr: 0.988806  far: 0.200000
+cnt_p: 198  cnt_n:  1337  label: 1 live: 0.991414  anti: 0.008586  tpr: 0.997761  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   443  label: 1  phone: 0.000048 not_phone: 0.999952  tpr: 0.335606  far: 0.001471
+cnt_p:   3  cnt_n:   683  label: 1  phone: 0.000279 not_phone: 0.999721  tpr: 0.517424  far: 0.005000
+cnt_p:   6  cnt_n:   778  label: 1  phone: 0.000627 not_phone: 0.999373  tpr: 0.589394  far: 0.010000
+cnt_p:  34  cnt_n:  1182  label: 1  phone: 0.027915 not_phone: 0.972085  tpr: 0.895455  far: 0.050000
+cnt_p:  68  cnt_n:  1264  label: 1  phone: 0.165609 not_phone: 0.834391  tpr: 0.957576  far: 0.100000
+cnt_p: 136  cnt_n:  1302  label: 1  phone: 0.658310 not_phone: 0.341690  tpr: 0.986364  far: 0.200000
+cnt_p: 204  cnt_n:  1310  label: 1  phone: 0.940471 not_phone: 0.059529  tpr: 0.992424  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   920  label: 1  paper: 0.002259  not_paper: 0.997741  tpr: 0.686567  far: 0.001515
+cnt_p:   3  cnt_n:  1000  label: 1  paper: 0.004788  not_paper: 0.995212  tpr: 0.746269  far: 0.005000
+cnt_p:   6  cnt_n:  1123  label: 1  paper: 0.023641  not_paper: 0.976359  tpr: 0.838060  far: 0.010000
+cnt_p:  33  cnt_n:  1238  label: 1  paper: 0.218953  not_paper: 0.781047  tpr: 0.923881  far: 0.050000
+cnt_p:  66  cnt_n:  1300  label: 1  paper: 0.683321  not_paper: 0.316679  tpr: 0.970149  far: 0.100000
+cnt_p: 132  cnt_n:  1323  label: 1  paper: 0.928168  not_paper: 0.071832  tpr: 0.987313  far: 0.200000
+cnt_p: 198  cnt_n:  1329  label: 1  paper: 0.977841  not_paper: 0.022159  tpr: 0.991791  far: 0.300000
+[train] time:2020-03-16 03:41:56 10: E1.13[000] lr 1.1e-05f tota 3.006 age 0.202 angl 0.494 anti 0.568 beau 0.052 blur 0.396 cls_ 0.001 expr 0.020 gend 0.237 glas 0.004 pts4 0.186 pts5 0.264 pts6 0.286 race 0.011 regu 0.001 | anti 0.915 blur 0.958 cls 1.000 expr 0.972 gend 0.986 glas 1.000 race 0.958 
+[train] time:2020-03-16 03:44:39 10: E1.13[005] lr 1.1e-05f tota 3.359 age 0.207 angl 0.505 anti 0.571 beau 0.048 blur 0.358 cls_ 0.000 expr 0.016 gend 0.249 glas 0.014 pts4 0.396 pts5 0.399 pts6 0.304 race 0.007 regu 0.001 | anti 0.915 blur 0.981 cls 1.000 expr 0.981 gend 0.972 glas 0.995 race 0.976 
+[train] time:2020-03-16 03:47:23 10: E1.13[010] lr 1.1e-05f tota 2.883 age 0.186 angl 0.484 anti 0.561 beau 0.045 blur 0.388 cls_ 0.001 expr 0.023 gend 0.245 glas 0.003 pts4 0.166 pts5 0.220 pts6 0.273 race 0.008 regu 0.001 | anti 0.930 blur 0.967 cls 1.000 expr 0.972 gend 0.967 glas 1.000 race 0.962 
+[train] time:2020-03-16 03:50:08 10: E1.13[015] lr 1.1e-05f tota 3.095 age 0.199 angl 0.509 anti 0.594 beau 0.050 blur 0.390 cls_ 0.001 expr 0.027 gend 0.264 glas 0.012 pts4 0.188 pts5 0.276 pts6 0.282 race 0.007 regu 0.001 | anti 0.895 blur 0.958 cls 1.000 expr 0.962 gend 0.962 glas 0.995 race 0.976 
+[train] time:2020-03-16 03:52:51 10: E1.13[020] lr 1.1e-05f tota 3.057 age 0.208 angl 0.487 anti 0.595 beau 0.045 blur 0.421 cls_ 0.005 expr 0.018 gend 0.234 glas 0.015 pts4 0.185 pts5 0.271 pts6 0.268 race 0.008 regu 0.001 | anti 0.895 blur 0.953 cls 1.000 expr 0.972 gend 0.986 glas 0.995 race 0.962 
+[train] time:2020-03-16 03:55:36 10: E1.13[025] lr 1.1e-05f tota 3.145 age 0.196 angl 0.497 anti 0.574 beau 0.049 blur 0.412 cls_ 0.001 expr 0.023 gend 0.232 glas 0.008 pts4 0.176 pts5 0.366 pts6 0.312 race 0.011 regu 0.001 | anti 0.925 blur 0.953 cls 1.000 expr 0.962 gend 0.981 glas 0.995 race 0.958 
+[train] time:2020-03-16 03:58:20 10: E1.13[030] lr 1.1e-05f tota 2.932 age 0.201 angl 0.444 anti 0.582 beau 0.052 blur 0.391 cls_ 0.001 expr 0.019 gend 0.251 glas 0.027 pts4 0.164 pts5 0.238 pts6 0.269 race 0.003 regu 0.001 | anti 0.890 blur 0.962 cls 1.000 expr 0.981 gend 0.962 glas 0.991 race 0.995 
+[train] time:2020-03-16 04:01:04 10: E1.13[035] lr 1.1e-05f tota 2.841 age 0.202 angl 0.420 anti 0.550 beau 0.046 blur 0.403 cls_ 0.001 expr 0.021 gend 0.247 glas 0.010 pts4 0.165 pts5 0.227 pts6 0.264 race 0.009 regu 0.001 | anti 0.950 blur 0.943 cls 1.000 expr 0.976 gend 0.972 glas 0.995 race 0.986 
+[train] time:2020-03-16 04:03:15 10: E1.13[039] lr 1.1e-05f tota 3.057 age 0.200 angl 0.489 anti 0.577 beau 0.049 blur 0.391 cls_ 0.006 expr 0.020 gend 0.247 glas 0.013 pts4 0.237 pts5 0.258 pts6 0.273 race 0.010 regu 0.001 | anti 0.915 blur 0.961 cls 0.999 expr 0.972 gend 0.972 glas 0.995 race 0.968 
+angl 0.254 anti 0.683 beau 0.578 blur 0.052 cls_ 0.453 expr 0.497 gend 0.017 glas 0.298 pts4 0.017 pts5 0.452 pts6 0.366 race 0.228 regu 0.014 | anti 0.001 blur 0.916 cls 0.933 expr 0.904 gend 0.978 glas 0.937 race 0.994 
+total_p 450 total_n 1670
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.031421  clean: 0.968579  tpr: 0.000599  far: 0.000100
+cnt_p:   1  cnt_n:  1275  label: 0  blur: 0.110788  clean: 0.889212  tpr: 0.763473  far: 0.002222
+cnt_p:   2  cnt_n:  1318  label: 0  blur: 0.134425  clean: 0.865575  tpr: 0.789222  far: 0.005000
+cnt_p:   4  cnt_n:  1358  label: 0  blur: 0.172973  clean: 0.827027  tpr: 0.813174  far: 0.010000
+cnt_p:  22  cnt_n:  1488  label: 0  blur: 0.310980  clean: 0.689020  tpr: 0.891018  far: 0.050000
+cnt_p:  45  cnt_n:  1568  label: 0  blur: 0.461483  clean: 0.538517  tpr: 0.938922  far: 0.100000
+cnt_p:  90  cnt_n:  1623  label: 0  blur: 0.665576  clean: 0.334424  tpr: 0.971856  far: 0.200000
+cnt_p: 135  cnt_n:  1646  label: 0  blur: 0.738055  clean: 0.261945  tpr: 0.985629  far: 0.300000
+total_p 192 total_n 808
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.998418  noface: 0.001582  tpr(cnt_p/total_p): 0.005208  far(cnt_n/total_n): 0.000100
+cnt_p: 121  cnt_n:     1  label: 0  face: 0.219367  noface: 0.780633  tpr(cnt_p/total_p): 0.630208  far(cnt_n/total_n): 0.001238
+cnt_p: 163  cnt_n:     4  label: 0  face: 0.023806  noface: 0.976194  tpr(cnt_p/total_p): 0.848958  far(cnt_n/total_n): 0.005000
+cnt_p: 171  cnt_n:     8  label: 0  face: 0.008611  noface: 0.991389  tpr(cnt_p/total_p): 0.890625  far(cnt_n/total_n): 0.010000
+cnt_p: 183  cnt_n:    24  label: 0  face: 0.000590  noface: 0.999410  tpr(cnt_p/total_p): 0.953125  far(cnt_n/total_n): 0.030000
+cnt_p: 184  cnt_n:    40  label: 0  face: 0.000283  noface: 0.999717  tpr(cnt_p/total_p): 0.958333  far(cnt_n/total_n): 0.050000
+cnt_p: 186  cnt_n:    80  label: 0  face: 0.000093  noface: 0.999907  tpr(cnt_p/total_p): 0.968750  far(cnt_n/total_n): 0.100000
+cnt_p: 190  cnt_n:   161  label: 0  face: 0.000016  noface: 0.999984  tpr(cnt_p/total_p): 0.989583  far(cnt_n/total_n): 0.200000
+cnt_p: 191  cnt_n:   242  label: 0  face: 0.000005  noface: 0.999995  tpr(cnt_p/total_p): 0.994792  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   226  label: 1 live: 0.000002  anti: 0.999998  tpr: 0.168657  far: 0.001515
+cnt_p:   3  cnt_n:   690  label: 1 live: 0.000512  anti: 0.999488  tpr: 0.514925  far: 0.005000
+cnt_p:   6  cnt_n:   973  label: 1 live: 0.010764  anti: 0.989236  tpr: 0.726119  far: 0.010000
+cnt_p:  33  cnt_n:  1236  label: 1 live: 0.318463  anti: 0.681537  tpr: 0.922388  far: 0.050000
+cnt_p:  66  cnt_n:  1273  label: 1 live: 0.677203  anti: 0.322797  tpr: 0.950000  far: 0.100000
+cnt_p: 132  cnt_n:  1317  label: 1 live: 0.959812  anti: 0.040188  tpr: 0.982836  far: 0.200000
+cnt_p: 198  cnt_n:  1332  label: 1 live: 0.989087  anti: 0.010913  tpr: 0.994030  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 2  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   402  label: 1  phone: 0.000062 not_phone: 0.999938  tpr: 0.304545  far: 0.001471
+cnt_p:   3  cnt_n:   921  label: 1  phone: 0.002993 not_phone: 0.997007  tpr: 0.697727  far: 0.005000
+cnt_p:   6  cnt_n:  1010  label: 1  phone: 0.006384 not_phone: 0.993616  tpr: 0.765152  far: 0.010000
+cnt_p:  34  cnt_n:  1196  label: 1  phone: 0.063159 not_phone: 0.936841  tpr: 0.906061  far: 0.050000
+cnt_p:  68  cnt_n:  1281  label: 1  phone: 0.520851 not_phone: 0.479149  tpr: 0.970455  far: 0.100000
+cnt_p: 136  cnt_n:  1310  label: 1  phone: 0.918247 not_phone: 0.081753  tpr: 0.992424  far: 0.200000
+cnt_p: 204  cnt_n:  1315  label: 1  phone: 0.983567 not_phone: 0.016433  tpr: 0.996212  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   889  label: 1  paper: 0.001088  not_paper: 0.998912  tpr: 0.663433  far: 0.001515
+cnt_p:   3  cnt_n:   938  label: 1  paper: 0.001952  not_paper: 0.998048  tpr: 0.700000  far: 0.005000
+cnt_p:   6  cnt_n:  1053  label: 1  paper: 0.006878  not_paper: 0.993122  tpr: 0.785821  far: 0.010000
+cnt_p:  33  cnt_n:  1238  label: 1  paper: 0.127804  not_paper: 0.872196  tpr: 0.923881  far: 0.050000
+cnt_p:  66  cnt_n:  1307  label: 1  paper: 0.552425  not_paper: 0.447575  tpr: 0.975373  far: 0.100000
+cnt_p: 132  cnt_n:  1327  label: 1  paper: 0.885638  not_paper: 0.114362  tpr: 0.990299  far: 0.200000
+cnt_p: 198  cnt_n:  1337  label: 1  paper: 0.963841  not_paper: 0.036159  tpr: 0.997761  far: 0.300000
+[train] time:2020-03-16 04:05:10 11: E1.23[000] lr 1.1e-05f tota 3.007 age 0.196 angl 0.493 anti 0.581 beau 0.048 blur 0.401 cls_ 0.000 expr 0.013 gend 0.249 glas 0.006 pts4 0.185 pts5 0.261 pts6 0.274 race 0.009 regu 0.001 | anti 0.910 blur 0.958 cls 1.000 expr 0.986 gend 0.972 glas 0.995 race 0.967 
+[train] time:2020-03-16 04:07:55 11: E1.23[005] lr 1.1e-05f tota 2.994 age 0.215 angl 0.467 anti 0.595 beau 0.048 blur 0.422 cls_ 0.002 expr 0.012 gend 0.252 glas 0.007 pts4 0.166 pts5 0.219 pts6 0.276 race 0.015 regu 0.001 | anti 0.895 blur 0.953 cls 1.000 expr 0.981 gend 0.962 glas 1.000 race 0.943 
+[train] time:2020-03-16 04:10:41 11: E1.23[010] lr 1.1e-05f tota 2.925 age 0.223 angl 0.479 anti 0.580 beau 0.050 blur 0.375 cls_ 0.001 expr 0.023 gend 0.251 glas 0.030 pts4 0.164 pts5 0.195 pts6 0.255 race 0.010 regu 0.001 | anti 0.920 blur 0.962 cls 1.000 expr 0.972 gend 0.967 glas 0.991 race 0.972 
+[train] time:2020-03-16 04:13:26 11: E1.23[015] lr 1.1e-05f tota 3.114 age 0.176 angl 0.500 anti 0.596 beau 0.057 blur 0.376 cls_ 0.024 expr 0.025 gend 0.229 glas 0.004 pts4 0.324 pts5 0.216 pts6 0.272 race 0.019 regu 0.001 | anti 0.890 blur 0.976 cls 0.990 expr 0.953 gend 0.986 glas 1.000 race 0.948 
+[train] time:2020-03-16 04:16:11 11: E1.23[020] lr 1.1e-05f tota 2.943 age 0.207 angl 0.457 anti 0.564 beau 0.049 blur 0.427 cls_ 0.001 expr 0.014 gend 0.236 glas 0.012 pts4 0.184 pts5 0.227 pts6 0.264 race 0.017 regu 0.001 | anti 0.920 blur 0.934 cls 1.000 expr 0.976 gend 0.981 glas 0.995 race 0.934 
+[train] time:2020-03-16 04:18:56 11: E1.23[025] lr 1.1e-05f tota 2.974 age 0.215 angl 0.497 anti 0.579 beau 0.053 blur 0.376 cls_ 0.003 expr 0.029 gend 0.255 glas 0.004 pts4 0.169 pts5 0.229 pts6 0.268 race 0.007 regu 0.001 | anti 0.925 blur 0.967 cls 1.000 expr 0.986 gend 0.972 glas 1.000 race 0.972 
+[train] time:2020-03-16 04:21:41 11: E1.23[030] lr 1.1e-05f tota 3.042 age 0.175 angl 0.521 anti 0.586 beau 0.050 blur 0.391 cls_ 0.001 expr 0.012 gend 0.245 glas 0.019 pts4 0.182 pts5 0.272 pts6 0.285 race 0.010 regu 0.001 | anti 0.895 blur 0.976 cls 1.000 expr 0.991 gend 0.986 glas 0.986 race 0.976 
+[train] time:2020-03-16 04:24:27 11: E1.23[035] lr 1.1e-05f tota 2.944 age 0.199 angl 0.487 anti 0.611 beau 0.049 blur 0.379 cls_ 0.004 expr 0.013 gend 0.229 glas 0.029 pts4 0.154 pts5 0.206 pts6 0.269 race 0.010 regu 0.001 | anti 0.865 blur 0.976 cls 1.000 expr 0.986 gend 0.986 glas 0.986 race 0.972 
+[train] time:2020-03-16 04:26:40 11: E1.23[039] lr 1.1e-05f tota 3.083 age 0.201 angl 0.504 anti 0.580 beau 0.049 blur 0.391 cls_ 0.005 expr 0.019 gend 0.246 glas 0.013 pts4 0.263 pts5 0.241 pts6 0.271 race 0.010 regu 0.001 | anti 0.910 blur 0.965 cls 0.999 expr 0.976 gend 0.973 glas 0.994 race 0.966 
+angl 0.254 anti 0.703 beau 0.578 blur 0.052 cls_ 0.451 expr 0.432 gend 0.016 glas 0.297 pts4 0.016 pts5 0.465 pts6 0.359 race 0.226 regu 0.014 | anti 0.001 blur 0.908 cls 0.937 expr 0.915 gend 0.979 glas 0.940 race 0.992 
+total_p 450 total_n 1670
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.033261  clean: 0.966739  tpr: 0.000599  far: 0.000100
+cnt_p:   1  cnt_n:  1110  label: 0  blur: 0.072075  clean: 0.927925  tpr: 0.664671  far: 0.002222
+cnt_p:   2  cnt_n:  1240  label: 0  blur: 0.110306  clean: 0.889694  tpr: 0.742515  far: 0.005000
+cnt_p:   4  cnt_n:  1327  label: 0  blur: 0.162562  clean: 0.837438  tpr: 0.794611  far: 0.010000
+cnt_p:  22  cnt_n:  1517  label: 0  blur: 0.360666  clean: 0.639334  tpr: 0.908383  far: 0.050000
+cnt_p:  45  cnt_n:  1569  label: 0  blur: 0.459868  clean: 0.540132  tpr: 0.939521  far: 0.100000
+cnt_p:  90  cnt_n:  1635  label: 0  blur: 0.638740  clean: 0.361260  tpr: 0.979042  far: 0.200000
+cnt_p: 135  cnt_n:  1649  label: 0  blur: 0.723640  clean: 0.276360  tpr: 0.987425  far: 0.300000
+total_p 182 total_n 818
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.999149  noface: 0.000851  tpr(cnt_p/total_p): 0.005495  far(cnt_n/total_n): 0.000100
+cnt_p:  95  cnt_n:     1  label: 0  face: 0.601658  noface: 0.398342  tpr(cnt_p/total_p): 0.521978  far(cnt_n/total_n): 0.001222
+cnt_p: 143  cnt_n:     4  label: 0  face: 0.075514  noface: 0.924486  tpr(cnt_p/total_p): 0.785714  far(cnt_n/total_n): 0.005000
+cnt_p: 153  cnt_n:     8  label: 0  face: 0.028446  noface: 0.971554  tpr(cnt_p/total_p): 0.840659  far(cnt_n/total_n): 0.010000
+cnt_p: 171  cnt_n:    24  label: 0  face: 0.001793  noface: 0.998207  tpr(cnt_p/total_p): 0.939560  far(cnt_n/total_n): 0.030000
+cnt_p: 172  cnt_n:    40  label: 0  face: 0.000755  noface: 0.999245  tpr(cnt_p/total_p): 0.945055  far(cnt_n/total_n): 0.050000
+cnt_p: 179  cnt_n:    81  label: 0  face: 0.000197  noface: 0.999803  tpr(cnt_p/total_p): 0.983516  far(cnt_n/total_n): 0.100000
+cnt_p: 181  cnt_n:   163  label: 0  face: 0.000028  noface: 0.999972  tpr(cnt_p/total_p): 0.994505  far(cnt_n/total_n): 0.200000
+cnt_p: 181  cnt_n:   245  label: 0  face: 0.000007  noface: 0.999993  tpr(cnt_p/total_p): 0.994505  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   208  label: 1 live: 0.000001  anti: 0.999999  tpr: 0.155224  far: 0.001515
+cnt_p:   3  cnt_n:   711  label: 1 live: 0.000467  anti: 0.999533  tpr: 0.530597  far: 0.005000
+cnt_p:   6  cnt_n:   889  label: 1 live: 0.002720  anti: 0.997280  tpr: 0.663433  far: 0.010000
+cnt_p:  33  cnt_n:  1220  label: 1 live: 0.315830  anti: 0.684170  tpr: 0.910448  far: 0.050000
+cnt_p:  66  cnt_n:  1308  label: 1 live: 0.823943  anti: 0.176057  tpr: 0.976119  far: 0.100000
+cnt_p: 132  cnt_n:  1328  label: 1 live: 0.975472  anti: 0.024528  tpr: 0.991045  far: 0.200000
+cnt_p: 198  cnt_n:  1336  label: 1 live: 0.992624  anti: 0.007376  tpr: 0.997015  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   655  label: 1  phone: 0.000088 not_phone: 0.999912  tpr: 0.496212  far: 0.001471
+cnt_p:   3  cnt_n:   852  label: 1  phone: 0.000367 not_phone: 0.999633  tpr: 0.645455  far: 0.005000
+cnt_p:   6  cnt_n:   984  label: 1  phone: 0.001142 not_phone: 0.998858  tpr: 0.745455  far: 0.010000
+cnt_p:  34  cnt_n:  1240  label: 1  phone: 0.038533 not_phone: 0.961467  tpr: 0.939394  far: 0.050000
+cnt_p:  68  cnt_n:  1287  label: 1  phone: 0.203709 not_phone: 0.796291  tpr: 0.975000  far: 0.100000
+cnt_p: 136  cnt_n:  1305  label: 1  phone: 0.695482 not_phone: 0.304518  tpr: 0.988636  far: 0.200000
+cnt_p: 204  cnt_n:  1312  label: 1  phone: 0.928964 not_phone: 0.071036  tpr: 0.993939  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:  1039  label: 1  paper: 0.010447  not_paper: 0.989553  tpr: 0.775373  far: 0.001515
+cnt_p:   3  cnt_n:  1095  label: 1  paper: 0.022391  not_paper: 0.977609  tpr: 0.817164  far: 0.005000
+cnt_p:   6  cnt_n:  1162  label: 1  paper: 0.054686  not_paper: 0.945314  tpr: 0.867164  far: 0.010000
+cnt_p:  33  cnt_n:  1273  label: 1  paper: 0.489015  not_paper: 0.510985  tpr: 0.950000  far: 0.050000
+cnt_p:  66  cnt_n:  1309  label: 1  paper: 0.860376  not_paper: 0.139624  tpr: 0.976866  far: 0.100000
+cnt_p: 132  cnt_n:  1322  label: 1  paper: 0.973629  not_paper: 0.026371  tpr: 0.986567  far: 0.200000
+cnt_p: 198  cnt_n:  1333  label: 1  paper: 0.993024  not_paper: 0.006976  tpr: 0.994776  far: 0.300000
+[train] time:2020-03-16 04:28:35 12: E1.33[000] lr 1.1e-05f tota 3.129 age 0.202 angl 0.501 anti 0.592 beau 0.049 blur 0.376 cls_ 0.018 expr 0.021 gend 0.251 glas 0.015 pts4 0.236 pts5 0.280 pts6 0.286 race 0.010 regu 0.001 | anti 0.905 blur 0.967 cls 0.990 expr 0.972 gend 0.972 glas 0.995 race 0.972 
+[train] time:2020-03-16 04:31:18 12: E1.33[005] lr 1.1e-05f tota 2.942 age 0.199 angl 0.453 anti 0.579 beau 0.045 blur 0.402 cls_ 0.001 expr 0.012 gend 0.246 glas 0.005 pts4 0.174 pts5 0.234 pts6 0.287 race 0.016 regu 0.001 | anti 0.910 blur 0.962 cls 1.000 expr 0.991 gend 0.962 glas 0.995 race 0.934 
+[train] time:2020-03-16 04:34:03 12: E1.33[010] lr 1.1e-05f tota 2.918 age 0.226 angl 0.480 anti 0.585 beau 0.053 blur 0.379 cls_ 0.000 expr 0.018 gend 0.250 glas 0.010 pts4 0.171 pts5 0.204 pts6 0.239 race 0.011 regu 0.001 | anti 0.910 blur 0.972 cls 1.000 expr 0.972 gend 0.967 glas 1.000 race 0.972 
+[train] time:2020-03-16 04:36:46 12: E1.33[015] lr 1.1e-05f tota 3.031 age 0.178 angl 0.489 anti 0.558 beau 0.055 blur 0.367 cls_ 0.001 expr 0.023 gend 0.237 glas 0.006 pts4 0.288 pts5 0.239 pts6 0.289 race 0.021 regu 0.001 | anti 0.930 blur 0.976 cls 1.000 expr 0.953 gend 0.972 glas 1.000 race 0.943 
+[train] time:2020-03-16 04:39:33 12: E1.33[020] lr 1.1e-05f tota 3.007 age 0.207 angl 0.493 anti 0.540 beau 0.050 blur 0.421 cls_ 0.071 expr 0.018 gend 0.245 glas 0.005 pts4 0.187 pts5 0.227 pts6 0.270 race 0.016 regu 0.001 | anti 0.955 blur 0.943 cls 0.990 expr 0.972 gend 0.972 glas 1.000 race 0.948 
+[train] time:2020-03-16 04:42:16 12: E1.33[025] lr 1.1e-05f tota 2.898 age 0.194 angl 0.489 anti 0.545 beau 0.052 blur 0.364 cls_ 0.000 expr 0.021 gend 0.272 glas 0.003 pts4 0.177 pts5 0.228 pts6 0.269 race 0.010 regu 0.001 | anti 0.950 blur 0.976 cls 1.000 expr 0.967 gend 0.958 glas 1.000 race 0.962 
+[train] time:2020-03-16 04:45:00 12: E1.33[030] lr 1.1e-05f tota 2.990 age 0.177 angl 0.518 anti 0.588 beau 0.046 blur 0.386 cls_ 0.001 expr 0.021 gend 0.240 glas 0.005 pts4 0.171 pts5 0.255 pts6 0.278 race 0.009 regu 0.001 | anti 0.895 blur 0.962 cls 1.000 expr 0.967 gend 0.976 glas 1.000 race 0.972 
+[train] time:2020-03-16 04:47:43 12: E1.33[035] lr 1.1e-05f tota 2.875 age 0.191 angl 0.455 anti 0.582 beau 0.050 blur 0.383 cls_ 0.002 expr 0.006 gend 0.225 glas 0.030 pts4 0.158 pts5 0.237 pts6 0.254 race 0.010 regu 0.001 | anti 0.895 blur 0.976 cls 1.000 expr 0.995 gend 0.981 glas 0.986 race 0.967 
+[train] time:2020-03-16 04:49:56 12: E1.33[039] lr 1.1e-05f tota 3.080 age 0.200 angl 0.501 anti 0.576 beau 0.049 blur 0.386 cls_ 0.006 expr 0.019 gend 0.245 glas 0.012 pts4 0.275 pts5 0.242 pts6 0.272 race 0.010 regu 0.001 | anti 0.915 blur 0.965 cls 0.999 expr 0.975 gend 0.971 glas 0.997 race 0.968 
+angl 0.263 anti 0.706 beau 0.575 blur 0.054 cls_ 0.466 expr 0.328 gend 0.018 glas 0.329 pts4 0.012 pts5 0.539 pts6 0.339 race 0.228 regu 0.015 | anti 0.001 blur 0.914 cls 0.926 expr 0.935 gend 0.981 glas 0.917 race 0.997 
+total_p 520 total_n 1600
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.033345  clean: 0.966655  tpr: 0.000625  far: 0.000100
+cnt_p:   1  cnt_n:  1248  label: 0  blur: 0.117890  clean: 0.882110  tpr: 0.780000  far: 0.001923
+cnt_p:   2  cnt_n:  1267  label: 0  blur: 0.128346  clean: 0.871654  tpr: 0.791875  far: 0.005000
+cnt_p:   5  cnt_n:  1296  label: 0  blur: 0.149497  clean: 0.850503  tpr: 0.810000  far: 0.010000
+cnt_p:  26  cnt_n:  1378  label: 0  blur: 0.227667  clean: 0.772333  tpr: 0.861250  far: 0.050000
+cnt_p:  52  cnt_n:  1487  label: 0  blur: 0.372648  clean: 0.627352  tpr: 0.929375  far: 0.100000
+cnt_p: 104  cnt_n:  1550  label: 0  blur: 0.527421  clean: 0.472579  tpr: 0.968750  far: 0.200000
+cnt_p: 156  cnt_n:  1577  label: 0  blur: 0.680309  clean: 0.319691  tpr: 0.985625  far: 0.300000
+total_p 163 total_n 837
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.999467  noface: 0.000533  tpr(cnt_p/total_p): 0.006135  far(cnt_n/total_n): 0.001195
+cnt_p: 148  cnt_n:     4  label: 0  face: 0.021788  noface: 0.978212  tpr(cnt_p/total_p): 0.907975  far(cnt_n/total_n): 0.005000
+cnt_p: 154  cnt_n:     8  label: 0  face: 0.006019  noface: 0.993981  tpr(cnt_p/total_p): 0.944785  far(cnt_n/total_n): 0.010000
+cnt_p: 154  cnt_n:    25  label: 0  face: 0.001583  noface: 0.998417  tpr(cnt_p/total_p): 0.944785  far(cnt_n/total_n): 0.030000
+cnt_p: 156  cnt_n:    41  label: 0  face: 0.000624  noface: 0.999376  tpr(cnt_p/total_p): 0.957055  far(cnt_n/total_n): 0.050000
+cnt_p: 160  cnt_n:    83  label: 0  face: 0.000155  noface: 0.999845  tpr(cnt_p/total_p): 0.981595  far(cnt_n/total_n): 0.100000
+cnt_p: 160  cnt_n:   167  label: 0  face: 0.000024  noface: 0.999976  tpr(cnt_p/total_p): 0.981595  far(cnt_n/total_n): 0.200000
+cnt_p: 160  cnt_n:   251  label: 0  face: 0.000008  noface: 0.999992  tpr(cnt_p/total_p): 0.981595  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   183  label: 1 live: 0.000001  anti: 0.999999  tpr: 0.136567  far: 0.001515
+cnt_p:   3  cnt_n:   893  label: 1 live: 0.002975  anti: 0.997025  tpr: 0.666418  far: 0.005000
+cnt_p:   6  cnt_n:  1085  label: 1 live: 0.034179  anti: 0.965821  tpr: 0.809701  far: 0.010000
+cnt_p:  33  cnt_n:  1244  label: 1 live: 0.472001  anti: 0.527999  tpr: 0.928358  far: 0.050000
+cnt_p:  66  cnt_n:  1293  label: 1 live: 0.809068  anti: 0.190932  tpr: 0.964925  far: 0.100000
+cnt_p: 132  cnt_n:  1327  label: 1 live: 0.967812  anti: 0.032188  tpr: 0.990299  far: 0.200000
+cnt_p: 198  cnt_n:  1332  label: 1 live: 0.991476  anti: 0.008524  tpr: 0.994030  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:    46  label: 1  phone: 0.000000 not_phone: 1.000000  tpr: 0.034848  far: 0.001471
+cnt_p:   3  cnt_n:   545  label: 1  phone: 0.000057 not_phone: 0.999943  tpr: 0.412879  far: 0.005000
+cnt_p:   6  cnt_n:   841  label: 1  phone: 0.000414 not_phone: 0.999586  tpr: 0.637121  far: 0.010000
+cnt_p:  34  cnt_n:  1197  label: 1  phone: 0.023160 not_phone: 0.976840  tpr: 0.906818  far: 0.050000
+cnt_p:  68  cnt_n:  1282  label: 1  phone: 0.201113 not_phone: 0.798887  tpr: 0.971212  far: 0.100000
+cnt_p: 136  cnt_n:  1305  label: 1  phone: 0.717642 not_phone: 0.282358  tpr: 0.988636  far: 0.200000
+cnt_p: 204  cnt_n:  1315  label: 1  phone: 0.933745 not_phone: 0.066255  tpr: 0.996212  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   769  label: 1  paper: 0.000714  not_paper: 0.999286  tpr: 0.573881  far: 0.001515
+cnt_p:   3  cnt_n:   945  label: 1  paper: 0.004146  not_paper: 0.995854  tpr: 0.705224  far: 0.005000
+cnt_p:   6  cnt_n:  1096  label: 1  paper: 0.019925  not_paper: 0.980075  tpr: 0.817910  far: 0.010000
+cnt_p:  33  cnt_n:  1282  label: 1  paper: 0.411222  not_paper: 0.588778  tpr: 0.956716  far: 0.050000
+cnt_p:  66  cnt_n:  1319  label: 1  paper: 0.860645  not_paper: 0.139355  tpr: 0.984328  far: 0.100000
+cnt_p: 132  cnt_n:  1330  label: 1  paper: 0.981458  not_paper: 0.018542  tpr: 0.992537  far: 0.200000
+cnt_p: 198  cnt_n:  1332  label: 1  paper: 0.994397  not_paper: 0.005603  tpr: 0.994030  far: 0.300000
+[train] time:2020-03-16 04:51:51 13: E1.44[000] lr 1.1e-05f tota 2.962 age 0.189 angl 0.477 anti 0.581 beau 0.047 blur 0.375 cls_ 0.001 expr 0.025 gend 0.247 glas 0.023 pts4 0.191 pts5 0.242 pts6 0.264 race 0.008 regu 0.001 | anti 0.905 blur 0.972 cls 1.000 expr 0.953 gend 0.981 glas 0.991 race 0.972 
+[train] time:2020-03-16 04:54:37 13: E1.44[005] lr 1.1e-05f tota 2.955 age 0.205 angl 0.449 anti 0.602 beau 0.047 blur 0.413 cls_ 0.003 expr 0.011 gend 0.249 glas 0.004 pts4 0.162 pts5 0.220 pts6 0.272 race 0.016 regu 0.001 | anti 0.885 blur 0.958 cls 1.000 expr 0.991 gend 0.976 glas 1.000 race 0.925 
+[train] time:2020-03-16 04:57:20 13: E1.44[010] lr 1.1e-05f tota 2.873 age 0.213 angl 0.465 anti 0.575 beau 0.050 blur 0.384 cls_ 0.001 expr 0.018 gend 0.253 glas 0.017 pts4 0.160 pts5 0.186 pts6 0.255 race 0.009 regu 0.001 | anti 0.940 blur 0.962 cls 1.000 expr 0.962 gend 0.967 glas 0.991 race 0.981 
+[train] time:2020-03-16 05:00:06 13: E1.44[015] lr 1.1e-05f tota 2.966 age 0.182 angl 0.475 anti 0.556 beau 0.055 blur 0.378 cls_ 0.010 expr 0.023 gend 0.227 glas 0.015 pts4 0.175 pts5 0.270 pts6 0.303 race 0.020 regu 0.001 | anti 0.940 blur 0.972 cls 1.000 expr 0.972 gend 0.995 glas 0.995 race 0.948 
+[train] time:2020-03-16 05:02:50 13: E1.44[020] lr 1.1e-05f tota 3.030 age 0.204 angl 0.489 anti 0.600 beau 0.050 blur 0.421 cls_ 0.003 expr 0.025 gend 0.243 glas 0.002 pts4 0.168 pts5 0.239 pts6 0.268 race 0.017 regu 0.001 | anti 0.885 blur 0.948 cls 1.000 expr 0.972 gend 0.976 glas 1.000 race 0.948 
+[train] time:2020-03-16 05:05:36 13: E1.44[025] lr 1.1e-05f tota 2.972 age 0.207 angl 0.500 anti 0.593 beau 0.051 blur 0.379 cls_ 0.001 expr 0.013 gend 0.257 glas 0.004 pts4 0.171 pts5 0.224 pts6 0.267 race 0.009 regu 0.001 | anti 0.905 blur 0.967 cls 1.000 expr 0.991 gend 0.967 glas 1.000 race 0.972 
+[train] time:2020-03-16 05:08:20 13: E1.44[030] lr 1.1e-05f tota 3.031 age 0.188 angl 0.505 anti 0.568 beau 0.049 blur 0.378 cls_ 0.003 expr 0.012 gend 0.231 glas 0.017 pts4 0.196 pts5 0.293 pts6 0.297 race 0.009 regu 0.001 | anti 0.920 blur 0.972 cls 1.000 expr 0.986 gend 0.986 glas 0.991 race 0.972 
+[train] time:2020-03-16 05:11:05 13: E1.44[035] lr 1.1e-05f tota 2.844 age 0.193 angl 0.452 anti 0.588 beau 0.051 blur 0.371 cls_ 0.001 expr 0.013 gend 0.222 glas 0.031 pts4 0.153 pts5 0.207 pts6 0.258 race 0.011 regu 0.001 | anti 0.900 blur 0.976 cls 1.000 expr 0.986 gend 0.991 glas 0.995 race 0.972 
+[train] time:2020-03-16 05:13:16 13: E1.44[039] lr 1.1e-05f tota 3.069 age 0.199 angl 0.502 anti 0.577 beau 0.049 blur 0.385 cls_ 0.004 expr 0.019 gend 0.244 glas 0.014 pts4 0.260 pts5 0.244 pts6 0.273 race 0.010 regu 0.001 | anti 0.913 blur 0.966 cls 0.999 expr 0.975 gend 0.974 glas 0.995 race 0.969 
+angl 0.263 anti 0.703 beau 0.587 blur 0.055 cls_ 0.478 expr 0.374 gend 0.020 glas 0.327 pts4 0.010 pts5 0.536 pts6 0.335 race 0.231 regu 0.016 | anti 0.001 blur 0.901 cls 0.922 expr 0.926 gend 0.983 glas 0.918 race 0.997 
+total_p 550 total_n 1570
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.031697  clean: 0.968303  tpr: 0.000637  far: 0.000100
+cnt_p:   1  cnt_n:  1223  label: 0  blur: 0.103556  clean: 0.896444  tpr: 0.778981  far: 0.001818
+cnt_p:   2  cnt_n:  1240  label: 0  blur: 0.113828  clean: 0.886172  tpr: 0.789809  far: 0.005000
+cnt_p:   5  cnt_n:  1266  label: 0  blur: 0.129963  clean: 0.870037  tpr: 0.806369  far: 0.010000
+cnt_p:  27  cnt_n:  1363  label: 0  blur: 0.223390  clean: 0.776610  tpr: 0.868153  far: 0.050000
+cnt_p:  55  cnt_n:  1421  label: 0  blur: 0.310076  clean: 0.689924  tpr: 0.905096  far: 0.100000
+cnt_p: 110  cnt_n:  1515  label: 0  blur: 0.532863  clean: 0.467137  tpr: 0.964968  far: 0.200000
+cnt_p: 165  cnt_n:  1538  label: 0  blur: 0.660087  clean: 0.339913  tpr: 0.979618  far: 0.300000
+total_p 171 total_n 829
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.999553  noface: 0.000447  tpr(cnt_p/total_p): 0.005848  far(cnt_n/total_n): 0.001206
+cnt_p: 139  cnt_n:     4  label: 0  face: 0.044754  noface: 0.955246  tpr(cnt_p/total_p): 0.812865  far(cnt_n/total_n): 0.005000
+cnt_p: 152  cnt_n:     8  label: 0  face: 0.008815  noface: 0.991185  tpr(cnt_p/total_p): 0.888889  far(cnt_n/total_n): 0.010000
+cnt_p: 162  cnt_n:    24  label: 0  face: 0.001263  noface: 0.998737  tpr(cnt_p/total_p): 0.947368  far(cnt_n/total_n): 0.030000
+cnt_p: 164  cnt_n:    41  label: 0  face: 0.000670  noface: 0.999330  tpr(cnt_p/total_p): 0.959064  far(cnt_n/total_n): 0.050000
+cnt_p: 168  cnt_n:    82  label: 0  face: 0.000273  noface: 0.999727  tpr(cnt_p/total_p): 0.982456  far(cnt_n/total_n): 0.100000
+cnt_p: 169  cnt_n:   165  label: 0  face: 0.000040  noface: 0.999960  tpr(cnt_p/total_p): 0.988304  far(cnt_n/total_n): 0.200000
+cnt_p: 170  cnt_n:   248  label: 0  face: 0.000009  noface: 0.999991  tpr(cnt_p/total_p): 0.994152  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   449  label: 1 live: 0.000173  anti: 0.999827  tpr: 0.335075  far: 0.001515
+cnt_p:   3  cnt_n:   800  label: 1 live: 0.005967  anti: 0.994033  tpr: 0.597015  far: 0.005000
+cnt_p:   6  cnt_n:   997  label: 1 live: 0.044176  anti: 0.955824  tpr: 0.744030  far: 0.010000
+cnt_p:  33  cnt_n:  1237  label: 1 live: 0.671423  anti: 0.328577  tpr: 0.923134  far: 0.050000
+cnt_p:  66  cnt_n:  1296  label: 1 live: 0.931327  anti: 0.068673  tpr: 0.967164  far: 0.100000
+cnt_p: 132  cnt_n:  1326  label: 1 live: 0.989553  anti: 0.010447  tpr: 0.989552  far: 0.200000
+cnt_p: 198  cnt_n:  1332  label: 1 live: 0.996143  anti: 0.003857  tpr: 0.994030  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 2  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   528  label: 1  phone: 0.000057 not_phone: 0.999943  tpr: 0.400000  far: 0.001471
+cnt_p:   3  cnt_n:   822  label: 1  phone: 0.000496 not_phone: 0.999504  tpr: 0.622727  far: 0.005000
+cnt_p:   6  cnt_n:   857  label: 1  phone: 0.000684 not_phone: 0.999316  tpr: 0.649242  far: 0.010000
+cnt_p:  34  cnt_n:  1186  label: 1  phone: 0.020301 not_phone: 0.979699  tpr: 0.898485  far: 0.050000
+cnt_p:  68  cnt_n:  1269  label: 1  phone: 0.107914 not_phone: 0.892086  tpr: 0.961364  far: 0.100000
+cnt_p: 136  cnt_n:  1305  label: 1  phone: 0.647729 not_phone: 0.352271  tpr: 0.988636  far: 0.200000
+cnt_p: 204  cnt_n:  1311  label: 1  phone: 0.893330 not_phone: 0.106670  tpr: 0.993182  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   944  label: 1  paper: 0.001053  not_paper: 0.998947  tpr: 0.704478  far: 0.001515
+cnt_p:   3  cnt_n:  1023  label: 1  paper: 0.002581  not_paper: 0.997419  tpr: 0.763433  far: 0.005000
+cnt_p:   6  cnt_n:  1101  label: 1  paper: 0.006166  not_paper: 0.993834  tpr: 0.821642  far: 0.010000
+cnt_p:  33  cnt_n:  1279  label: 1  paper: 0.201500  not_paper: 0.798500  tpr: 0.954478  far: 0.050000
+cnt_p:  66  cnt_n:  1314  label: 1  paper: 0.566866  not_paper: 0.433134  tpr: 0.980597  far: 0.100000
+cnt_p: 132  cnt_n:  1328  label: 1  paper: 0.879242  not_paper: 0.120758  tpr: 0.991045  far: 0.200000
+cnt_p: 198  cnt_n:  1336  label: 1  paper: 0.968269  not_paper: 0.031731  tpr: 0.997015  far: 0.300000
+[train] time:2020-03-16 05:15:11 14: E1.54[000] lr 1.1e-05f tota 3.002 age 0.208 angl 0.504 anti 0.568 beau 0.047 blur 0.376 cls_ 0.003 expr 0.016 gend 0.257 glas 0.016 pts4 0.194 pts5 0.230 pts6 0.290 race 0.009 regu 0.001 | anti 0.925 blur 0.958 cls 1.000 expr 0.986 gend 0.962 glas 0.991 race 0.981 
+[train] time:2020-03-16 05:17:54 14: E1.54[005] lr 1.1e-05f tota 2.949 age 0.191 angl 0.460 anti 0.597 beau 0.050 blur 0.408 cls_ 0.001 expr 0.009 gend 0.251 glas 0.003 pts4 0.186 pts5 0.213 pts6 0.265 race 0.015 regu 0.001 | anti 0.885 blur 0.967 cls 1.000 expr 0.991 gend 0.967 glas 1.000 race 0.934 
+[train] time:2020-03-16 05:20:40 14: E1.54[010] lr 1.1e-05f tota 2.893 age 0.215 angl 0.478 anti 0.574 beau 0.054 blur 0.399 cls_ 0.001 expr 0.016 gend 0.244 glas 0.012 pts4 0.156 pts5 0.204 pts6 0.247 race 0.007 regu 0.001 | anti 0.905 blur 0.953 cls 1.000 expr 0.986 gend 0.986 glas 0.991 race 0.972 
+[train] time:2020-03-16 05:23:25 14: E1.54[015] lr 1.1e-05f tota 3.487 age 0.202 angl 0.536 anti 0.569 beau 0.051 blur 0.402 cls_ 0.001 expr 0.024 gend 0.242 glas 0.003 pts4 0.681 pts5 0.228 pts6 0.256 race 0.007 regu 0.001 | anti 0.920 blur 0.953 cls 1.000 expr 0.972 gend 0.967 glas 1.000 race 0.972 
+[train] time:2020-03-16 05:26:10 14: E1.54[020] lr 1.1e-05f tota 3.117 age 0.205 angl 0.456 anti 0.562 beau 0.048 blur 0.389 cls_ 0.001 expr 0.023 gend 0.255 glas 0.006 pts4 0.437 pts5 0.204 pts6 0.244 race 0.006 regu 0.001 | anti 0.940 blur 0.967 cls 1.000 expr 0.958 gend 0.958 glas 1.000 race 0.986 
+[train] time:2020-03-16 05:28:54 14: E1.54[025] lr 1.1e-05f tota 3.120 age 0.192 angl 0.477 anti 0.608 beau 0.049 blur 0.374 cls_ 0.001 expr 0.019 gend 0.233 glas 0.044 pts4 0.290 pts5 0.250 pts6 0.271 race 0.008 regu 0.001 | anti 0.870 blur 0.976 cls 1.000 expr 0.981 gend 0.976 glas 0.981 race 0.962 
+[train] time:2020-03-16 05:31:39 14: E1.54[030] lr 1.0e-05f tota 3.113 age 0.207 angl 0.517 anti 0.584 beau 0.050 blur 0.397 cls_ 0.000 expr 0.036 gend 0.244 glas 0.036 pts4 0.273 pts5 0.212 pts6 0.251 race 0.013 regu 0.001 | anti 0.900 blur 0.958 cls 1.000 expr 0.967 gend 0.972 glas 0.995 race 0.958 
+[train] time:2020-03-16 05:34:25 14: E1.54[035] lr 1.0e-05f tota 2.821 age 0.202 angl 0.451 anti 0.553 beau 0.046 blur 0.401 cls_ 0.000 expr 0.022 gend 0.240 glas 0.003 pts4 0.155 pts5 0.198 pts6 0.266 race 0.007 regu 0.001 | anti 0.940 blur 0.953 cls 1.000 expr 0.972 gend 0.986 glas 1.000 race 0.981 
+[train] time:2020-03-16 05:36:37 14: E1.54[039] lr 1.0e-05f tota 3.086 age 0.201 angl 0.501 anti 0.578 beau 0.049 blur 0.389 cls_ 0.003 expr 0.021 gend 0.248 glas 0.015 pts4 0.261 pts5 0.248 pts6 0.272 race 0.010 regu 0.001 | anti 0.911 blur 0.964 cls 0.999 expr 0.974 gend 0.971 glas 0.995 race 0.967 
+angl 0.265 anti 0.701 beau 0.583 blur 0.054 cls_ 0.481 expr 0.349 gend 0.022 glas 0.330 pts4 0.009 pts5 0.543 pts6 0.328 race 0.228 regu 0.015 | anti 0.001 blur 0.903 cls 0.925 expr 0.917 gend 0.979 glas 0.910 race 0.998 
+total_p 550 total_n 1570
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.032275  clean: 0.967725  tpr: 0.000637  far: 0.000100
+cnt_p:   1  cnt_n:  1204  label: 0  blur: 0.085666  clean: 0.914334  tpr: 0.766879  far: 0.001818
+cnt_p:   2  cnt_n:  1213  label: 0  blur: 0.088632  clean: 0.911368  tpr: 0.772611  far: 0.005000
+cnt_p:   5  cnt_n:  1244  label: 0  blur: 0.102203  clean: 0.897797  tpr: 0.792357  far: 0.010000
+cnt_p:  27  cnt_n:  1350  label: 0  blur: 0.177460  clean: 0.822540  tpr: 0.859873  far: 0.050000
+cnt_p:  55  cnt_n:  1425  label: 0  blur: 0.256456  clean: 0.743544  tpr: 0.907643  far: 0.100000
+cnt_p: 110  cnt_n:  1510  label: 0  blur: 0.441163  clean: 0.558837  tpr: 0.961783  far: 0.200000
+cnt_p: 165  cnt_n:  1546  label: 0  blur: 0.608319  clean: 0.391681  tpr: 0.984713  far: 0.300000
+total_p 176 total_n 824
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.999770  noface: 0.000230  tpr(cnt_p/total_p): 0.005682  far(cnt_n/total_n): 0.001214
+cnt_p: 156  cnt_n:     4  label: 0  face: 0.022309  noface: 0.977691  tpr(cnt_p/total_p): 0.886364  far(cnt_n/total_n): 0.005000
+cnt_p: 161  cnt_n:     8  label: 0  face: 0.007402  noface: 0.992598  tpr(cnt_p/total_p): 0.914773  far(cnt_n/total_n): 0.010000
+cnt_p: 170  cnt_n:    24  label: 0  face: 0.000806  noface: 0.999194  tpr(cnt_p/total_p): 0.965909  far(cnt_n/total_n): 0.030000
+cnt_p: 172  cnt_n:    41  label: 0  face: 0.000428  noface: 0.999572  tpr(cnt_p/total_p): 0.977273  far(cnt_n/total_n): 0.050000
+cnt_p: 174  cnt_n:    82  label: 0  face: 0.000065  noface: 0.999935  tpr(cnt_p/total_p): 0.988636  far(cnt_n/total_n): 0.100000
+cnt_p: 175  cnt_n:   164  label: 0  face: 0.000013  noface: 0.999987  tpr(cnt_p/total_p): 0.994318  far(cnt_n/total_n): 0.200000
+cnt_p: 176  cnt_n:   247  label: 0  face: 0.000005  noface: 0.999995  tpr(cnt_p/total_p): 1.000000  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   378  label: 1 live: 0.000051  anti: 0.999949  tpr: 0.282090  far: 0.001515
+cnt_p:   3  cnt_n:   717  label: 1 live: 0.001326  anti: 0.998674  tpr: 0.535075  far: 0.005000
+cnt_p:   6  cnt_n:   942  label: 1 live: 0.012964  anti: 0.987036  tpr: 0.702985  far: 0.010000
+cnt_p:  33  cnt_n:  1227  label: 1 live: 0.567836  anti: 0.432164  tpr: 0.915672  far: 0.050000
+cnt_p:  66  cnt_n:  1285  label: 1 live: 0.886979  anti: 0.113021  tpr: 0.958955  far: 0.100000
+cnt_p: 132  cnt_n:  1319  label: 1 live: 0.977695  anti: 0.022305  tpr: 0.984328  far: 0.200000
+cnt_p: 198  cnt_n:  1332  label: 1 live: 0.994001  anti: 0.005999  tpr: 0.994030  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   712  label: 1  phone: 0.000291 not_phone: 0.999709  tpr: 0.539394  far: 0.001471
+cnt_p:   3  cnt_n:   785  label: 1  phone: 0.000495 not_phone: 0.999505  tpr: 0.594697  far: 0.005000
+cnt_p:   6  cnt_n:   946  label: 1  phone: 0.001627 not_phone: 0.998373  tpr: 0.716667  far: 0.010000
+cnt_p:  34  cnt_n:  1222  label: 1  phone: 0.048093 not_phone: 0.951907  tpr: 0.925758  far: 0.050000
+cnt_p:  68  cnt_n:  1269  label: 1  phone: 0.177723 not_phone: 0.822277  tpr: 0.961364  far: 0.100000
+cnt_p: 136  cnt_n:  1304  label: 1  phone: 0.724613 not_phone: 0.275387  tpr: 0.987879  far: 0.200000
+cnt_p: 204  cnt_n:  1315  label: 1  phone: 0.942165 not_phone: 0.057835  tpr: 0.996212  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   985  label: 1  paper: 0.002647  not_paper: 0.997353  tpr: 0.735075  far: 0.001515
+cnt_p:   3  cnt_n:  1073  label: 1  paper: 0.007256  not_paper: 0.992744  tpr: 0.800746  far: 0.005000
+cnt_p:   6  cnt_n:  1110  label: 1  paper: 0.010198  not_paper: 0.989802  tpr: 0.828358  far: 0.010000
+cnt_p:  33  cnt_n:  1276  label: 1  paper: 0.158382  not_paper: 0.841618  tpr: 0.952239  far: 0.050000
+cnt_p:  66  cnt_n:  1310  label: 1  paper: 0.569802  not_paper: 0.430198  tpr: 0.977612  far: 0.100000
+cnt_p: 132  cnt_n:  1332  label: 1  paper: 0.928663  not_paper: 0.071337  tpr: 0.994030  far: 0.200000
+cnt_p: 198  cnt_n:  1337  label: 1  paper: 0.977328  not_paper: 0.022672  tpr: 0.997761  far: 0.300000
+[train] time:2020-03-16 05:38:32 15: E1.64[000] lr 1.0e-05f tota 3.484 age 0.213 angl 0.582 anti 0.569 beau 0.053 blur 0.386 cls_ 0.001 expr 0.031 gend 0.265 glas 0.065 pts4 0.530 pts5 0.228 pts6 0.266 race 0.010 regu 0.001 | anti 0.925 blur 0.962 cls 1.000 expr 0.976 gend 0.972 glas 0.986 race 0.976 
+[train] time:2020-03-16 05:41:16 15: E1.64[005] lr 1.0e-05f tota 3.744 age 0.209 angl 0.528 anti 0.579 beau 0.046 blur 0.418 cls_ 0.012 expr 0.023 gend 0.266 glas 0.076 pts4 0.637 pts5 0.352 pts6 0.298 race 0.011 regu 0.001 | anti 0.915 blur 0.939 cls 0.990 expr 0.962 gend 0.958 glas 0.986 race 0.962 
+[train] time:2020-03-16 05:44:00 15: E1.64[010] lr 1.0e-05f tota 2.897 age 0.193 angl 0.471 anti 0.563 beau 0.051 blur 0.405 cls_ 0.001 expr 0.014 gend 0.245 glas 0.013 pts4 0.177 pts5 0.208 pts6 0.269 race 0.007 regu 0.001 | anti 0.930 blur 0.962 cls 1.000 expr 0.981 gend 0.967 glas 0.995 race 0.981 
+[train] time:2020-03-16 05:46:45 15: E1.64[015] lr 1.0e-05f tota 3.548 age 0.207 angl 0.539 anti 0.586 beau 0.050 blur 0.399 cls_ 0.001 expr 0.027 gend 0.232 glas 0.005 pts4 0.683 pts5 0.250 pts6 0.269 race 0.008 regu 0.001 | anti 0.885 blur 0.958 cls 1.000 expr 0.967 gend 0.986 glas 1.000 race 0.967 
+[train] time:2020-03-16 05:49:30 15: E1.64[020] lr 1.0e-05f tota 2.988 age 0.174 angl 0.462 anti 0.587 beau 0.050 blur 0.366 cls_ 0.058 expr 0.022 gend 0.239 glas 0.016 pts4 0.173 pts5 0.291 pts6 0.264 race 0.004 regu 0.001 | anti 0.895 blur 0.972 cls 0.990 expr 0.972 gend 0.972 glas 0.995 race 0.986 
+[train] time:2020-03-16 05:52:14 15: E1.64[025] lr 1.0e-05f tota 3.008 age 0.193 angl 0.480 anti 0.574 beau 0.050 blur 0.363 cls_ 0.001 expr 0.018 gend 0.231 glas 0.044 pts4 0.244 pts5 0.255 pts6 0.258 race 0.010 regu 0.001 | anti 0.920 blur 0.976 cls 1.000 expr 0.976 gend 0.986 glas 0.986 race 0.972 
+[train] time:2020-03-16 05:54:58 15: E1.64[030] lr 1.0e-05f tota 3.099 age 0.222 angl 0.512 anti 0.579 beau 0.049 blur 0.395 cls_ 0.007 expr 0.031 gend 0.255 glas 0.028 pts4 0.233 pts5 0.223 pts6 0.266 race 0.010 regu 0.001 | anti 0.905 blur 0.958 cls 1.000 expr 0.972 gend 0.972 glas 0.995 race 0.953 
+[train] time:2020-03-16 05:57:42 15: E1.64[035] lr 1.0e-05f tota 2.764 age 0.188 angl 0.426 anti 0.561 beau 0.043 blur 0.391 cls_ 0.002 expr 0.019 gend 0.238 glas 0.002 pts4 0.156 pts5 0.195 pts6 0.258 race 0.005 regu 0.001 | anti 0.930 blur 0.967 cls 1.000 expr 0.976 gend 0.986 glas 1.000 race 0.995 
+[train] time:2020-03-16 05:59:53 15: E1.64[039] lr 1.0e-05f tota 3.119 age 0.199 angl 0.506 anti 0.575 beau 0.049 blur 0.392 cls_ 0.004 expr 0.020 gend 0.247 glas 0.020 pts4 0.282 pts5 0.256 pts6 0.272 race 0.010 regu 0.001 | anti 0.913 blur 0.962 cls 0.999 expr 0.974 gend 0.972 glas 0.994 race 0.969 
+angl 0.269 anti 0.681 beau 0.586 blur 0.053 cls_ 0.466 expr 0.453 gend 0.019 glas 0.325 pts4 0.009 pts5 0.462 pts6 0.352 race 0.238 regu 0.015 | anti 0.001 blur 0.901 cls 0.925 expr 0.918 gend 0.979 glas 0.922 race 0.999 
+total_p 523 total_n 1597
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.031190  clean: 0.968810  tpr: 0.000626  far: 0.000100
+cnt_p:   1  cnt_n:  1179  label: 0  blur: 0.083500  clean: 0.916500  tpr: 0.738259  far: 0.001912
+cnt_p:   2  cnt_n:  1195  label: 0  blur: 0.088269  clean: 0.911731  tpr: 0.748278  far: 0.005000
+cnt_p:   5  cnt_n:  1283  label: 0  blur: 0.120206  clean: 0.879794  tpr: 0.803381  far: 0.010000
+cnt_p:  26  cnt_n:  1415  label: 0  blur: 0.244109  clean: 0.755891  tpr: 0.886036  far: 0.050000
+cnt_p:  52  cnt_n:  1461  label: 0  blur: 0.309202  clean: 0.690798  tpr: 0.914840  far: 0.100000
+cnt_p: 104  cnt_n:  1542  label: 0  blur: 0.507231  clean: 0.492769  tpr: 0.965560  far: 0.200000
+cnt_p: 156  cnt_n:  1577  label: 0  blur: 0.642623  clean: 0.357377  tpr: 0.987477  far: 0.300000
+total_p 197 total_n 803
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.999356  noface: 0.000644  tpr(cnt_p/total_p): 0.005076  far(cnt_n/total_n): 0.000100
+cnt_p: 121  cnt_n:     1  label: 0  face: 0.430549  noface: 0.569451  tpr(cnt_p/total_p): 0.614213  far(cnt_n/total_n): 0.001245
+cnt_p: 167  cnt_n:     4  label: 0  face: 0.023833  noface: 0.976167  tpr(cnt_p/total_p): 0.847716  far(cnt_n/total_n): 0.005000
+cnt_p: 174  cnt_n:     8  label: 0  face: 0.010968  noface: 0.989032  tpr(cnt_p/total_p): 0.883249  far(cnt_n/total_n): 0.010000
+cnt_p: 188  cnt_n:    24  label: 0  face: 0.001372  noface: 0.998628  tpr(cnt_p/total_p): 0.954315  far(cnt_n/total_n): 0.030000
+cnt_p: 192  cnt_n:    40  label: 0  face: 0.000369  noface: 0.999631  tpr(cnt_p/total_p): 0.974619  far(cnt_n/total_n): 0.050000
+cnt_p: 192  cnt_n:    80  label: 0  face: 0.000098  noface: 0.999902  tpr(cnt_p/total_p): 0.974619  far(cnt_n/total_n): 0.100000
+cnt_p: 193  cnt_n:   160  label: 0  face: 0.000025  noface: 0.999975  tpr(cnt_p/total_p): 0.979695  far(cnt_n/total_n): 0.200000
+cnt_p: 193  cnt_n:   240  label: 0  face: 0.000007  noface: 0.999993  tpr(cnt_p/total_p): 0.979695  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:    71  label: 1 live: 0.000000  anti: 1.000000  tpr: 0.052985  far: 0.001515
+cnt_p:   3  cnt_n:   865  label: 1 live: 0.008158  anti: 0.991842  tpr: 0.645522  far: 0.005000
+cnt_p:   6  cnt_n:   927  label: 1 live: 0.016126  anti: 0.983874  tpr: 0.691791  far: 0.010000
+cnt_p:  33  cnt_n:  1216  label: 1 live: 0.499748  anti: 0.500252  tpr: 0.907463  far: 0.050000
+cnt_p:  66  cnt_n:  1281  label: 1 live: 0.881447  anti: 0.118553  tpr: 0.955970  far: 0.100000
+cnt_p: 132  cnt_n:  1323  label: 1 live: 0.983740  anti: 0.016260  tpr: 0.987313  far: 0.200000
+cnt_p: 198  cnt_n:  1335  label: 1 live: 0.996231  anti: 0.003769  tpr: 0.996269  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   598  label: 1  phone: 0.000166 not_phone: 0.999834  tpr: 0.453030  far: 0.001471
+cnt_p:   3  cnt_n:   687  label: 1  phone: 0.000313 not_phone: 0.999687  tpr: 0.520455  far: 0.005000
+cnt_p:   6  cnt_n:   804  label: 1  phone: 0.000703 not_phone: 0.999297  tpr: 0.609091  far: 0.010000
+cnt_p:  34  cnt_n:  1200  label: 1  phone: 0.039696 not_phone: 0.960304  tpr: 0.909091  far: 0.050000
+cnt_p:  68  cnt_n:  1264  label: 1  phone: 0.216768 not_phone: 0.783232  tpr: 0.957576  far: 0.100000
+cnt_p: 136  cnt_n:  1298  label: 1  phone: 0.783732 not_phone: 0.216268  tpr: 0.983333  far: 0.200000
+cnt_p: 204  cnt_n:  1312  label: 1  phone: 0.944161 not_phone: 0.055839  tpr: 0.993939  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   538  label: 1  paper: 0.000026  not_paper: 0.999974  tpr: 0.401493  far: 0.001515
+cnt_p:   3  cnt_n:  1058  label: 1  paper: 0.003167  not_paper: 0.996833  tpr: 0.789552  far: 0.005000
+cnt_p:   6  cnt_n:  1094  label: 1  paper: 0.005437  not_paper: 0.994563  tpr: 0.816418  far: 0.010000
+cnt_p:  33  cnt_n:  1245  label: 1  paper: 0.080461  not_paper: 0.919539  tpr: 0.929104  far: 0.050000
+cnt_p:  66  cnt_n:  1304  label: 1  paper: 0.477287  not_paper: 0.522713  tpr: 0.973134  far: 0.100000
+cnt_p: 132  cnt_n:  1323  label: 1  paper: 0.877089  not_paper: 0.122911  tpr: 0.987313  far: 0.200000
+cnt_p: 198  cnt_n:  1331  label: 1  paper: 0.962804  not_paper: 0.037196  tpr: 0.993284  far: 0.300000
+[train] time:2020-03-16 06:01:48 16: E1.74[000] lr 1.0e-05f tota 3.629 age 0.202 angl 0.578 anti 0.584 beau 0.053 blur 0.391 cls_ 0.008 expr 0.034 gend 0.268 glas 0.069 pts4 0.621 pts5 0.245 pts6 0.273 race 0.011 regu 0.001 | anti 0.910 blur 0.967 cls 1.000 expr 0.972 gend 0.976 glas 0.981 race 0.967 
+[train] time:2020-03-16 06:04:33 16: E1.74[005] lr 1.0e-05f tota 2.959 age 0.200 angl 0.506 anti 0.584 beau 0.045 blur 0.403 cls_ 0.000 expr 0.013 gend 0.254 glas 0.005 pts4 0.172 pts5 0.215 pts6 0.260 race 0.011 regu 0.001 | anti 0.910 blur 0.953 cls 1.000 expr 0.986 gend 0.962 glas 1.000 race 0.972 
+[train] time:2020-03-16 06:07:18 16: E1.74[010] lr 1.0e-05f tota 2.861 age 0.227 angl 0.460 anti 0.578 beau 0.044 blur 0.406 cls_ 0.008 expr 0.023 gend 0.225 glas 0.012 pts4 0.158 pts5 0.188 pts6 0.241 race 0.003 regu 0.001 | anti 0.900 blur 0.953 cls 1.000 expr 0.958 gend 0.991 glas 0.991 race 0.991 
+[train] time:2020-03-16 06:10:04 16: E1.74[015] lr 1.0e-05f tota 2.936 age 0.191 angl 0.482 anti 0.555 beau 0.049 blur 0.380 cls_ 0.003 expr 0.019 gend 0.250 glas 0.026 pts4 0.174 pts5 0.254 pts6 0.262 race 0.012 regu 0.001 | anti 0.935 blur 0.967 cls 1.000 expr 0.972 gend 0.967 glas 0.986 race 0.967 
+[train] time:2020-03-16 06:12:48 16: E1.74[020] lr 1.0e-05f tota 3.055 age 0.190 angl 0.537 anti 0.572 beau 0.050 blur 0.417 cls_ 0.001 expr 0.018 gend 0.262 glas 0.028 pts4 0.173 pts5 0.229 pts6 0.280 race 0.012 regu 0.001 | anti 0.920 blur 0.948 cls 1.000 expr 0.976 gend 0.958 glas 0.991 race 0.962 
+[train] time:2020-03-16 06:15:33 16: E1.74[025] lr 1.0e-05f tota 3.217 age 0.202 angl 0.540 anti 0.580 beau 0.048 blur 0.402 cls_ 0.001 expr 0.021 gend 0.241 glas 0.014 pts4 0.308 pts5 0.285 pts6 0.276 race 0.007 regu 0.001 | anti 0.910 blur 0.958 cls 1.000 expr 0.972 gend 0.976 glas 0.995 race 0.976 
+[train] time:2020-03-16 06:18:18 16: E1.74[030] lr 1.0e-05f tota 3.246 age 0.199 angl 0.555 anti 0.585 beau 0.047 blur 0.395 cls_ 0.002 expr 0.011 gend 0.251 glas 0.008 pts4 0.270 pts5 0.320 pts6 0.302 race 0.009 regu 0.001 | anti 0.900 blur 0.958 cls 1.000 expr 0.981 gend 0.972 glas 1.000 race 0.972 
+[train] time:2020-03-16 06:21:04 16: E1.74[035] lr 1.0e-05f tota 3.028 age 0.208 angl 0.517 anti 0.565 beau 0.051 blur 0.390 cls_ 0.005 expr 0.010 gend 0.253 glas 0.003 pts4 0.205 pts5 0.249 pts6 0.281 race 0.008 regu 0.001 | anti 0.935 blur 0.972 cls 1.000 expr 0.986 gend 0.967 glas 1.000 race 0.967 
+[train] time:2020-03-16 06:23:15 16: E1.74[039] lr 1.0e-05f tota 3.080 age 0.202 angl 0.504 anti 0.574 beau 0.048 blur 0.391 cls_ 0.004 expr 0.019 gend 0.249 glas 0.015 pts4 0.261 pts5 0.247 pts6 0.269 race 0.010 regu 0.001 | anti 0.917 blur 0.960 cls 0.999 expr 0.977 gend 0.970 glas 0.995 race 0.969 
+angl 0.254 anti 0.675 beau 0.578 blur 0.051 cls_ 0.465 expr 0.347 gend 0.017 glas 0.276 pts4 0.007 pts5 0.388 pts6 0.386 race 0.246 regu 0.013 | anti 0.001 blur 0.910 cls 0.923 expr 0.921 gend 0.974 glas 0.955 race 0.999 
+total_p 460 total_n 1660
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.037907  clean: 0.962093  tpr: 0.000602  far: 0.000100
+cnt_p:   1  cnt_n:  1266  label: 0  blur: 0.091645  clean: 0.908355  tpr: 0.762651  far: 0.002174
+cnt_p:   2  cnt_n:  1316  label: 0  blur: 0.103902  clean: 0.896098  tpr: 0.792771  far: 0.005000
+cnt_p:   4  cnt_n:  1352  label: 0  blur: 0.118238  clean: 0.881762  tpr: 0.814458  far: 0.010000
+cnt_p:  23  cnt_n:  1457  label: 0  blur: 0.183532  clean: 0.816468  tpr: 0.877711  far: 0.050000
+cnt_p:  46  cnt_n:  1512  label: 0  blur: 0.262166  clean: 0.737834  tpr: 0.910843  far: 0.100000
+cnt_p:  92  cnt_n:  1587  label: 0  blur: 0.411414  clean: 0.588586  tpr: 0.956024  far: 0.200000
+cnt_p: 138  cnt_n:  1636  label: 0  blur: 0.576456  clean: 0.423544  tpr: 0.985542  far: 0.300000
+total_p 183 total_n 817
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.999514  noface: 0.000486  tpr(cnt_p/total_p): 0.005464  far(cnt_n/total_n): 0.001224
+cnt_p: 171  cnt_n:     4  label: 0  face: 0.006048  noface: 0.993952  tpr(cnt_p/total_p): 0.934426  far(cnt_n/total_n): 0.005000
+cnt_p: 175  cnt_n:     8  label: 0  face: 0.002501  noface: 0.997499  tpr(cnt_p/total_p): 0.956284  far(cnt_n/total_n): 0.010000
+cnt_p: 177  cnt_n:    24  label: 0  face: 0.001321  noface: 0.998679  tpr(cnt_p/total_p): 0.967213  far(cnt_n/total_n): 0.030000
+cnt_p: 179  cnt_n:    40  label: 0  face: 0.000599  noface: 0.999401  tpr(cnt_p/total_p): 0.978142  far(cnt_n/total_n): 0.050000
+cnt_p: 181  cnt_n:    81  label: 0  face: 0.000246  noface: 0.999754  tpr(cnt_p/total_p): 0.989071  far(cnt_n/total_n): 0.100000
+cnt_p: 183  cnt_n:   163  label: 0  face: 0.000040  noface: 0.999960  tpr(cnt_p/total_p): 1.000000  far(cnt_n/total_n): 0.200000
+cnt_p: 183  cnt_n:   245  label: 0  face: 0.000012  noface: 0.999988  tpr(cnt_p/total_p): 1.000000  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   370  label: 1 live: 0.000032  anti: 0.999968  tpr: 0.276119  far: 0.001515
+cnt_p:   3  cnt_n:   710  label: 1 live: 0.001061  anti: 0.998939  tpr: 0.529851  far: 0.005000
+cnt_p:   6  cnt_n:   811  label: 1 live: 0.002971  anti: 0.997029  tpr: 0.605224  far: 0.010000
+cnt_p:  33  cnt_n:  1227  label: 1 live: 0.357288  anti: 0.642712  tpr: 0.915672  far: 0.050000
+cnt_p:  66  cnt_n:  1293  label: 1 live: 0.806708  anti: 0.193292  tpr: 0.964925  far: 0.100000
+cnt_p: 132  cnt_n:  1323  label: 1 live: 0.974092  anti: 0.025908  tpr: 0.987313  far: 0.200000
+cnt_p: 198  cnt_n:  1334  label: 1 live: 0.991843  anti: 0.008157  tpr: 0.995522  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   588  label: 1  phone: 0.000152 not_phone: 0.999848  tpr: 0.445455  far: 0.001471
+cnt_p:   3  cnt_n:   687  label: 1  phone: 0.000353 not_phone: 0.999647  tpr: 0.520455  far: 0.005000
+cnt_p:   6  cnt_n:  1003  label: 1  phone: 0.003275 not_phone: 0.996725  tpr: 0.759848  far: 0.010000
+cnt_p:  34  cnt_n:  1250  label: 1  phone: 0.116206 not_phone: 0.883794  tpr: 0.946970  far: 0.050000
+cnt_p:  68  cnt_n:  1278  label: 1  phone: 0.325445 not_phone: 0.674555  tpr: 0.968182  far: 0.100000
+cnt_p: 136  cnt_n:  1307  label: 1  phone: 0.830098 not_phone: 0.169902  tpr: 0.990152  far: 0.200000
+cnt_p: 204  cnt_n:  1314  label: 1  phone: 0.972878 not_phone: 0.027122  tpr: 0.995455  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   729  label: 1  paper: 0.000255  not_paper: 0.999745  tpr: 0.544030  far: 0.001515
+cnt_p:   3  cnt_n:   813  label: 1  paper: 0.000547  not_paper: 0.999453  tpr: 0.606716  far: 0.005000
+cnt_p:   6  cnt_n:  1081  label: 1  paper: 0.008658  not_paper: 0.991342  tpr: 0.806716  far: 0.010000
+cnt_p:  33  cnt_n:  1258  label: 1  paper: 0.183943  not_paper: 0.816057  tpr: 0.938806  far: 0.050000
+cnt_p:  66  cnt_n:  1305  label: 1  paper: 0.678448  not_paper: 0.321552  tpr: 0.973881  far: 0.100000
+cnt_p: 132  cnt_n:  1326  label: 1  paper: 0.927730  not_paper: 0.072270  tpr: 0.989552  far: 0.200000
+cnt_p: 198  cnt_n:  1334  label: 1  paper: 0.973933  not_paper: 0.026067  tpr: 0.995522  far: 0.300000
+[train] time:2020-03-16 06:25:10 17: E1.85[000] lr 1.0e-05f tota 2.999 age 0.191 angl 0.471 anti 0.549 beau 0.045 blur 0.388 cls_ 0.007 expr 0.028 gend 0.264 glas 0.017 pts4 0.271 pts5 0.213 pts6 0.272 race 0.009 regu 0.001 | anti 0.950 blur 0.972 cls 1.000 expr 0.981 gend 0.972 glas 0.991 race 0.972 
+[train] time:2020-03-16 06:27:55 17: E1.85[005] lr 1.0e-05f tota 2.995 age 0.205 angl 0.474 anti 0.579 beau 0.048 blur 0.375 cls_ 0.001 expr 0.017 gend 0.245 glas 0.018 pts4 0.190 pts5 0.267 pts6 0.279 race 0.007 regu 0.001 | anti 0.895 blur 0.976 cls 1.000 expr 0.976 gend 0.976 glas 0.995 race 0.981 
+[train] time:2020-03-16 06:30:42 17: E1.85[010] lr 1.0e-05f tota 3.103 age 0.174 angl 0.592 anti 0.568 beau 0.043 blur 0.428 cls_ 0.001 expr 0.010 gend 0.256 glas 0.010 pts4 0.284 pts5 0.189 pts6 0.255 race 0.007 regu 0.001 | anti 0.915 blur 0.943 cls 1.000 expr 0.995 gend 0.958 glas 0.995 race 0.962 
+[train] time:2020-03-16 06:33:28 17: E1.85[015] lr 1.0e-05f tota 3.003 age 0.202 angl 0.518 anti 0.593 beau 0.047 blur 0.366 cls_ 0.001 expr 0.009 gend 0.232 glas 0.008 pts4 0.199 pts5 0.247 pts6 0.274 race 0.010 regu 0.001 | anti 0.900 blur 0.976 cls 1.000 expr 0.986 gend 0.981 glas 1.000 race 0.976 
+[train] time:2020-03-16 06:36:15 17: E1.85[020] lr 1.0e-05f tota 3.258 age 0.214 angl 0.483 anti 0.584 beau 0.047 blur 0.412 cls_ 0.001 expr 0.028 gend 0.276 glas 0.004 pts4 0.407 pts5 0.232 pts6 0.270 race 0.008 regu 0.001 | anti 0.895 blur 0.953 cls 1.000 expr 0.962 gend 0.948 glas 1.000 race 0.976 
+[train] time:2020-03-16 06:39:03 17: E1.85[025] lr 1.0e-05f tota 4.105 age 0.203 angl 0.548 anti 0.551 beau 0.047 blur 0.393 cls_ 0.001 expr 0.014 gend 0.234 glas 0.025 pts4 1.202 pts5 0.320 pts6 0.282 race 0.010 regu 0.001 | anti 0.945 blur 0.958 cls 1.000 expr 0.976 gend 0.986 glas 0.995 race 0.976 
+[train] time:2020-03-16 06:41:49 17: E1.85[030] lr 1.0e-05f tota 2.999 age 0.205 angl 0.496 anti 0.586 beau 0.044 blur 0.407 cls_ 0.000 expr 0.018 gend 0.249 glas 0.003 pts4 0.190 pts5 0.236 pts6 0.265 race 0.007 regu 0.001 | anti 0.905 blur 0.953 cls 1.000 expr 0.972 gend 0.972 glas 1.000 race 0.981 
+[train] time:2020-03-16 06:44:35 17: E1.85[035] lr 1.0e-05f tota 3.105 age 0.182 angl 0.562 anti 0.580 beau 0.052 blur 0.381 cls_ 0.014 expr 0.022 gend 0.246 glas 0.036 pts4 0.211 pts5 0.259 pts6 0.262 race 0.009 regu 0.001 | anti 0.910 blur 0.967 cls 0.990 expr 0.967 gend 0.972 glas 0.986 race 0.972 
+[train] time:2020-03-16 06:46:48 17: E1.85[039] lr 1.0e-05f tota 3.143 age 0.199 angl 0.503 anti 0.576 beau 0.048 blur 0.391 cls_ 0.003 expr 0.020 gend 0.249 glas 0.015 pts4 0.304 pts5 0.263 pts6 0.276 race 0.010 regu 0.001 | anti 0.914 blur 0.961 cls 1.000 expr 0.976 gend 0.971 glas 0.995 race 0.967 
+angl 0.248 anti 0.672 beau 0.579 blur 0.050 cls_ 0.467 expr 0.407 gend 0.018 glas 0.274 pts4 0.007 pts5 0.390 pts6 0.377 race 0.249 regu 0.013 | anti 0.001 blur 0.909 cls 0.921 expr 0.929 gend 0.978 glas 0.958 race 0.997 
+total_p 460 total_n 1660
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.038628  clean: 0.961372  tpr: 0.000602  far: 0.000100
+cnt_p:   1  cnt_n:   286  label: 0  blur: 0.047083  clean: 0.952917  tpr: 0.172289  far: 0.002174
+cnt_p:   2  cnt_n:  1337  label: 0  blur: 0.116365  clean: 0.883635  tpr: 0.805422  far: 0.005000
+cnt_p:   4  cnt_n:  1357  label: 0  blur: 0.124797  clean: 0.875203  tpr: 0.817470  far: 0.010000
+cnt_p:  23  cnt_n:  1434  label: 0  blur: 0.178998  clean: 0.821002  tpr: 0.863855  far: 0.050000
+cnt_p:  46  cnt_n:  1518  label: 0  blur: 0.287370  clean: 0.712630  tpr: 0.914458  far: 0.100000
+cnt_p:  92  cnt_n:  1576  label: 0  blur: 0.401978  clean: 0.598022  tpr: 0.949398  far: 0.200000
+cnt_p: 138  cnt_n:  1625  label: 0  blur: 0.554191  clean: 0.445809  tpr: 0.978916  far: 0.300000
+total_p 171 total_n 829
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.998729  noface: 0.001271  tpr(cnt_p/total_p): 0.005848  far(cnt_n/total_n): 0.001206
+cnt_p: 146  cnt_n:     4  label: 0  face: 0.019846  noface: 0.980154  tpr(cnt_p/total_p): 0.853801  far(cnt_n/total_n): 0.005000
+cnt_p: 153  cnt_n:     8  label: 0  face: 0.008624  noface: 0.991376  tpr(cnt_p/total_p): 0.894737  far(cnt_n/total_n): 0.010000
+cnt_p: 162  cnt_n:    24  label: 0  face: 0.001633  noface: 0.998367  tpr(cnt_p/total_p): 0.947368  far(cnt_n/total_n): 0.030000
+cnt_p: 164  cnt_n:    41  label: 0  face: 0.000719  noface: 0.999281  tpr(cnt_p/total_p): 0.959064  far(cnt_n/total_n): 0.050000
+cnt_p: 165  cnt_n:    82  label: 0  face: 0.000205  noface: 0.999795  tpr(cnt_p/total_p): 0.964912  far(cnt_n/total_n): 0.100000
+cnt_p: 167  cnt_n:   165  label: 0  face: 0.000039  noface: 0.999961  tpr(cnt_p/total_p): 0.976608  far(cnt_n/total_n): 0.200000
+cnt_p: 168  cnt_n:   248  label: 0  face: 0.000013  noface: 0.999987  tpr(cnt_p/total_p): 0.982456  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   596  label: 1 live: 0.000354  anti: 0.999646  tpr: 0.444776  far: 0.001515
+cnt_p:   3  cnt_n:   810  label: 1 live: 0.002773  anti: 0.997227  tpr: 0.604478  far: 0.005000
+cnt_p:   6  cnt_n:  1037  label: 1 live: 0.030513  anti: 0.969487  tpr: 0.773881  far: 0.010000
+cnt_p:  33  cnt_n:  1225  label: 1 live: 0.415328  anti: 0.584672  tpr: 0.914179  far: 0.050000
+cnt_p:  66  cnt_n:  1279  label: 1 live: 0.822264  anti: 0.177736  tpr: 0.954478  far: 0.100000
+cnt_p: 132  cnt_n:  1323  label: 1 live: 0.976166  anti: 0.023834  tpr: 0.987313  far: 0.200000
+cnt_p: 198  cnt_n:  1332  label: 1 live: 0.993531  anti: 0.006469  tpr: 0.994030  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   104  label: 1  phone: 0.000001 not_phone: 0.999999  tpr: 0.078788  far: 0.001471
+cnt_p:   3  cnt_n:   830  label: 1  phone: 0.001047 not_phone: 0.998953  tpr: 0.628788  far: 0.005000
+cnt_p:   6  cnt_n:   956  label: 1  phone: 0.002627 not_phone: 0.997373  tpr: 0.724242  far: 0.010000
+cnt_p:  34  cnt_n:  1209  label: 1  phone: 0.049578 not_phone: 0.950422  tpr: 0.915909  far: 0.050000
+cnt_p:  68  cnt_n:  1266  label: 1  phone: 0.252616 not_phone: 0.747384  tpr: 0.959091  far: 0.100000
+cnt_p: 136  cnt_n:  1307  label: 1  phone: 0.866076 not_phone: 0.133924  tpr: 0.990152  far: 0.200000
+cnt_p: 204  cnt_n:  1318  label: 1  phone: 0.976734 not_phone: 0.023266  tpr: 0.998485  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   494  label: 1  paper: 0.000025  not_paper: 0.999975  tpr: 0.368657  far: 0.001515
+cnt_p:   3  cnt_n:  1040  label: 1  paper: 0.003361  not_paper: 0.996639  tpr: 0.776119  far: 0.005000
+cnt_p:   6  cnt_n:  1133  label: 1  paper: 0.010469  not_paper: 0.989531  tpr: 0.845522  far: 0.010000
+cnt_p:  33  cnt_n:  1263  label: 1  paper: 0.150768  not_paper: 0.849232  tpr: 0.942537  far: 0.050000
+cnt_p:  66  cnt_n:  1308  label: 1  paper: 0.609647  not_paper: 0.390353  tpr: 0.976119  far: 0.100000
+cnt_p: 132  cnt_n:  1332  label: 1  paper: 0.909379  not_paper: 0.090621  tpr: 0.994030  far: 0.200000
+cnt_p: 198  cnt_n:  1335  label: 1  paper: 0.972381  not_paper: 0.027619  tpr: 0.996269  far: 0.300000
+[train] time:2020-03-16 06:48:43 18: E1.95[000] lr 1.0e-05f tota 3.128 age 0.223 angl 0.484 anti 0.577 beau 0.047 blur 0.376 cls_ 0.001 expr 0.025 gend 0.261 glas 0.010 pts4 0.393 pts5 0.188 pts6 0.246 race 0.009 regu 0.001 | anti 0.920 blur 0.967 cls 1.000 expr 0.967 gend 0.958 glas 0.995 race 0.972 
+[train] time:2020-03-16 06:51:29 18: E1.95[005] lr 1.0e-05f tota 2.948 age 0.202 angl 0.487 anti 0.572 beau 0.047 blur 0.381 cls_ 0.012 expr 0.022 gend 0.234 glas 0.003 pts4 0.178 pts5 0.238 pts6 0.280 race 0.009 regu 0.001 | anti 0.915 blur 0.958 cls 1.000 expr 0.972 gend 0.981 glas 1.000 race 0.967 
+[train] time:2020-03-16 06:54:15 18: E1.95[010] lr 1.0e-05f tota 2.901 age 0.194 angl 0.411 anti 0.574 beau 0.048 blur 0.392 cls_ 0.001 expr 0.017 gend 0.237 glas 0.009 pts4 0.254 pts5 0.208 pts6 0.260 race 0.011 regu 0.001 | anti 0.920 blur 0.962 cls 1.000 expr 0.981 gend 0.976 glas 0.995 race 0.981 
+[train] time:2020-03-16 06:57:00 18: E1.95[015] lr 1.0e-05f tota 2.938 age 0.193 angl 0.503 anti 0.581 beau 0.054 blur 0.376 cls_ 0.001 expr 0.017 gend 0.250 glas 0.015 pts4 0.167 pts5 0.218 pts6 0.261 race 0.011 regu 0.001 | anti 0.905 blur 0.981 cls 1.000 expr 0.976 gend 0.976 glas 0.991 race 0.967 
+[train] time:2020-03-16 06:59:46 18: E1.95[020] lr 1.0e-05f tota 2.977 age 0.205 angl 0.502 anti 0.568 beau 0.043 blur 0.415 cls_ 0.007 expr 0.016 gend 0.275 glas 0.010 pts4 0.160 pts5 0.234 pts6 0.251 race 0.007 regu 0.001 | anti 0.935 blur 0.948 cls 1.000 expr 0.967 gend 0.943 glas 0.995 race 0.967 
+[train] time:2020-03-16 07:02:30 18: E1.95[025] lr 1.0e-05f tota 2.953 age 0.224 angl 0.447 anti 0.599 beau 0.044 blur 0.417 cls_ 0.003 expr 0.021 gend 0.255 glas 0.005 pts4 0.164 pts5 0.211 pts6 0.256 race 0.008 regu 0.001 | anti 0.885 blur 0.934 cls 1.000 expr 0.967 gend 0.967 glas 1.000 race 0.976 
+[train] time:2020-03-16 07:05:16 18: E1.95[030] lr 1.0e-05f tota 3.124 age 0.191 angl 0.503 anti 0.587 beau 0.049 blur 0.398 cls_ 0.001 expr 0.015 gend 0.241 glas 0.037 pts4 0.326 pts5 0.219 pts6 0.259 race 0.005 regu 0.001 | anti 0.900 blur 0.967 cls 1.000 expr 0.981 gend 0.986 glas 0.976 race 0.986 
+[train] time:2020-03-16 07:08:02 18: E1.95[035] lr 1.0e-05f tota 2.866 age 0.222 angl 0.433 anti 0.581 beau 0.052 blur 0.393 cls_ 0.002 expr 0.020 gend 0.227 glas 0.005 pts4 0.161 pts5 0.215 pts6 0.259 race 0.006 regu 0.001 | anti 0.905 blur 0.967 cls 1.000 expr 0.976 gend 0.991 glas 1.000 race 0.976 
+[train] time:2020-03-16 07:10:15 18: E1.95[039] lr 1.0e-05f tota 3.060 age 0.202 angl 0.495 anti 0.571 beau 0.048 blur 0.393 cls_ 0.007 expr 0.018 gend 0.248 glas 0.016 pts4 0.262 pts5 0.239 pts6 0.267 race 0.009 regu 0.001 | anti 0.919 blur 0.960 cls 0.999 expr 0.976 gend 0.973 glas 0.994 race 0.970 
+angl 0.246 anti 0.676 beau 0.580 blur 0.050 cls_ 0.470 expr 0.326 gend 0.016 glas 0.275 pts4 0.008 pts5 0.380 pts6 0.379 race 0.248 regu 0.013 | anti 0.001 blur 0.905 cls 0.922 expr 0.932 gend 0.978 glas 0.955 race 0.999 
+total_p 460 total_n 1660
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.039189  clean: 0.960811  tpr: 0.000602  far: 0.000100
+cnt_p:   1  cnt_n:  1153  label: 0  blur: 0.069326  clean: 0.930674  tpr: 0.694578  far: 0.002174
+cnt_p:   2  cnt_n:  1159  label: 0  blur: 0.070309  clean: 0.929691  tpr: 0.698193  far: 0.005000
+cnt_p:   4  cnt_n:  1271  label: 0  blur: 0.087400  clean: 0.912600  tpr: 0.765663  far: 0.010000
+cnt_p:  23  cnt_n:  1435  label: 0  blur: 0.159104  clean: 0.840896  tpr: 0.864458  far: 0.050000
+cnt_p:  46  cnt_n:  1524  label: 0  blur: 0.252803  clean: 0.747197  tpr: 0.918072  far: 0.100000
+cnt_p:  92  cnt_n:  1596  label: 0  blur: 0.406779  clean: 0.593221  tpr: 0.961446  far: 0.200000
+cnt_p: 138  cnt_n:  1633  label: 0  blur: 0.522949  clean: 0.477051  tpr: 0.983735  far: 0.300000
+total_p 189 total_n 811
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.998684  noface: 0.001316  tpr(cnt_p/total_p): 0.005291  far(cnt_n/total_n): 0.000100
+cnt_p: 141  cnt_n:     1  label: 0  face: 0.201973  noface: 0.798027  tpr(cnt_p/total_p): 0.746032  far(cnt_n/total_n): 0.001233
+cnt_p: 159  cnt_n:     4  label: 0  face: 0.056242  noface: 0.943758  tpr(cnt_p/total_p): 0.841270  far(cnt_n/total_n): 0.005000
+cnt_p: 173  cnt_n:     8  label: 0  face: 0.013706  noface: 0.986294  tpr(cnt_p/total_p): 0.915344  far(cnt_n/total_n): 0.010000
+cnt_p: 180  cnt_n:    24  label: 0  face: 0.001697  noface: 0.998303  tpr(cnt_p/total_p): 0.952381  far(cnt_n/total_n): 0.030000
+cnt_p: 184  cnt_n:    40  label: 0  face: 0.000593  noface: 0.999407  tpr(cnt_p/total_p): 0.973545  far(cnt_n/total_n): 0.050000
+cnt_p: 186  cnt_n:    81  label: 0  face: 0.000189  noface: 0.999811  tpr(cnt_p/total_p): 0.984127  far(cnt_n/total_n): 0.100000
+cnt_p: 189  cnt_n:   162  label: 0  face: 0.000028  noface: 0.999972  tpr(cnt_p/total_p): 1.000000  far(cnt_n/total_n): 0.200000
+cnt_p: 189  cnt_n:   243  label: 0  face: 0.000009  noface: 0.999991  tpr(cnt_p/total_p): 1.000000  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   838  label: 1 live: 0.001538  anti: 0.998462  tpr: 0.625373  far: 0.001515
+cnt_p:   3  cnt_n:   955  label: 1 live: 0.004809  anti: 0.995191  tpr: 0.712687  far: 0.005000
+cnt_p:   6  cnt_n:  1019  label: 1 live: 0.011973  anti: 0.988027  tpr: 0.760448  far: 0.010000
+cnt_p:  33  cnt_n:  1228  label: 1 live: 0.403046  anti: 0.596954  tpr: 0.916418  far: 0.050000
+cnt_p:  66  cnt_n:  1283  label: 1 live: 0.761906  anti: 0.238094  tpr: 0.957463  far: 0.100000
+cnt_p: 132  cnt_n:  1318  label: 1 live: 0.949096  anti: 0.050904  tpr: 0.983582  far: 0.200000
+cnt_p: 198  cnt_n:  1329  label: 1 live: 0.986892  anti: 0.013108  tpr: 0.991791  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   797  label: 1  phone: 0.000927 not_phone: 0.999073  tpr: 0.603788  far: 0.001471
+cnt_p:   3  cnt_n:   823  label: 1  phone: 0.001268 not_phone: 0.998732  tpr: 0.623485  far: 0.005000
+cnt_p:   6  cnt_n:   968  label: 1  phone: 0.003579 not_phone: 0.996421  tpr: 0.733333  far: 0.010000
+cnt_p:  34  cnt_n:  1196  label: 1  phone: 0.067122 not_phone: 0.932878  tpr: 0.906061  far: 0.050000
+cnt_p:  68  cnt_n:  1251  label: 1  phone: 0.250771 not_phone: 0.749229  tpr: 0.947727  far: 0.100000
+cnt_p: 136  cnt_n:  1305  label: 1  phone: 0.835123 not_phone: 0.164877  tpr: 0.988636  far: 0.200000
+cnt_p: 204  cnt_n:  1315  label: 1  phone: 0.978543 not_phone: 0.021457  tpr: 0.996212  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   952  label: 1  paper: 0.001952  not_paper: 0.998048  tpr: 0.710448  far: 0.001515
+cnt_p:   3  cnt_n:  1111  label: 1  paper: 0.011968  not_paper: 0.988032  tpr: 0.829104  far: 0.005000
+cnt_p:   6  cnt_n:  1133  label: 1  paper: 0.019316  not_paper: 0.980684  tpr: 0.845522  far: 0.010000
+cnt_p:  33  cnt_n:  1269  label: 1  paper: 0.222049  not_paper: 0.777951  tpr: 0.947015  far: 0.050000
+cnt_p:  66  cnt_n:  1306  label: 1  paper: 0.585922  not_paper: 0.414078  tpr: 0.974627  far: 0.100000
+cnt_p: 132  cnt_n:  1328  label: 1  paper: 0.948062  not_paper: 0.051938  tpr: 0.991045  far: 0.200000
+cnt_p: 198  cnt_n:  1335  label: 1  paper: 0.987926  not_paper: 0.012074  tpr: 0.996269  far: 0.300000
+[train] time:2020-03-16 07:12:11 19: E2.05[000] lr 1.0e-05f tota 2.941 age 0.198 angl 0.436 anti 0.582 beau 0.052 blur 0.358 cls_ 0.001 expr 0.014 gend 0.224 glas 0.034 pts4 0.244 pts5 0.226 pts6 0.272 race 0.010 regu 0.001 | anti 0.915 blur 0.981 cls 1.000 expr 0.986 gend 0.986 glas 0.986 race 0.967 
+[train] time:2020-03-16 07:14:55 19: E2.05[005] lr 1.0e-05f tota 2.966 age 0.185 angl 0.501 anti 0.599 beau 0.049 blur 0.381 cls_ 0.002 expr 0.016 gend 0.251 glas 0.004 pts4 0.168 pts5 0.221 pts6 0.283 race 0.008 regu 0.001 | anti 0.880 blur 0.962 cls 1.000 expr 0.972 gend 0.962 glas 1.000 race 0.972 
+[train] time:2020-03-16 07:17:38 19: E2.05[010] lr 1.0e-05f tota 2.910 age 0.201 angl 0.428 anti 0.551 beau 0.047 blur 0.383 cls_ 0.002 expr 0.017 gend 0.233 glas 0.010 pts4 0.273 pts5 0.222 pts6 0.258 race 0.011 regu 0.001 | anti 0.945 blur 0.958 cls 1.000 expr 0.981 gend 0.981 glas 0.991 race 0.976 
+[train] time:2020-03-16 07:20:23 19: E2.05[015] lr 1.0e-05f tota 3.240 age 0.192 angl 0.502 anti 0.593 beau 0.046 blur 0.394 cls_ 0.000 expr 0.018 gend 0.242 glas 0.016 pts4 0.215 pts5 0.390 pts6 0.323 race 0.012 regu 0.001 | anti 0.885 blur 0.953 cls 1.000 expr 0.976 gend 0.976 glas 0.995 race 0.958 
+[train] time:2020-03-16 07:23:07 19: E2.05[020] lr 1.0e-05f tota 2.957 age 0.210 angl 0.510 anti 0.575 beau 0.051 blur 0.365 cls_ 0.001 expr 0.030 gend 0.229 glas 0.003 pts4 0.195 pts5 0.226 pts6 0.262 race 0.013 regu 0.001 | anti 0.925 blur 0.972 cls 1.000 expr 0.948 gend 0.981 glas 1.000 race 0.948 
+[train] time:2020-03-16 07:25:52 19: E2.05[025] lr 9.7e-06f tota 3.108 age 0.181 angl 0.513 anti 0.598 beau 0.051 blur 0.368 cls_ 0.000 expr 0.023 gend 0.240 glas 0.026 pts4 0.188 pts5 0.304 pts6 0.305 race 0.012 regu 0.001 | anti 0.905 blur 0.967 cls 1.000 expr 0.958 gend 0.972 glas 0.991 race 0.962 
+[train] time:2020-03-16 07:28:37 19: E2.05[030] lr 9.7e-06f tota 3.232 age 0.189 angl 0.495 anti 0.575 beau 0.053 blur 0.410 cls_ 0.001 expr 0.020 gend 0.254 glas 0.005 pts4 0.434 pts5 0.235 pts6 0.266 race 0.007 regu 0.001 | anti 0.910 blur 0.972 cls 1.000 expr 0.972 gend 0.972 glas 1.000 race 0.972 
+[train] time:2020-03-16 07:31:22 19: E2.05[035] lr 9.7e-06f tota 2.854 age 0.197 angl 0.459 anti 0.576 beau 0.047 blur 0.362 cls_ 0.001 expr 0.012 gend 0.254 glas 0.009 pts4 0.166 pts5 0.218 pts6 0.253 race 0.012 regu 0.001 | anti 0.920 blur 0.981 cls 1.000 expr 0.986 gend 0.958 glas 0.995 race 0.953 
+[train] time:2020-03-16 07:33:32 19: E2.05[039] lr 9.7e-06f tota 3.072 age 0.199 angl 0.494 anti 0.574 beau 0.048 blur 0.386 cls_ 0.005 expr 0.020 gend 0.248 glas 0.013 pts4 0.262 pts5 0.252 pts6 0.273 race 0.010 regu 0.001 | anti 0.917 blur 0.965 cls 0.999 expr 0.973 gend 0.970 glas 0.994 race 0.969 
+angl 0.251 anti 0.677 beau 0.585 blur 0.050 cls_ 0.466 expr 0.380 gend 0.018 glas 0.278 pts4 0.006 pts5 0.361 pts6 0.406 race 0.255 regu 0.013 | anti 0.001 blur 0.905 cls 0.921 expr 0.926 gend 0.974 glas 0.950 race 0.999 
+total_p 460 total_n 1660
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.035122  clean: 0.964878  tpr: 0.000602  far: 0.000100
+cnt_p:   1  cnt_n:  1164  label: 0  blur: 0.079458  clean: 0.920542  tpr: 0.701205  far: 0.002174
+cnt_p:   2  cnt_n:  1246  label: 0  blur: 0.092490  clean: 0.907510  tpr: 0.750602  far: 0.005000
+cnt_p:   4  cnt_n:  1291  label: 0  blur: 0.106046  clean: 0.893954  tpr: 0.777711  far: 0.010000
+cnt_p:  23  cnt_n:  1478  label: 0  blur: 0.213335  clean: 0.786665  tpr: 0.890361  far: 0.050000
+cnt_p:  46  cnt_n:  1528  label: 0  blur: 0.298344  clean: 0.701656  tpr: 0.920482  far: 0.100000
+cnt_p:  92  cnt_n:  1587  label: 0  blur: 0.415841  clean: 0.584159  tpr: 0.956024  far: 0.200000
+cnt_p: 138  cnt_n:  1627  label: 0  blur: 0.557012  clean: 0.442988  tpr: 0.980120  far: 0.300000
+total_p 177 total_n 823
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.999099  noface: 0.000901  tpr(cnt_p/total_p): 0.005650  far(cnt_n/total_n): 0.001215
+cnt_p: 154  cnt_n:     4  label: 0  face: 0.019206  noface: 0.980794  tpr(cnt_p/total_p): 0.870056  far(cnt_n/total_n): 0.005000
+cnt_p: 159  cnt_n:     8  label: 0  face: 0.010822  noface: 0.989178  tpr(cnt_p/total_p): 0.898305  far(cnt_n/total_n): 0.010000
+cnt_p: 167  cnt_n:    24  label: 0  face: 0.001918  noface: 0.998082  tpr(cnt_p/total_p): 0.943503  far(cnt_n/total_n): 0.030000
+cnt_p: 169  cnt_n:    41  label: 0  face: 0.000728  noface: 0.999272  tpr(cnt_p/total_p): 0.954802  far(cnt_n/total_n): 0.050000
+cnt_p: 173  cnt_n:    82  label: 0  face: 0.000139  noface: 0.999861  tpr(cnt_p/total_p): 0.977401  far(cnt_n/total_n): 0.100000
+cnt_p: 175  cnt_n:   164  label: 0  face: 0.000028  noface: 0.999972  tpr(cnt_p/total_p): 0.988701  far(cnt_n/total_n): 0.200000
+cnt_p: 177  cnt_n:   246  label: 0  face: 0.000008  noface: 0.999992  tpr(cnt_p/total_p): 1.000000  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   552  label: 1 live: 0.000388  anti: 0.999612  tpr: 0.411940  far: 0.001515
+cnt_p:   3  cnt_n:   704  label: 1 live: 0.001899  anti: 0.998101  tpr: 0.525373  far: 0.005000
+cnt_p:   6  cnt_n:   897  label: 1 live: 0.011239  anti: 0.988761  tpr: 0.669403  far: 0.010000
+cnt_p:  33  cnt_n:  1215  label: 1 live: 0.459307  anti: 0.540693  tpr: 0.906716  far: 0.050000
+cnt_p:  66  cnt_n:  1286  label: 1 live: 0.893432  anti: 0.106568  tpr: 0.959701  far: 0.100000
+cnt_p: 132  cnt_n:  1320  label: 1 live: 0.980765  anti: 0.019235  tpr: 0.985075  far: 0.200000
+cnt_p: 198  cnt_n:  1330  label: 1 live: 0.993958  anti: 0.006042  tpr: 0.992537  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   277  label: 1  phone: 0.000020 not_phone: 0.999980  tpr: 0.209848  far: 0.001471
+cnt_p:   3  cnt_n:   800  label: 1  phone: 0.000809 not_phone: 0.999191  tpr: 0.606061  far: 0.005000
+cnt_p:   6  cnt_n:   910  label: 1  phone: 0.001971 not_phone: 0.998029  tpr: 0.689394  far: 0.010000
+cnt_p:  34  cnt_n:  1176  label: 1  phone: 0.025357 not_phone: 0.974643  tpr: 0.890909  far: 0.050000
+cnt_p:  68  cnt_n:  1270  label: 1  phone: 0.169152 not_phone: 0.830848  tpr: 0.962121  far: 0.100000
+cnt_p: 136  cnt_n:  1300  label: 1  phone: 0.719335 not_phone: 0.280665  tpr: 0.984848  far: 0.200000
+cnt_p: 204  cnt_n:  1310  label: 1  phone: 0.952730 not_phone: 0.047270  tpr: 0.992424  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   970  label: 1  paper: 0.001854  not_paper: 0.998146  tpr: 0.723881  far: 0.001515
+cnt_p:   3  cnt_n:  1047  label: 1  paper: 0.004166  not_paper: 0.995834  tpr: 0.781343  far: 0.005000
+cnt_p:   6  cnt_n:  1132  label: 1  paper: 0.012841  not_paper: 0.987159  tpr: 0.844776  far: 0.010000
+cnt_p:  33  cnt_n:  1281  label: 1  paper: 0.220372  not_paper: 0.779628  tpr: 0.955970  far: 0.050000
+cnt_p:  66  cnt_n:  1304  label: 1  paper: 0.589277  not_paper: 0.410723  tpr: 0.973134  far: 0.100000
+cnt_p: 132  cnt_n:  1324  label: 1  paper: 0.877264  not_paper: 0.122736  tpr: 0.988060  far: 0.200000
+cnt_p: 198  cnt_n:  1334  label: 1  paper: 0.963696  not_paper: 0.036304  tpr: 0.995522  far: 0.300000
+[train] time:2020-03-16 07:35:27 20: E2.15[000] lr 9.7e-06f tota 3.072 age 0.210 angl 0.498 anti 0.551 beau 0.053 blur 0.379 cls_ 0.002 expr 0.013 gend 0.240 glas 0.021 pts4 0.194 pts5 0.337 pts6 0.292 race 0.007 regu 0.001 | anti 0.940 blur 0.972 cls 1.000 expr 0.981 gend 0.976 glas 0.991 race 0.976 
+[train] time:2020-03-16 07:38:11 20: E2.15[005] lr 9.7e-06f tota 3.066 age 0.216 angl 0.470 anti 0.572 beau 0.048 blur 0.442 cls_ 0.003 expr 0.010 gend 0.230 glas 0.017 pts4 0.182 pts5 0.300 pts6 0.281 race 0.009 regu 0.001 | anti 0.915 blur 0.934 cls 1.000 expr 0.995 gend 0.976 glas 0.991 race 0.972 
+[train] time:2020-03-16 07:40:56 20: E2.15[010] lr 9.7e-06f tota 2.980 age 0.192 angl 0.508 anti 0.579 beau 0.051 blur 0.386 cls_ 0.002 expr 0.015 gend 0.249 glas 0.006 pts4 0.220 pts5 0.210 pts6 0.262 race 0.010 regu 0.001 | anti 0.900 blur 0.967 cls 1.000 expr 0.981 gend 0.958 glas 0.995 race 0.972 
+[train] time:2020-03-16 07:43:41 20: E2.15[015] lr 9.7e-06f tota 3.353 age 0.194 angl 0.556 anti 0.567 beau 0.048 blur 0.373 cls_ 0.001 expr 0.025 gend 0.255 glas 0.028 pts4 0.470 pts5 0.253 pts6 0.289 race 0.011 regu 0.001 | anti 0.930 blur 0.967 cls 1.000 expr 0.972 gend 0.972 glas 0.991 race 0.967 
+[train] time:2020-03-16 07:46:27 20: E2.15[020] lr 9.7e-06f tota 2.966 age 0.194 angl 0.490 anti 0.544 beau 0.049 blur 0.368 cls_ 0.026 expr 0.026 gend 0.237 glas 0.003 pts4 0.204 pts5 0.268 pts6 0.279 race 0.013 regu 0.001 | anti 0.955 blur 0.967 cls 0.990 expr 0.962 gend 0.981 glas 1.000 race 0.962 
+[train] time:2020-03-16 07:49:11 20: E2.15[025] lr 9.7e-06f tota 3.161 age 0.169 angl 0.541 anti 0.584 beau 0.048 blur 0.369 cls_ 0.004 expr 0.024 gend 0.241 glas 0.037 pts4 0.329 pts5 0.236 pts6 0.279 race 0.010 regu 0.001 | anti 0.895 blur 0.967 cls 1.000 expr 0.967 gend 0.986 glas 0.991 race 0.972 
+[train] time:2020-03-16 07:51:56 20: E2.15[030] lr 9.7e-06f tota 3.394 age 0.187 angl 0.484 anti 0.573 beau 0.053 blur 0.384 cls_ 0.001 expr 0.020 gend 0.258 glas 0.020 pts4 0.614 pts5 0.231 pts6 0.277 race 0.006 regu 0.001 | anti 0.920 blur 0.972 cls 1.000 expr 0.967 gend 0.967 glas 0.991 race 0.976 
+[train] time:2020-03-16 07:54:42 20: E2.15[035] lr 9.7e-06f tota 3.279 age 0.207 angl 0.584 anti 0.559 beau 0.052 blur 0.407 cls_ 0.002 expr 0.020 gend 0.260 glas 0.014 pts4 0.392 pts5 0.228 pts6 0.256 race 0.017 regu 0.001 | anti 0.940 blur 0.953 cls 1.000 expr 0.981 gend 0.967 glas 1.000 race 0.953 
+[train] time:2020-03-16 07:56:55 20: E2.15[039] lr 9.7e-06f tota 3.057 age 0.197 angl 0.494 anti 0.575 beau 0.049 blur 0.383 cls_ 0.008 expr 0.020 gend 0.248 glas 0.012 pts4 0.267 pts5 0.238 pts6 0.269 race 0.010 regu 0.001 | anti 0.913 blur 0.965 cls 0.999 expr 0.974 gend 0.972 glas 0.996 race 0.967 
+angl 0.248 anti 0.663 beau 0.571 blur 0.053 cls_ 0.509 expr 0.291 gend 0.022 glas 0.320 pts4 0.032 pts5 0.659 pts6 0.351 race 0.234 regu 0.011 | anti 0.001 blur 0.924 cls 0.907 expr 0.952 gend 0.974 glas 0.926 race 0.990 
+total_p 545 total_n 1575
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.035821  clean: 0.964179  tpr: 0.000635  far: 0.000100
+cnt_p:   1  cnt_n:  1131  label: 0  blur: 0.090954  clean: 0.909046  tpr: 0.718095  far: 0.001835
+cnt_p:   2  cnt_n:  1142  label: 0  blur: 0.094848  clean: 0.905152  tpr: 0.725079  far: 0.005000
+cnt_p:   5  cnt_n:  1215  label: 0  blur: 0.119960  clean: 0.880040  tpr: 0.771429  far: 0.010000
+cnt_p:  27  cnt_n:  1347  label: 0  blur: 0.211520  clean: 0.788480  tpr: 0.855238  far: 0.050000
+cnt_p:  54  cnt_n:  1417  label: 0  blur: 0.316286  clean: 0.683714  tpr: 0.899683  far: 0.100000
+cnt_p: 109  cnt_n:  1486  label: 0  blur: 0.502655  clean: 0.497345  tpr: 0.943492  far: 0.200000
+cnt_p: 163  cnt_n:  1519  label: 0  blur: 0.636589  clean: 0.363411  tpr: 0.964444  far: 0.300000
+total_p 178 total_n 822
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.999356  noface: 0.000644  tpr(cnt_p/total_p): 0.005618  far(cnt_n/total_n): 0.000100
+cnt_p: 145  cnt_n:     1  label: 0  face: 0.202157  noface: 0.797843  tpr(cnt_p/total_p): 0.814607  far(cnt_n/total_n): 0.001217
+cnt_p: 156  cnt_n:     4  label: 0  face: 0.053512  noface: 0.946488  tpr(cnt_p/total_p): 0.876404  far(cnt_n/total_n): 0.005000
+cnt_p: 162  cnt_n:     8  label: 0  face: 0.011439  noface: 0.988561  tpr(cnt_p/total_p): 0.910112  far(cnt_n/total_n): 0.010000
+cnt_p: 169  cnt_n:    24  label: 0  face: 0.001831  noface: 0.998169  tpr(cnt_p/total_p): 0.949438  far(cnt_n/total_n): 0.030000
+cnt_p: 171  cnt_n:    41  label: 0  face: 0.000929  noface: 0.999071  tpr(cnt_p/total_p): 0.960674  far(cnt_n/total_n): 0.050000
+cnt_p: 172  cnt_n:    82  label: 0  face: 0.000284  noface: 0.999716  tpr(cnt_p/total_p): 0.966292  far(cnt_n/total_n): 0.100000
+cnt_p: 174  cnt_n:   164  label: 0  face: 0.000064  noface: 0.999936  tpr(cnt_p/total_p): 0.977528  far(cnt_n/total_n): 0.200000
+cnt_p: 175  cnt_n:   246  label: 0  face: 0.000022  noface: 0.999978  tpr(cnt_p/total_p): 0.983146  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   548  label: 1 live: 0.000164  anti: 0.999836  tpr: 0.408955  far: 0.001515
+cnt_p:   3  cnt_n:   901  label: 1 live: 0.006495  anti: 0.993505  tpr: 0.672388  far: 0.005000
+cnt_p:   6  cnt_n:  1015  label: 1 live: 0.019552  anti: 0.980448  tpr: 0.757463  far: 0.010000
+cnt_p:  33  cnt_n:  1261  label: 1 live: 0.535112  anti: 0.464888  tpr: 0.941045  far: 0.050000
+cnt_p:  66  cnt_n:  1292  label: 1 live: 0.845237  anti: 0.154763  tpr: 0.964179  far: 0.100000
+cnt_p: 132  cnt_n:  1324  label: 1 live: 0.968757  anti: 0.031243  tpr: 0.988060  far: 0.200000
+cnt_p: 198  cnt_n:  1337  label: 1 live: 0.993138  anti: 0.006862  tpr: 0.997761  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   529  label: 1  phone: 0.000129 not_phone: 0.999871  tpr: 0.400758  far: 0.001471
+cnt_p:   3  cnt_n:   841  label: 1  phone: 0.001552 not_phone: 0.998448  tpr: 0.637121  far: 0.005000
+cnt_p:   6  cnt_n:   990  label: 1  phone: 0.004673 not_phone: 0.995327  tpr: 0.750000  far: 0.010000
+cnt_p:  34  cnt_n:  1201  label: 1  phone: 0.070325 not_phone: 0.929675  tpr: 0.909848  far: 0.050000
+cnt_p:  68  cnt_n:  1285  label: 1  phone: 0.488939 not_phone: 0.511061  tpr: 0.973485  far: 0.100000
+cnt_p: 136  cnt_n:  1307  label: 1  phone: 0.904302 not_phone: 0.095698  tpr: 0.990152  far: 0.200000
+cnt_p: 204  cnt_n:  1316  label: 1  phone: 0.979932 not_phone: 0.020068  tpr: 0.996970  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:  1071  label: 1  paper: 0.004901  not_paper: 0.995099  tpr: 0.799254  far: 0.001515
+cnt_p:   3  cnt_n:  1122  label: 1  paper: 0.009536  not_paper: 0.990464  tpr: 0.837313  far: 0.005000
+cnt_p:   6  cnt_n:  1154  label: 1  paper: 0.015601  not_paper: 0.984399  tpr: 0.861194  far: 0.010000
+cnt_p:  33  cnt_n:  1286  label: 1  paper: 0.173305  not_paper: 0.826695  tpr: 0.959701  far: 0.050000
+cnt_p:  66  cnt_n:  1319  label: 1  paper: 0.579248  not_paper: 0.420752  tpr: 0.984328  far: 0.100000
+cnt_p: 132  cnt_n:  1332  label: 1  paper: 0.901756  not_paper: 0.098244  tpr: 0.994030  far: 0.200000
+cnt_p: 198  cnt_n:  1336  label: 1  paper: 0.970232  not_paper: 0.029768  tpr: 0.997015  far: 0.300000
+[train] time:2020-03-16 07:58:51 21: E2.26[000] lr 9.7e-06f tota 2.957 age 0.216 angl 0.494 anti 0.588 beau 0.046 blur 0.374 cls_ 0.001 expr 0.023 gend 0.226 glas 0.005 pts4 0.189 pts5 0.228 pts6 0.261 race 0.011 regu 0.001 | anti 0.910 blur 0.962 cls 1.000 expr 0.972 gend 0.991 glas 1.000 race 0.967 
+[train] time:2020-03-16 08:01:36 21: E2.26[005] lr 9.7e-06f tota 2.943 age 0.195 angl 0.482 anti 0.539 beau 0.050 blur 0.414 cls_ 0.001 expr 0.022 gend 0.258 glas 0.024 pts4 0.162 pts5 0.244 pts6 0.272 race 0.010 regu 0.001 | anti 0.965 blur 0.962 cls 1.000 expr 0.967 gend 0.967 glas 0.995 race 0.962 
+[train] time:2020-03-16 08:04:22 21: E2.26[010] lr 9.7e-06f tota 3.080 age 0.200 angl 0.491 anti 0.592 beau 0.046 blur 0.410 cls_ 0.010 expr 0.013 gend 0.265 glas 0.006 pts4 0.191 pts5 0.281 pts6 0.271 race 0.008 regu 0.001 | anti 0.905 blur 0.962 cls 1.000 expr 0.981 gend 0.939 glas 1.000 race 0.972 
+[train] time:2020-03-16 08:07:08 21: E2.26[015] lr 9.7e-06f tota 3.186 age 0.215 angl 0.510 anti 0.591 beau 0.050 blur 0.409 cls_ 0.001 expr 0.027 gend 0.244 glas 0.009 pts4 0.272 pts5 0.267 pts6 0.284 race 0.012 regu 0.001 | anti 0.900 blur 0.948 cls 1.000 expr 0.953 gend 0.967 glas 0.995 race 0.948 
+[train] time:2020-03-16 08:09:55 21: E2.26[020] lr 9.7e-06f tota 3.003 age 0.217 angl 0.450 anti 0.595 beau 0.051 blur 0.440 cls_ 0.001 expr 0.032 gend 0.283 glas 0.002 pts4 0.174 pts5 0.196 pts6 0.261 race 0.004 regu 0.001 | anti 0.895 blur 0.925 cls 1.000 expr 0.962 gend 0.948 glas 1.000 race 0.986 
+[train] time:2020-03-16 08:12:39 21: E2.26[025] lr 9.7e-06f tota 3.099 age 0.196 angl 0.541 anti 0.578 beau 0.053 blur 0.390 cls_ 0.001 expr 0.021 gend 0.269 glas 0.013 pts4 0.261 pts5 0.212 pts6 0.264 race 0.010 regu 0.001 | anti 0.920 blur 0.943 cls 1.000 expr 0.972 gend 0.967 glas 0.995 race 0.972 
+[train] time:2020-03-16 08:15:24 21: E2.26[030] lr 9.7e-06f tota 3.164 age 0.217 angl 0.593 anti 0.579 beau 0.046 blur 0.376 cls_ 0.003 expr 0.024 gend 0.225 glas 0.012 pts4 0.280 pts5 0.236 pts6 0.267 race 0.015 regu 0.001 | anti 0.915 blur 0.967 cls 1.000 expr 0.958 gend 0.981 glas 0.995 race 0.967 
+[train] time:2020-03-16 08:18:10 21: E2.26[035] lr 9.7e-06f tota 3.483 age 0.194 angl 0.501 anti 0.587 beau 0.049 blur 0.384 cls_ 0.001 expr 0.018 gend 0.256 glas 0.037 pts4 0.597 pts5 0.275 pts6 0.282 race 0.008 regu 0.001 | anti 0.895 blur 0.967 cls 1.000 expr 0.976 gend 0.972 glas 0.991 race 0.967 
+[train] time:2020-03-16 08:20:23 21: E2.26[039] lr 9.7e-06f tota 3.089 age 0.197 angl 0.500 anti 0.575 beau 0.049 blur 0.395 cls_ 0.004 expr 0.020 gend 0.250 glas 0.014 pts4 0.269 pts5 0.246 pts6 0.271 race 0.011 regu 0.001 | anti 0.917 blur 0.959 cls 1.000 expr 0.973 gend 0.969 glas 0.996 race 0.966 
+angl 0.258 anti 0.743 beau 0.581 blur 0.058 cls_ 0.510 expr 0.362 gend 0.012 glas 0.299 pts4 0.019 pts5 0.384 pts6 0.353 race 0.230 regu 0.015 | anti 0.001 blur 0.910 cls 0.910 expr 0.937 gend 0.978 glas 0.936 race 0.992 
+total_p 474 total_n 1646
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.035862  clean: 0.964138  tpr: 0.000608  far: 0.002110
+cnt_p:   2  cnt_n:  1091  label: 0  blur: 0.082248  clean: 0.917752  tpr: 0.662819  far: 0.005000
+cnt_p:   4  cnt_n:  1140  label: 0  blur: 0.096234  clean: 0.903766  tpr: 0.692588  far: 0.010000
+cnt_p:  23  cnt_n:  1368  label: 0  blur: 0.256927  clean: 0.743073  tpr: 0.831106  far: 0.050000
+cnt_p:  47  cnt_n:  1460  label: 0  blur: 0.356995  clean: 0.643005  tpr: 0.886999  far: 0.100000
+cnt_p:  94  cnt_n:  1549  label: 0  blur: 0.545589  clean: 0.454411  tpr: 0.941069  far: 0.200000
+cnt_p: 142  cnt_n:  1592  label: 0  blur: 0.665162  clean: 0.334838  tpr: 0.967193  far: 0.300000
+total_p 157 total_n 843
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.998900  noface: 0.001100  tpr(cnt_p/total_p): 0.006369  far(cnt_n/total_n): 0.000100
+cnt_p: 130  cnt_n:     1  label: 0  face: 0.032797  noface: 0.967203  tpr(cnt_p/total_p): 0.828025  far(cnt_n/total_n): 0.001186
+cnt_p: 136  cnt_n:     4  label: 0  face: 0.014853  noface: 0.985147  tpr(cnt_p/total_p): 0.866242  far(cnt_n/total_n): 0.005000
+cnt_p: 143  cnt_n:     8  label: 0  face: 0.005698  noface: 0.994302  tpr(cnt_p/total_p): 0.910828  far(cnt_n/total_n): 0.010000
+cnt_p: 148  cnt_n:    25  label: 0  face: 0.000956  noface: 0.999044  tpr(cnt_p/total_p): 0.942675  far(cnt_n/total_n): 0.030000
+cnt_p: 150  cnt_n:    42  label: 0  face: 0.000495  noface: 0.999505  tpr(cnt_p/total_p): 0.955414  far(cnt_n/total_n): 0.050000
+cnt_p: 151  cnt_n:    84  label: 0  face: 0.000120  noface: 0.999880  tpr(cnt_p/total_p): 0.961783  far(cnt_n/total_n): 0.100000
+cnt_p: 154  cnt_n:   168  label: 0  face: 0.000022  noface: 0.999978  tpr(cnt_p/total_p): 0.980892  far(cnt_n/total_n): 0.200000
+cnt_p: 156  cnt_n:   252  label: 0  face: 0.000008  noface: 0.999992  tpr(cnt_p/total_p): 0.993631  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   360  label: 1 live: 0.000021  anti: 0.999979  tpr: 0.268657  far: 0.001515
+cnt_p:   3  cnt_n:   711  label: 1 live: 0.000515  anti: 0.999485  tpr: 0.530597  far: 0.005000
+cnt_p:   6  cnt_n:   965  label: 1 live: 0.006404  anti: 0.993596  tpr: 0.720149  far: 0.010000
+cnt_p:  33  cnt_n:  1198  label: 1 live: 0.156405  anti: 0.843595  tpr: 0.894030  far: 0.050000
+cnt_p:  66  cnt_n:  1276  label: 1 live: 0.650994  anti: 0.349006  tpr: 0.952239  far: 0.100000
+cnt_p: 132  cnt_n:  1321  label: 1 live: 0.947921  anti: 0.052079  tpr: 0.985821  far: 0.200000
+cnt_p: 198  cnt_n:  1334  label: 1 live: 0.987992  anti: 0.012008  tpr: 0.995522  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   567  label: 1  phone: 0.000157 not_phone: 0.999843  tpr: 0.429545  far: 0.001471
+cnt_p:   3  cnt_n:   854  label: 1  phone: 0.001287 not_phone: 0.998713  tpr: 0.646970  far: 0.005000
+cnt_p:   6  cnt_n:   908  label: 1  phone: 0.001882 not_phone: 0.998118  tpr: 0.687879  far: 0.010000
+cnt_p:  34  cnt_n:  1174  label: 1  phone: 0.047905 not_phone: 0.952095  tpr: 0.889394  far: 0.050000
+cnt_p:  68  cnt_n:  1260  label: 1  phone: 0.320843 not_phone: 0.679157  tpr: 0.954545  far: 0.100000
+cnt_p: 136  cnt_n:  1300  label: 1  phone: 0.838839 not_phone: 0.161161  tpr: 0.984848  far: 0.200000
+cnt_p: 204  cnt_n:  1314  label: 1  phone: 0.969241 not_phone: 0.030759  tpr: 0.995455  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   722  label: 1  paper: 0.000235  not_paper: 0.999765  tpr: 0.538806  far: 0.001515
+cnt_p:   3  cnt_n:   985  label: 1  paper: 0.003710  not_paper: 0.996290  tpr: 0.735075  far: 0.005000
+cnt_p:   6  cnt_n:  1067  label: 1  paper: 0.010206  not_paper: 0.989794  tpr: 0.796269  far: 0.010000
+cnt_p:  33  cnt_n:  1261  label: 1  paper: 0.224426  not_paper: 0.775574  tpr: 0.941045  far: 0.050000
+cnt_p:  66  cnt_n:  1298  label: 1  paper: 0.697859  not_paper: 0.302141  tpr: 0.968657  far: 0.100000
+cnt_p: 132  cnt_n:  1323  label: 1  paper: 0.958364  not_paper: 0.041636  tpr: 0.987313  far: 0.200000
+cnt_p: 198  cnt_n:  1332  label: 1  paper: 0.986187  not_paper: 0.013813  tpr: 0.994030  far: 0.300000
+[train] time:2020-03-16 08:22:18 22: E2.36[000] lr 9.7e-06f tota 3.080 age 0.208 angl 0.508 anti 0.546 beau 0.050 blur 0.400 cls_ 0.049 expr 0.022 gend 0.261 glas 0.008 pts4 0.241 pts5 0.238 pts6 0.278 race 0.007 regu 0.001 | anti 0.950 blur 0.948 cls 0.990 expr 0.976 gend 0.972 glas 1.000 race 0.986 
+[train] time:2020-03-16 08:25:03 22: E2.36[005] lr 9.7e-06f tota 3.031 age 0.196 angl 0.499 anti 0.591 beau 0.044 blur 0.384 cls_ 0.001 expr 0.023 gend 0.227 glas 0.019 pts4 0.194 pts5 0.278 pts6 0.273 race 0.008 regu 0.001 | anti 0.895 blur 0.958 cls 1.000 expr 0.958 gend 0.991 glas 0.991 race 0.976 
+[train] time:2020-03-16 08:27:48 22: E2.36[010] lr 9.7e-06f tota 3.463 age 0.201 angl 0.553 anti 0.570 beau 0.052 blur 0.418 cls_ 0.000 expr 0.032 gend 0.256 glas 0.021 pts4 0.538 pts5 0.260 pts6 0.269 race 0.007 regu 0.001 | anti 0.920 blur 0.948 cls 1.000 expr 0.972 gend 0.981 glas 0.995 race 0.967 
+[train] time:2020-03-16 08:30:34 22: E2.36[015] lr 9.7e-06f tota 3.059 age 0.188 angl 0.504 anti 0.562 beau 0.045 blur 0.400 cls_ 0.000 expr 0.020 gend 0.268 glas 0.005 pts4 0.318 pts5 0.205 pts6 0.252 race 0.010 regu 0.001 | anti 0.925 blur 0.958 cls 1.000 expr 0.976 gend 0.958 glas 1.000 race 0.962 
+[train] time:2020-03-16 08:33:19 22: E2.36[020] lr 9.7e-06f tota 2.995 age 0.181 angl 0.485 anti 0.569 beau 0.047 blur 0.405 cls_ 0.031 expr 0.032 gend 0.244 glas 0.018 pts4 0.199 pts5 0.226 pts6 0.274 race 0.005 regu 0.001 | anti 0.920 blur 0.958 cls 0.990 expr 0.939 gend 0.967 glas 0.991 race 0.986 
+[train] time:2020-03-16 08:36:04 22: E2.36[025] lr 9.7e-06f tota 3.050 age 0.206 angl 0.530 anti 0.583 beau 0.050 blur 0.384 cls_ 0.007 expr 0.021 gend 0.256 glas 0.007 pts4 0.240 pts5 0.209 pts6 0.255 race 0.012 regu 0.001 | anti 0.900 blur 0.953 cls 1.000 expr 0.972 gend 0.972 glas 0.995 race 0.967 
+[train] time:2020-03-16 08:38:51 22: E2.36[030] lr 9.7e-06f tota 2.892 age 0.195 angl 0.472 anti 0.562 beau 0.048 blur 0.404 cls_ 0.001 expr 0.011 gend 0.240 glas 0.004 pts4 0.170 pts5 0.223 pts6 0.269 race 0.012 regu 0.001 | anti 0.925 blur 0.948 cls 1.000 expr 0.991 gend 0.976 glas 1.000 race 0.967 
+[train] time:2020-03-16 08:41:37 22: E2.36[035] lr 9.7e-06f tota 2.983 age 0.209 angl 0.510 anti 0.584 beau 0.046 blur 0.383 cls_ 0.001 expr 0.021 gend 0.289 glas 0.017 pts4 0.167 pts5 0.202 pts6 0.249 race 0.012 regu 0.001 | anti 0.910 blur 0.953 cls 1.000 expr 0.972 gend 0.943 glas 0.995 race 0.967 
+[train] time:2020-03-16 08:43:49 22: E2.36[039] lr 9.7e-06f tota 3.108 age 0.200 angl 0.497 anti 0.575 beau 0.048 blur 0.390 cls_ 0.007 expr 0.021 gend 0.250 glas 0.016 pts4 0.267 pts5 0.264 pts6 0.276 race 0.010 regu 0.001 | anti 0.915 blur 0.960 cls 0.999 expr 0.970 gend 0.971 glas 0.994 race 0.967 
+angl 0.241 anti 0.777 beau 0.566 blur 0.054 cls_ 0.545 expr 0.400 gend 0.018 glas 0.285 pts4 0.026 pts5 0.528 pts6 0.401 race 0.254 regu 0.021 | anti 0.001 blur 0.928 cls 0.889 expr 0.912 gend 0.975 glas 0.947 race 0.992 
+total_p 510 total_n 1610
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.038603  clean: 0.961397  tpr: 0.000621  far: 0.000100
+cnt_p:   1  cnt_n:  1143  label: 0  blur: 0.109071  clean: 0.890929  tpr: 0.709938  far: 0.001961
+cnt_p:   2  cnt_n:  1163  label: 0  blur: 0.116459  clean: 0.883541  tpr: 0.722360  far: 0.005000
+cnt_p:   5  cnt_n:  1197  label: 0  blur: 0.136702  clean: 0.863298  tpr: 0.743478  far: 0.010000
+cnt_p:  25  cnt_n:  1293  label: 0  blur: 0.250930  clean: 0.749070  tpr: 0.803106  far: 0.050000
+cnt_p:  51  cnt_n:  1402  label: 0  blur: 0.419523  clean: 0.580477  tpr: 0.870807  far: 0.100000
+cnt_p: 102  cnt_n:  1496  label: 0  blur: 0.610436  clean: 0.389564  tpr: 0.929193  far: 0.200000
+cnt_p: 153  cnt_n:  1544  label: 0  blur: 0.715171  clean: 0.284829  tpr: 0.959006  far: 0.300000
+total_p 192 total_n 808
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.998366  noface: 0.001634  tpr(cnt_p/total_p): 0.005208  far(cnt_n/total_n): 0.000100
+cnt_p: 119  cnt_n:     1  label: 0  face: 0.319892  noface: 0.680108  tpr(cnt_p/total_p): 0.619792  far(cnt_n/total_n): 0.001238
+cnt_p: 173  cnt_n:     4  label: 0  face: 0.016354  noface: 0.983646  tpr(cnt_p/total_p): 0.901042  far(cnt_n/total_n): 0.005000
+cnt_p: 187  cnt_n:     8  label: 0  face: 0.004240  noface: 0.995760  tpr(cnt_p/total_p): 0.973958  far(cnt_n/total_n): 0.010000
+cnt_p: 188  cnt_n:    24  label: 0  face: 0.001370  noface: 0.998630  tpr(cnt_p/total_p): 0.979167  far(cnt_n/total_n): 0.030000
+cnt_p: 188  cnt_n:    40  label: 0  face: 0.000496  noface: 0.999504  tpr(cnt_p/total_p): 0.979167  far(cnt_n/total_n): 0.050000
+cnt_p: 189  cnt_n:    80  label: 0  face: 0.000118  noface: 0.999882  tpr(cnt_p/total_p): 0.984375  far(cnt_n/total_n): 0.100000
+cnt_p: 190  cnt_n:   161  label: 0  face: 0.000019  noface: 0.999981  tpr(cnt_p/total_p): 0.989583  far(cnt_n/total_n): 0.200000
+cnt_p: 190  cnt_n:   242  label: 0  face: 0.000007  noface: 0.999993  tpr(cnt_p/total_p): 0.989583  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   229  label: 1 live: 0.000000  anti: 1.000000  tpr: 0.170896  far: 0.001515
+cnt_p:   3  cnt_n:   521  label: 1 live: 0.000023  anti: 0.999977  tpr: 0.388806  far: 0.005000
+cnt_p:   6  cnt_n:   744  label: 1 live: 0.000243  anti: 0.999757  tpr: 0.555224  far: 0.010000
+cnt_p:  33  cnt_n:  1246  label: 1 live: 0.144191  anti: 0.855809  tpr: 0.929851  far: 0.050000
+cnt_p:  66  cnt_n:  1291  label: 1 live: 0.476708  anti: 0.523292  tpr: 0.963433  far: 0.100000
+cnt_p: 132  cnt_n:  1323  label: 1 live: 0.878699  anti: 0.121301  tpr: 0.987313  far: 0.200000
+cnt_p: 198  cnt_n:  1336  label: 1 live: 0.972733  anti: 0.027267  tpr: 0.997015  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   530  label: 1  phone: 0.000237 not_phone: 0.999763  tpr: 0.401515  far: 0.001471
+cnt_p:   3  cnt_n:   834  label: 1  phone: 0.002398 not_phone: 0.997602  tpr: 0.631818  far: 0.005000
+cnt_p:   6  cnt_n:   973  label: 1  phone: 0.008379 not_phone: 0.991621  tpr: 0.737121  far: 0.010000
+cnt_p:  34  cnt_n:  1232  label: 1  phone: 0.270053 not_phone: 0.729947  tpr: 0.933333  far: 0.050000
+cnt_p:  68  cnt_n:  1286  label: 1  phone: 0.776155 not_phone: 0.223845  tpr: 0.974242  far: 0.100000
+cnt_p: 136  cnt_n:  1304  label: 1  phone: 0.978246 not_phone: 0.021754  tpr: 0.987879  far: 0.200000
+cnt_p: 204  cnt_n:  1313  label: 1  phone: 0.995559 not_phone: 0.004441  tpr: 0.994697  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   941  label: 1  paper: 0.001164  not_paper: 0.998836  tpr: 0.702239  far: 0.001515
+cnt_p:   3  cnt_n:  1072  label: 1  paper: 0.006487  not_paper: 0.993513  tpr: 0.800000  far: 0.005000
+cnt_p:   6  cnt_n:  1139  label: 1  paper: 0.016691  not_paper: 0.983309  tpr: 0.850000  far: 0.010000
+cnt_p:  33  cnt_n:  1300  label: 1  paper: 0.363346  not_paper: 0.636654  tpr: 0.970149  far: 0.050000
+cnt_p:  66  cnt_n:  1317  label: 1  paper: 0.753764  not_paper: 0.246236  tpr: 0.982836  far: 0.100000
+cnt_p: 132  cnt_n:  1336  label: 1  paper: 0.956591  not_paper: 0.043409  tpr: 0.997015  far: 0.200000
+cnt_p: 198  cnt_n:  1337  label: 1  paper: 0.987807  not_paper: 0.012193  tpr: 0.997761  far: 0.300000
+[train] time:2020-03-16 08:45:45 23: E2.46[000] lr 9.7e-06f tota 2.820 age 0.186 angl 0.446 anti 0.584 beau 0.045 blur 0.356 cls_ 0.001 expr 0.015 gend 0.251 glas 0.003 pts4 0.154 pts5 0.226 pts6 0.256 race 0.005 regu 0.001 | anti 0.895 blur 0.986 cls 1.000 expr 0.981 gend 0.962 glas 1.000 race 0.986 
+[train] time:2020-03-16 08:48:30 23: E2.46[005] lr 9.7e-06f tota 3.021 age 0.218 angl 0.465 anti 0.575 beau 0.046 blur 0.398 cls_ 0.002 expr 0.014 gend 0.239 glas 0.018 pts4 0.311 pts5 0.196 pts6 0.246 race 0.006 regu 0.001 | anti 0.905 blur 0.958 cls 1.000 expr 0.981 gend 0.976 glas 0.991 race 0.976 
+[train] time:2020-03-16 08:51:16 23: E2.46[010] lr 9.7e-06f tota 2.960 age 0.199 angl 0.457 anti 0.594 beau 0.051 blur 0.404 cls_ 0.001 expr 0.026 gend 0.243 glas 0.011 pts4 0.164 pts5 0.228 pts6 0.268 race 0.015 regu 0.001 | anti 0.895 blur 0.948 cls 1.000 expr 0.962 gend 0.976 glas 0.995 race 0.943 
+[train] time:2020-03-16 08:54:02 23: E2.46[015] lr 9.7e-06f tota 2.967 age 0.181 angl 0.522 anti 0.596 beau 0.048 blur 0.379 cls_ 0.005 expr 0.014 gend 0.246 glas 0.003 pts4 0.163 pts5 0.246 pts6 0.261 race 0.007 regu 0.001 | anti 0.880 blur 0.958 cls 1.000 expr 0.981 gend 0.972 glas 1.000 race 0.976 
+[train] time:2020-03-16 08:56:47 23: E2.46[020] lr 9.7e-06f tota 2.919 age 0.219 angl 0.491 anti 0.583 beau 0.051 blur 0.377 cls_ 0.001 expr 0.023 gend 0.256 glas 0.007 pts4 0.161 pts5 0.194 pts6 0.254 race 0.009 regu 0.001 | anti 0.895 blur 0.976 cls 1.000 expr 0.976 gend 0.972 glas 1.000 race 0.976 
+[train] time:2020-03-16 08:59:32 23: E2.46[025] lr 9.7e-06f tota 3.549 age 0.199 angl 0.629 anti 0.585 beau 0.045 blur 0.395 cls_ 0.003 expr 0.012 gend 0.277 glas 0.015 pts4 0.550 pts5 0.254 pts6 0.279 race 0.012 regu 0.001 | anti 0.925 blur 0.962 cls 1.000 expr 0.981 gend 0.962 glas 0.995 race 0.958 
+[train] time:2020-03-16 09:02:16 23: E2.46[030] lr 9.7e-06f tota 3.403 age 0.220 angl 0.544 anti 0.568 beau 0.050 blur 0.393 cls_ 0.007 expr 0.034 gend 0.224 glas 0.006 pts4 0.546 pts5 0.248 pts6 0.269 race 0.010 regu 0.001 | anti 0.910 blur 0.953 cls 1.000 expr 0.967 gend 0.986 glas 1.000 race 0.972 
+[train] time:2020-03-16 09:05:02 23: E2.46[035] lr 9.7e-06f tota 2.830 age 0.179 angl 0.475 anti 0.548 beau 0.053 blur 0.359 cls_ 0.001 expr 0.018 gend 0.245 glas 0.004 pts4 0.168 pts5 0.231 pts6 0.265 race 0.008 regu 0.001 | anti 0.950 blur 0.976 cls 1.000 expr 0.972 gend 0.976 glas 1.000 race 0.967 
+[train] time:2020-03-16 09:07:14 23: E2.46[039] lr 9.7e-06f tota 3.083 age 0.199 angl 0.501 anti 0.576 beau 0.048 blur 0.385 cls_ 0.004 expr 0.020 gend 0.247 glas 0.015 pts4 0.277 pts5 0.243 pts6 0.271 race 0.009 regu 0.001 | anti 0.914 blur 0.963 cls 0.999 expr 0.974 gend 0.973 glas 0.996 race 0.969 
+angl 0.238 anti 0.757 beau 0.570 blur 0.053 cls_ 0.526 expr 0.388 gend 0.016 glas 0.295 pts4 0.028 pts5 0.469 pts6 0.435 race 0.260 regu 0.020 | anti 0.001 blur 0.914 cls 0.898 expr 0.931 gend 0.979 glas 0.939 race 0.991 
+total_p 516 total_n 1604
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.036807  clean: 0.963193  tpr: 0.000623  far: 0.000100
+cnt_p:   1  cnt_n:  1007  label: 0  blur: 0.064109  clean: 0.935891  tpr: 0.627805  far: 0.001938
+cnt_p:   2  cnt_n:  1110  label: 0  blur: 0.079697  clean: 0.920303  tpr: 0.692020  far: 0.005000
+cnt_p:   5  cnt_n:  1127  label: 0  blur: 0.084591  clean: 0.915409  tpr: 0.702618  far: 0.010000
+cnt_p:  25  cnt_n:  1319  label: 0  blur: 0.182971  clean: 0.817029  tpr: 0.822319  far: 0.050000
+cnt_p:  51  cnt_n:  1397  label: 0  blur: 0.303767  clean: 0.696233  tpr: 0.870948  far: 0.100000
+cnt_p: 103  cnt_n:  1492  label: 0  blur: 0.487461  clean: 0.512539  tpr: 0.930175  far: 0.200000
+cnt_p: 154  cnt_n:  1538  label: 0  blur: 0.599005  clean: 0.400995  tpr: 0.958853  far: 0.300000
+total_p 172 total_n 828
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.999242  noface: 0.000758  tpr(cnt_p/total_p): 0.005814  far(cnt_n/total_n): 0.000100
+cnt_p:  96  cnt_n:     1  label: 0  face: 0.592617  noface: 0.407383  tpr(cnt_p/total_p): 0.558140  far(cnt_n/total_n): 0.001208
+cnt_p: 136  cnt_n:     4  label: 0  face: 0.080402  noface: 0.919598  tpr(cnt_p/total_p): 0.790698  far(cnt_n/total_n): 0.005000
+cnt_p: 148  cnt_n:     8  label: 0  face: 0.015681  noface: 0.984319  tpr(cnt_p/total_p): 0.860465  far(cnt_n/total_n): 0.010000
+cnt_p: 162  cnt_n:    24  label: 0  face: 0.001384  noface: 0.998616  tpr(cnt_p/total_p): 0.941860  far(cnt_n/total_n): 0.030000
+cnt_p: 164  cnt_n:    41  label: 0  face: 0.000685  noface: 0.999315  tpr(cnt_p/total_p): 0.953488  far(cnt_n/total_n): 0.050000
+cnt_p: 169  cnt_n:    82  label: 0  face: 0.000137  noface: 0.999863  tpr(cnt_p/total_p): 0.982558  far(cnt_n/total_n): 0.100000
+cnt_p: 170  cnt_n:   165  label: 0  face: 0.000032  noface: 0.999968  tpr(cnt_p/total_p): 0.988372  far(cnt_n/total_n): 0.200000
+cnt_p: 171  cnt_n:   248  label: 0  face: 0.000010  noface: 0.999990  tpr(cnt_p/total_p): 0.994186  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   323  label: 1 live: 0.000010  anti: 0.999990  tpr: 0.241045  far: 0.001515
+cnt_p:   3  cnt_n:   689  label: 1 live: 0.000468  anti: 0.999532  tpr: 0.514179  far: 0.005000
+cnt_p:   6  cnt_n:  1007  label: 1 live: 0.009200  anti: 0.990800  tpr: 0.751493  far: 0.010000
+cnt_p:  33  cnt_n:  1242  label: 1 live: 0.259350  anti: 0.740650  tpr: 0.926866  far: 0.050000
+cnt_p:  66  cnt_n:  1301  label: 1 live: 0.725803  anti: 0.274197  tpr: 0.970896  far: 0.100000
+cnt_p: 132  cnt_n:  1326  label: 1 live: 0.965235  anti: 0.034765  tpr: 0.989552  far: 0.200000
+cnt_p: 198  cnt_n:  1335  label: 1 live: 0.990700  anti: 0.009300  tpr: 0.996269  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   613  label: 1  phone: 0.000252 not_phone: 0.999748  tpr: 0.464394  far: 0.001471
+cnt_p:   3  cnt_n:   811  label: 1  phone: 0.001093 not_phone: 0.998907  tpr: 0.614394  far: 0.005000
+cnt_p:   6  cnt_n:   960  label: 1  phone: 0.003613 not_phone: 0.996387  tpr: 0.727273  far: 0.010000
+cnt_p:  34  cnt_n:  1237  label: 1  phone: 0.155884 not_phone: 0.844116  tpr: 0.937121  far: 0.050000
+cnt_p:  68  cnt_n:  1266  label: 1  phone: 0.426471 not_phone: 0.573529  tpr: 0.959091  far: 0.100000
+cnt_p: 136  cnt_n:  1303  label: 1  phone: 0.903579 not_phone: 0.096421  tpr: 0.987121  far: 0.200000
+cnt_p: 204  cnt_n:  1313  label: 1  phone: 0.988122 not_phone: 0.011878  tpr: 0.994697  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   686  label: 1  paper: 0.000145  not_paper: 0.999855  tpr: 0.511940  far: 0.001515
+cnt_p:   3  cnt_n:   991  label: 1  paper: 0.002997  not_paper: 0.997003  tpr: 0.739552  far: 0.005000
+cnt_p:   6  cnt_n:  1098  label: 1  paper: 0.008971  not_paper: 0.991029  tpr: 0.819403  far: 0.010000
+cnt_p:  33  cnt_n:  1273  label: 1  paper: 0.256273  not_paper: 0.743727  tpr: 0.950000  far: 0.050000
+cnt_p:  66  cnt_n:  1312  label: 1  paper: 0.682636  not_paper: 0.317364  tpr: 0.979104  far: 0.100000
+cnt_p: 132  cnt_n:  1333  label: 1  paper: 0.958146  not_paper: 0.041854  tpr: 0.994776  far: 0.200000
+cnt_p: 198  cnt_n:  1336  label: 1  paper: 0.984356  not_paper: 0.015644  tpr: 0.997015  far: 0.300000
+[train] time:2020-03-16 09:09:11 24: E2.56[000] lr 9.7e-06f tota 3.001 age 0.186 angl 0.483 anti 0.589 beau 0.046 blur 0.443 cls_ 0.002 expr 0.020 gend 0.243 glas 0.013 pts4 0.179 pts5 0.224 pts6 0.272 race 0.006 regu 0.001 | anti 0.900 blur 0.934 cls 1.000 expr 0.972 gend 0.981 glas 0.991 race 0.981 
+[train] time:2020-03-16 09:11:55 24: E2.56[005] lr 9.7e-06f tota 2.915 age 0.195 angl 0.552 anti 0.553 beau 0.049 blur 0.387 cls_ 0.002 expr 0.025 gend 0.260 glas 0.004 pts4 0.164 pts5 0.187 pts6 0.249 race 0.011 regu 0.001 | anti 0.945 blur 0.972 cls 1.000 expr 0.962 gend 0.958 glas 1.000 race 0.972 
+[train] time:2020-03-16 09:14:40 24: E2.56[010] lr 9.7e-06f tota 3.077 age 0.207 angl 0.526 anti 0.585 beau 0.046 blur 0.371 cls_ 0.006 expr 0.026 gend 0.246 glas 0.007 pts4 0.177 pts5 0.290 pts6 0.291 race 0.008 regu 0.001 | anti 0.900 blur 0.976 cls 1.000 expr 0.972 gend 0.967 glas 0.995 race 0.972 
+[train] time:2020-03-16 09:17:24 24: E2.56[015] lr 9.7e-06f tota 3.103 age 0.188 angl 0.514 anti 0.557 beau 0.048 blur 0.379 cls_ 0.002 expr 0.037 gend 0.247 glas 0.008 pts4 0.269 pts5 0.268 pts6 0.296 race 0.011 regu 0.001 | anti 0.935 blur 0.962 cls 1.000 expr 0.953 gend 0.972 glas 1.000 race 0.967 
+[train] time:2020-03-16 09:20:09 24: E2.56[020] lr 9.0e-06f tota 3.035 age 0.228 angl 0.480 anti 0.581 beau 0.055 blur 0.380 cls_ 0.000 expr 0.035 gend 0.253 glas 0.016 pts4 0.188 pts5 0.273 pts6 0.248 race 0.007 regu 0.001 | anti 0.915 blur 0.967 cls 1.000 expr 0.953 gend 0.962 glas 0.995 race 0.967 
+[train] time:2020-03-16 09:22:52 24: E2.56[025] lr 9.0e-06f tota 3.019 age 0.210 angl 0.483 anti 0.570 beau 0.045 blur 0.432 cls_ 0.001 expr 0.017 gend 0.253 glas 0.011 pts4 0.182 pts5 0.253 pts6 0.264 race 0.015 regu 0.001 | anti 0.925 blur 0.943 cls 1.000 expr 0.981 gend 0.972 glas 0.991 race 0.953 
+[train] time:2020-03-16 09:25:38 24: E2.56[030] lr 9.0e-06f tota 2.809 age 0.194 angl 0.429 anti 0.563 beau 0.052 blur 0.390 cls_ 0.003 expr 0.014 gend 0.233 glas 0.007 pts4 0.156 pts5 0.226 pts6 0.249 race 0.010 regu 0.001 | anti 0.925 blur 0.967 cls 1.000 expr 0.991 gend 0.981 glas 1.000 race 0.967 
+[train] time:2020-03-16 09:28:26 24: E2.56[035] lr 9.0e-06f tota 2.875 age 0.179 angl 0.467 anti 0.566 beau 0.051 blur 0.377 cls_ 0.002 expr 0.023 gend 0.236 glas 0.007 pts4 0.166 pts5 0.235 pts6 0.272 race 0.010 regu 0.001 | anti 0.925 blur 0.972 cls 1.000 expr 0.976 gend 0.991 glas 0.995 race 0.958 
+[train] time:2020-03-16 09:30:38 24: E2.56[039] lr 9.0e-06f tota 3.112 age 0.203 angl 0.503 anti 0.572 beau 0.049 blur 0.388 cls_ 0.004 expr 0.022 gend 0.246 glas 0.016 pts4 0.276 pts5 0.260 pts6 0.277 race 0.010 regu 0.001 | anti 0.919 blur 0.965 cls 0.999 expr 0.970 gend 0.974 glas 0.995 race 0.969 
+angl 0.227 anti 0.630 beau 0.575 blur 0.050 cls_ 0.499 expr 0.480 gend 0.007 glas 0.291 pts4 0.040 pts5 0.221 pts6 0.354 race 0.232 regu 0.004 | anti 0.001 blur 0.915 cls 0.917 expr 0.901 gend 0.992 glas 0.937 race 0.985 
+total_p 570 total_n 1550
+cnt_p:   0  cnt_n:     1  label: 1  blur: 0.034832  clean: 0.965168  tpr: 0.000645  far: 0.000100
+cnt_p:   1  cnt_n:   422  label: 0  blur: 0.049748  clean: 0.950252  tpr: 0.272258  far: 0.001754
+cnt_p:   2  cnt_n:  1033  label: 0  blur: 0.064394  clean: 0.935606  tpr: 0.666452  far: 0.005000
+cnt_p:   5  cnt_n:  1133  label: 0  blur: 0.082630  clean: 0.917370  tpr: 0.730968  far: 0.010000
+cnt_p:  28  cnt_n:  1304  label: 0  blur: 0.171283  clean: 0.828717  tpr: 0.841290  far: 0.050000
+cnt_p:  57  cnt_n:  1405  label: 0  blur: 0.286388  clean: 0.713612  tpr: 0.906452  far: 0.100000
+cnt_p: 114  cnt_n:  1492  label: 0  blur: 0.455710  clean: 0.544290  tpr: 0.962581  far: 0.200000
+cnt_p: 171  cnt_n:  1526  label: 0  blur: 0.600428  clean: 0.399572  tpr: 0.984516  far: 0.300000
+total_p 191 total_n 809
+cnt_p:   1  cnt_n:     0  label: 1  face: 0.998924  noface: 0.001076  tpr(cnt_p/total_p): 0.005236  far(cnt_n/total_n): 0.001236
+cnt_p: 164  cnt_n:     4  label: 0  face: 0.014095  noface: 0.985905  tpr(cnt_p/total_p): 0.858639  far(cnt_n/total_n): 0.005000
+cnt_p: 177  cnt_n:     8  label: 0  face: 0.003617  noface: 0.996383  tpr(cnt_p/total_p): 0.926702  far(cnt_n/total_n): 0.010000
+cnt_p: 177  cnt_n:    24  label: 0  face: 0.001186  noface: 0.998814  tpr(cnt_p/total_p): 0.926702  far(cnt_n/total_n): 0.030000
+cnt_p: 181  cnt_n:    40  label: 0  face: 0.000362  noface: 0.999638  tpr(cnt_p/total_p): 0.947644  far(cnt_n/total_n): 0.050000
+cnt_p: 187  cnt_n:    80  label: 0  face: 0.000079  noface: 0.999921  tpr(cnt_p/total_p): 0.979058  far(cnt_n/total_n): 0.100000
+cnt_p: 188  cnt_n:   161  label: 0  face: 0.000019  noface: 0.999981  tpr(cnt_p/total_p): 0.984293  far(cnt_n/total_n): 0.200000
+cnt_p: 190  cnt_n:   242  label: 0  face: 0.000006  noface: 0.999994  tpr(cnt_p/total_p): 0.994764  far(cnt_n/total_n): 0.300000
+antispoof-live: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 0 live: 0.000000  anti: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:   191  label: 1 live: 0.000001  anti: 0.999999  tpr: 0.142537  far: 0.001515
+cnt_p:   3  cnt_n:   719  label: 1 live: 0.000595  anti: 0.999405  tpr: 0.536567  far: 0.005000
+cnt_p:   6  cnt_n:   999  label: 1 live: 0.010771  anti: 0.989229  tpr: 0.745522  far: 0.010000
+cnt_p:  33  cnt_n:  1230  label: 1 live: 0.319603  anti: 0.680397  tpr: 0.917910  far: 0.050000
+cnt_p:  66  cnt_n:  1291  label: 1 live: 0.768286  anti: 0.231714  tpr: 0.963433  far: 0.100000
+cnt_p: 132  cnt_n:  1327  label: 1 live: 0.960780  anti: 0.039220  tpr: 0.990299  far: 0.200000
+cnt_p: 198  cnt_n:  1334  label: 1 live: 0.990659  anti: 0.009341  tpr: 0.995522  far: 0.300000
+antispoof-phone: total_p 680 total_n 1320
+cnt_p:   0  cnt_n:     1  label: 0  phone: 0.000000 not_phone: 1.000000  tpr: 0.000758  far: 0.000100
+cnt_p:   1  cnt_n:   586  label: 1  phone: 0.000289 not_phone: 0.999711  tpr: 0.443939  far: 0.001471
+cnt_p:   3  cnt_n:   788  label: 1  phone: 0.001193 not_phone: 0.998807  tpr: 0.596970  far: 0.005000
+cnt_p:   6  cnt_n:   969  label: 1  phone: 0.005316 not_phone: 0.994684  tpr: 0.734091  far: 0.010000
+cnt_p:  34  cnt_n:  1213  label: 1  phone: 0.127189 not_phone: 0.872811  tpr: 0.918939  far: 0.050000
+cnt_p:  68  cnt_n:  1260  label: 1  phone: 0.491945 not_phone: 0.508055  tpr: 0.954545  far: 0.100000
+cnt_p: 136  cnt_n:  1297  label: 1  phone: 0.927247 not_phone: 0.072753  tpr: 0.982576  far: 0.200000
+cnt_p: 204  cnt_n:  1314  label: 1  phone: 0.990851 not_phone: 0.009149  tpr: 0.995455  far: 0.300000
+antispoof-paper: total_p 660 total_n 1340
+cnt_p:   0  cnt_n:     1  label: 2  paper: 0.000000  not_paper: 1.000000  tpr: 0.000746  far: 0.000100
+cnt_p:   1  cnt_n:  1070  label: 1  paper: 0.003554  not_paper: 0.996446  tpr: 0.798507  far: 0.001515
+cnt_p:   3  cnt_n:  1141  label: 1  paper: 0.009682  not_paper: 0.990318  tpr: 0.851493  far: 0.005000
+cnt_p:   6  cnt_n:  1171  label: 1  paper: 0.013739  not_paper: 0.986261  tpr: 0.873881  far: 0.010000
+cnt_p:  33  cnt_n:  1276  label: 1  paper: 0.110316  not_paper: 0.889684  tpr: 0.952239  far: 0.050000
+cnt_p:  66  cnt_n:  1318  label: 1  paper: 0.540590  not_paper: 0.459410  tpr: 0.983582  far: 0.100000
+cnt_p: 132  cnt_n:  1333  label: 1  paper: 0.889285  not_paper: 0.110715  tpr: 0.994776  far: 0.200000
+cnt_p: 198  cnt_n:  1337  label: 1  paper: 0.967204  not_paper: 0.032796  tpr: 0.997761  far: 0.300000
+[train] time:2020-03-16 09:32:34 25: E2.67[000] lr 9.0e-06f tota 2.953 age 0.186 angl 0.486 anti 0.574 beau 0.046 blur 0.448 cls_ 0.000 expr 0.014 gend 0.247 glas 0.015 pts4 0.167 pts5 0.214 pts6 0.264 race 0.005 regu 0.001 | anti 0.920 blur 0.943 cls 1.000 expr 0.981 gend 0.967 glas 0.995 race 0.986 
+[train] time:2020-03-16 09:35:20 25: E2.67[005] lr 9.0e-06f tota 2.941 age 0.189 angl 0.554 anti 0.579 beau 0.049 blur 0.370 cls_ 0.002 expr 0.029 gend 0.262 glas 0.018 pts4 0.169 pts5 0.181 pts6 0.238 race 0.011 regu 0.001 | anti 0.910 blur 0.976 cls 1.000 expr 0.967 gend 0.948 glas 0.995 race 0.972 
+[train] time:2020-03-16 09:38:06 25: E2.67[010] lr 9.0e-06f tota 2.847 age 0.224 angl 0.479 anti 0.567 beau 0.044 blur 0.358 cls_ 0.001 expr 0.018 gend 0.227 glas 0.008 pts4 0.169 pts5 0.205 pts6 0.255 race 0.008 regu 0.001 | anti 0.920 blur 0.986 cls 1.000 expr 0.976 gend 0.981 glas 0.995 race 0.976 
+[train] time:2020-03-16 09:40:53 25: E2.67[015] lr 9.0e-06f tota 3.088 age 0.217 angl 0.488 anti 0.591 beau 0.045 blur 0.374 cls_ 0.001 expr 0.017 gend 0.267 glas 0.018 pts4 0.180 pts5 0.305 pts6 0.275 race 0.017 regu 0.001 | anti 0.900 blur 0.967 cls 1.000 expr 0.981 gend 0.962 glas 0.991 race 0.953 
